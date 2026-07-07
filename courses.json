@@ -39,5 +39,30 @@
         "startSlide": 82
       }
     ]
+  },
+  "2": {
+    "id": "an_introduction_to_google_notebooklm",
+    "title": "An Introduction to Google NotebookLM",
+    "totalSlides": 6,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/2-An-Introduction-to-Google-NotebookLM.pdf",
+    "firstMessage": "Welcome to An Introduction to Google NotebookLM. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Welcome (slides 1-1)",
+        "startSlide": 1
+      },
+      {
+        "label": "Core Concepts and Tools (slides 2-3)",
+        "startSlide": 2
+      },
+      {
+        "label": "Quality and Controls (slides 4-5)",
+        "startSlide": 4
+      },
+      {
+        "label": "Practice and Close (slides 6-6)",
+        "startSlide": 6
+      }
+    ]
   }
 }
