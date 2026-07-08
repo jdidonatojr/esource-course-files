@@ -73,24 +73,28 @@
     "firstMessage": "Welcome to An Introduction to NotebookLM for Beginners. Are you ready to begin?",
     "sections": [
       {
-        "label": "Introduction and Context (slides 1-4)",
+        "label": "Introduction and Orientation (slides 1-7)",
         "startSlide": 1
       },
       {
-        "label": "Getting Started with NotebookLM (slides 5-7)",
-        "startSlide": 5
-      },
-      {
-        "label": "Core Workflow and Q&A (slides 8-13)",
+        "label": "Core Workflow Fundamentals (slides 8-13)",
         "startSlide": 8
       },
       {
-        "label": "Video and Audio Generation (slides 14-20)",
+        "label": "Video Overview Studio (slides 14-18)",
         "startSlide": 14
       },
       {
-        "label": "Advanced Features and Application (slides 21-24)",
+        "label": "Audio Overview Studio (slides 19-20)",
+        "startSlide": 19
+      },
+      {
+        "label": "Additional Outputs and Applications (slides 21-22)",
         "startSlide": 21
+      },
+      {
+        "label": "Governance and Adoption (slides 23-24)",
+        "startSlide": 23
       }
     ]
   }
