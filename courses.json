@@ -43,25 +43,29 @@
   "2": {
     "id": "an_introduction_to_google_notebooklm",
     "title": "An Introduction to Google NotebookLM",
-    "totalSlides": 6,
+    "totalSlides": 36,
     "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/2-An-Introduction-to-Google-NotebookLM.pdf",
     "firstMessage": "Welcome to An Introduction to Google NotebookLM. Are you ready to begin?",
     "sections": [
       {
-        "label": "Introduction and Welcome (slides 1-1)",
+        "label": "Introduction and Foundations (slides 1-8)",
         "startSlide": 1
       },
       {
-        "label": "Core Concepts and Tools (slides 2-3)",
-        "startSlide": 2
+        "label": "Getting Started with NotebookLM (slides 9-16)",
+        "startSlide": 9
       },
       {
-        "label": "Quality and Controls (slides 4-5)",
-        "startSlide": 4
+        "label": "Creating and Sharing Artifacts (slides 17-25)",
+        "startSlide": 17
       },
       {
-        "label": "Practice and Close (slides 6-6)",
-        "startSlide": 6
+        "label": "Video Overviews and Advanced Features (slides 26-33)",
+        "startSlide": 26
+      },
+      {
+        "label": "Implementation and Capstone (slides 34-36)",
+        "startSlide": 34
       }
     ]
   },
