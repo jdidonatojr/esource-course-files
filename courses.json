@@ -101,5 +101,38 @@
         "startSlide": 23
       }
     ]
+  },
+  "4": {
+    "id": "creating_unique_value_propositions_uvps_for_ctfs_prospects",
+    "title": "Creating Unique Value Propositions (UVPs) for CTFS Prospects",
+    "totalSlides": 36,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/4-Creating-Unique-Value-Propositions-UVPs-for-CTFS-Prospects.pdf",
+    "firstMessage": "Welcome to Creating Unique Value Propositions (UVPs) for CTFS Prospects. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Foundation and Concept (slides 1-7)",
+        "startSlide": 1
+      },
+      {
+        "label": "UVP Structure and Anatomy (slides 8-12)",
+        "startSlide": 8
+      },
+      {
+        "label": "Persona-Driven Targeting (slides 13-18)",
+        "startSlide": 13
+      },
+      {
+        "label": "Discovery Planning (slides 19-23)",
+        "startSlide": 19
+      },
+      {
+        "label": "Financial Quantification (slides 24-32)",
+        "startSlide": 24
+      },
+      {
+        "label": "Messaging and Objection Handling (slides 33-36)",
+        "startSlide": 33
+      }
+    ]
   }
 }
