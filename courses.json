@@ -134,5 +134,38 @@
         "startSlide": 33
       }
     ]
+  },
+  "5": {
+    "id": "using_uvps_to_win_ctfs_deals",
+    "title": "Using UVPs to Win CTFS Deals",
+    "totalSlides": 32,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/5-Using-UVPs-to-Win-CTFS-Deals.pdf",
+    "firstMessage": "Welcome to Using UVPs to Win CTFS Deals. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Foundations (slides 1-6)",
+        "startSlide": 1
+      },
+      {
+        "label": "CTFS Ecosystem and Personas (slides 7-11)",
+        "startSlide": 7
+      },
+      {
+        "label": "UVP Canvas and Workflow (slides 12-20)",
+        "startSlide": 12
+      },
+      {
+        "label": "Persona-Specific UVPs (slides 21-28)",
+        "startSlide": 21
+      },
+      {
+        "label": "Deployment and Quality (slides 29-31)",
+        "startSlide": 29
+      },
+      {
+        "label": "Course Wrap-Up (slide 32)",
+        "startSlide": 32
+      }
+    ]
   }
 }
