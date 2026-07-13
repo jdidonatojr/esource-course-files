@@ -279,27 +279,23 @@
     "firstMessage": "Welcome to An Introduction to the Clinical Trial Financial Suite. Are you ready to begin?",
     "sections": [
       {
-        "label": "Introduction and Core Promise (slides 1-5)",
+        "label": "Introduction and Context (slides 1-5)",
         "startSlide": 1
       },
       {
-        "label": "Foundational Concepts (slides 6-7)",
+        "label": "Core Concepts and Terminology (slides 6-12)",
         "startSlide": 6
       },
       {
-        "label": "Ecosystem and Workflow (slides 8-13)",
-        "startSlide": 8
+        "label": "Workflow and Capabilities (slides 13-19)",
+        "startSlide": 13
       },
       {
-        "label": "Capabilities and Solutions (slides 14-19)",
-        "startSlide": 14
-      },
-      {
-        "label": "Stakeholders and Discovery (slides 20-25)",
+        "label": "Stakeholder Discovery and Objections (slides 20-25)",
         "startSlide": 20
       },
       {
-        "label": "Outcomes and Implementation (slides 26-31)",
+        "label": "Value and Implementation (slides 26-31)",
         "startSlide": 26
       },
       {
