@@ -200,5 +200,34 @@
         "startSlide": 32
       }
     ]
+  },
+  "7": {
+    "id": "using_uvps_to_close_ctfs_deals",
+    "title": "Using UVPs to Close CTFS Deals",
+    "totalSlides": 32,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/7-Using-UVPs-to-Close-CTFS-Deals.pdf",
+    "firstMessage": "Welcome to Using UVPs to Close CTFS Deals. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "UVP Fundamentals (slides 1-6)",
+        "startSlide": 1
+      },
+      {
+        "label": "CTFS Components and Pains (slides 7-11)",
+        "startSlide": 7
+      },
+      {
+        "label": "Quantification and Canvas (slides 12-20)",
+        "startSlide": 12
+      },
+      {
+        "label": "Persona-Specific UVPs (slides 21-28)",
+        "startSlide": 21
+      },
+      {
+        "label": "UVP Application and Closing (slides 29-32)",
+        "startSlide": 29
+      }
+    ]
   }
 }
