@@ -303,5 +303,34 @@
         "startSlide": 32
       }
     ]
+  },
+  "10": {
+    "id": "how_to_use_notebooklm_by_google",
+    "title": "How to Use NotebookLM by Google",
+    "totalSlides": 17,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/10-How-to-Use-NotebookLM-by-Google.pdf",
+    "firstMessage": "Welcome to How to Use NotebookLM by Google. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Overview (slides 1-4)",
+        "startSlide": 1
+      },
+      {
+        "label": "Guardrails and Best Practices (slides 5-9)",
+        "startSlide": 5
+      },
+      {
+        "label": "Creating Content with Studio (slides 10-12)",
+        "startSlide": 10
+      },
+      {
+        "label": "Sharing and Organization (slides 13-14)",
+        "startSlide": 13
+      },
+      {
+        "label": "Workflow Integration (slides 15-17)",
+        "startSlide": 15
+      }
+    ]
   }
 }
