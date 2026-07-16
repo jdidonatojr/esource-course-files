@@ -2,7 +2,8 @@
   "brand": {
     "title": "ESource AI Group",
     "subtitle": "Knowledge Check — How to Use NotebookLM by Google",
-    "color": "#1a73e8"
+    "color": "#1a73e8",
+    "logo": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/esource-ai-group-logo.png"
   },
   "questions": [
     {
