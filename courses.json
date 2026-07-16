@@ -316,7 +316,7 @@
         "startSlide": 1
       },
       {
-        "label": "Quality and Safety Foundations (slides 5-5)",
+        "label": "Safety and Quality Standards (slides 5-5)",
         "startSlide": 5
       },
       {
@@ -324,24 +324,20 @@
         "startSlide": 6
       },
       {
-        "label": "Quality and Sharing (slides 9-12)",
+        "label": "Quality Review Process (slides 9-9)",
         "startSlide": 9
       },
       {
-        "label": "Organization and Sustainability (slides 13-13)",
-        "startSlide": 13
+        "label": "Hands-On Practice and Repurposing (slides 10-14)",
+        "startSlide": 10
       },
       {
-        "label": "Hands-On Practice and Sharing (slides 14-14)",
-        "startSlide": 14
-      },
-      {
-        "label": "Adoption and Readiness (slides 15-16)",
+        "label": "Workplace Adoption (slides 15-15)",
         "startSlide": 15
       },
       {
-        "label": "Conclusion and Review (slides 17-17)",
-        "startSlide": 17
+        "label": "Readiness Check and Completion (slides 16-17)",
+        "startSlide": 16
       }
     ]
   }
