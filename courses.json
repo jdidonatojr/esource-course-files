@@ -316,23 +316,31 @@
         "startSlide": 1
       },
       {
-        "label": "Safety and Quality Foundations (slides 5-5)",
+        "label": "Quality and Safety Foundations (slides 5-5)",
         "startSlide": 5
       },
       {
-        "label": "Core Studio Tools (slides 6-9)",
+        "label": "Core Studio Tools (slides 6-8)",
         "startSlide": 6
       },
       {
-        "label": "Hands-On Practice and Repurposing (slides 10-14)",
-        "startSlide": 10
+        "label": "Quality and Sharing (slides 9-12)",
+        "startSlide": 9
       },
       {
-        "label": "Adoption and Sustainability (slides 15-16)",
+        "label": "Organization and Sustainability (slides 13-13)",
+        "startSlide": 13
+      },
+      {
+        "label": "Hands-On Practice and Sharing (slides 14-14)",
+        "startSlide": 14
+      },
+      {
+        "label": "Adoption and Readiness (slides 15-16)",
         "startSlide": 15
       },
       {
-        "label": "Course Completion (slide 17)",
+        "label": "Conclusion and Review (slides 17-17)",
         "startSlide": 17
       }
     ]
