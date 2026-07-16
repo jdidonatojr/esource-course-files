@@ -312,24 +312,28 @@
     "firstMessage": "Welcome to How to Use NotebookLM by Google. Are you ready to begin?",
     "sections": [
       {
-        "label": "Introduction and Overview (slides 1-4)",
+        "label": "Introduction and Setup (slides 1-4)",
         "startSlide": 1
       },
       {
-        "label": "Guardrails and Best Practices (slides 5-9)",
+        "label": "Safety and Quality Foundations (slides 5-5)",
         "startSlide": 5
       },
       {
-        "label": "Creating Content with Studio (slides 10-12)",
+        "label": "Core Studio Tools (slides 6-9)",
+        "startSlide": 6
+      },
+      {
+        "label": "Hands-On Practice and Repurposing (slides 10-14)",
         "startSlide": 10
       },
       {
-        "label": "Sharing and Organization (slides 13-14)",
-        "startSlide": 13
+        "label": "Adoption and Sustainability (slides 15-16)",
+        "startSlide": 15
       },
       {
-        "label": "Workflow Integration (slides 15-17)",
-        "startSlide": 15
+        "label": "Course Completion (slide 17)",
+        "startSlide": 17
       }
     ]
   }
