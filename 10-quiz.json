@@ -1,0 +1,139 @@
+{
+  "brand": {
+    "title": "ESource AI Group",
+    "subtitle": "Knowledge Check — How to Use NotebookLM by Google",
+    "color": "#1a73e8"
+  },
+  "questions": [
+    {
+      "question": "What is NotebookLM best described as?",
+      "choices": [
+        "A video editing tool",
+        "A source-grounded AI workspace",
+        "A file storage service",
+        "A general chatbot"
+      ],
+      "answer": 1,
+      "slide": 2,
+      "feedback_correct": "Right — NotebookLM is a source-grounded workspace. The quality of its output depends on the sources you give it.",
+      "feedback_incorrect": "NotebookLM is a source-grounded AI workspace — unlike a general chatbot, it works from the sources YOU give it, and its output quality depends on those sources."
+    },
+    {
+      "question": "Where do you go to create outputs like Video Overviews, Audio Overviews, Slide Decks, and Infographics?",
+      "choices": [
+        "The source panel",
+        "The settings menu",
+        "Studio",
+        "The sharing screen"
+      ],
+      "answer": 2,
+      "slide": 2,
+      "feedback_correct": "Correct — Studio is where all the output tools live.",
+      "feedback_incorrect": "The source panel holds your materials, but Studio is where you create outputs — Video Overviews, Audio Overviews, Slide Decks, and Infographics all live there."
+    },
+    {
+      "question": "What do citations in NotebookLM help you do?",
+      "choices": [
+        "Make the output longer",
+        "Verify where information came from",
+        "Share your notebook with others",
+        "Speed up generation"
+      ],
+      "answer": 1,
+      "slide": 2,
+      "feedback_correct": "Right — citations point back to the source so you can check facts before using or sharing.",
+      "feedback_incorrect": "Citations are your fact-checking trail. They show exactly where in the source each claim came from, so you can verify before you share."
+    },
+    {
+      "question": "What was the first artifact you created in this course, and from what kind of source?",
+      "choices": [
+        "An infographic from a PDF",
+        "A slide deck from meeting notes",
+        "A video overview from a website URL",
+        "An audio overview from a spreadsheet"
+      ],
+      "answer": 2,
+      "slide": 3,
+      "feedback_correct": "Correct — the first exercise was: add a website URL as a source, open Studio, and generate a Video Overview.",
+      "feedback_incorrect": "Think back to the first hands-on exercise: we added a website URL as a source, opened Studio, and generated a Video Overview. Source in, artifact out, citation check."
+    },
+    {
+      "question": "Which type of source material works BEST for an infographic?",
+      "choices": [
+        "A long personal essay",
+        "Steps, comparisons, statistics, or timelines",
+        "A single photograph",
+        "An audio recording"
+      ],
+      "answer": 1,
+      "slide": 8,
+      "feedback_correct": "Right — infographics shine when the source has structure: steps, stats, comparisons, frameworks, or processes.",
+      "feedback_incorrect": "Infographics need structure to work with. Steps, comparisons, statistics, frameworks, and timelines translate into visuals; a long essay or a photo doesn't."
+    },
+    {
+      "question": "Your generated output has become noisy and unfocused. According to the course, what should you try FIRST?",
+      "choices": [
+        "Add more sources for context",
+        "Reduce the number of sources and regenerate",
+        "Switch to a different output type",
+        "Share it and fix it later"
+      ],
+      "answer": 1,
+      "slide": 13,
+      "feedback_correct": "Correct — too many unrelated sources blur the output. Fewer, stronger sources bring back the focus.",
+      "feedback_incorrect": "More sources usually make noise worse, not better. The course rule: when output drifts or gets noisy, REDUCE the sources and regenerate."
+    },
+    {
+      "question": "A teammate asks you to upload a confidential client contract to build a briefing. What is the right move?",
+      "choices": [
+        "Upload it — NotebookLM is private by default",
+        "Upload it but turn on Chat View",
+        "Do not upload it unless it is approved for that use",
+        "Upload only the first half"
+      ],
+      "answer": 2,
+      "slide": 5,
+      "feedback_correct": "Right — confidential and restricted material stays out unless it's approved for that use. You stay responsible for what you upload, generate, and share.",
+      "feedback_incorrect": "Speed never removes responsibility. Confidential, private, or restricted material stays out of NotebookLM unless it's approved for that use — no workaround setting changes that."
+    },
+    {
+      "question": "You turned on Chat View before sharing a notebook. What is TRUE?",
+      "choices": [
+        "Hidden content is now permanently deleted",
+        "Hiding content is not the same as revoking access",
+        "Only editors can see the notebook now",
+        "The link stops working for the public"
+      ],
+      "answer": 1,
+      "slide": 12,
+      "feedback_correct": "Correct — Chat View hides content from that view, but people with access may still reach it. Hiding is not revoking.",
+      "feedback_incorrect": "This is the trap: Chat View only hides content from that view. People with access may still reach it. Hiding is not the same as revoking access."
+    },
+    {
+      "question": "You must send a briefing to five named executives and no one else. Which sharing choice fits, and why?",
+      "choices": [
+        "Public — it is fastest",
+        "Public with Chat View on — the content is hidden",
+        "Restricted — only invited people can access",
+        "Featured — it marks the notebook as important"
+      ],
+      "answer": 2,
+      "slide": 12,
+      "feedback_correct": "Right — Restricted means only invited people get in. That's the fit when the audience is a named list.",
+      "feedback_incorrect": "Public means ANYONE with the link — including whoever it gets forwarded to. When only named people should see it, the answer is Restricted: only invited people can access."
+    },
+    {
+      "question": "Before sharing any NotebookLM artifact at work, which set below matches the course's pre-share quality check?",
+      "choices": [
+        "Audience clear, purpose clear, claims cited, titles clean, takeaways concise, rights confirmed",
+        "Spellcheck done, colors on brand, file under 10 MB, link tested",
+        "Sources deleted, chat cleared, notebook renamed, link copied",
+        "Video generated, audio generated, deck generated, infographic generated"
+      ],
+      "answer": 0,
+      "slide": 9,
+      "feedback_correct": "Perfect — that's the checkpoint that protects your credibility before anything goes out.",
+      "feedback_incorrect": "The pre-share check is about credibility, not file mechanics: audience clear, purpose clear, claims cited, titles clean, takeaways concise, rights confirmed. Run it before anything goes out."
+    }
+  ]
+}
