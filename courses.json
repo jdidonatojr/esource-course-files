@@ -340,5 +340,38 @@
         "startSlide": 16
       }
     ]
+  },
+  "11": {
+    "id": "notebooklm_in_action",
+    "title": "NotebookLM in Action",
+    "totalSlides": 16,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/11-NotebookLM-in-Action.pdf",
+    "firstMessage": "Welcome to NotebookLM in Action. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Context (slides 1-4)",
+        "startSlide": 1
+      },
+      {
+        "label": "Hands-On Exercise Setup (slides 5-6)",
+        "startSlide": 5
+      },
+      {
+        "label": "Building Your Notebook (slides 7-9)",
+        "startSlide": 7
+      },
+      {
+        "label": "Generating Video Overview (slides 10-12)",
+        "startSlide": 10
+      },
+      {
+        "label": "Documentation and Next Steps (slides 13-14)",
+        "startSlide": 13
+      },
+      {
+        "label": "Review and Closing (slides 15-16)",
+        "startSlide": 15
+      }
+    ]
   }
 }
