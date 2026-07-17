@@ -1,0 +1,139 @@
+{
+  "brand": {
+    "title": "ESource AI Group (Production)",
+    "subtitle": "Knowledge Check — NotebookLM in Action",
+    "color": "#1a73e8"
+  },
+  "questions": [
+    {
+      "question": "What is the web address you use to access NotebookLM?",
+      "choices": [
+        "notebooklm.google.com",
+        "google.com/notebooklm",
+        "notebooklm.ai",
+        "studio.google.com/notebooklm"
+      ],
+      "answer": 0,
+      "slide": 6,
+      "feedback_correct": "Exactly right — notebooklm.google.com is the correct URL to access the tool.",
+      "feedback_incorrect": "The correct address is notebooklm.google.com. You can find this on Slide 6 where the instructor provides the specific URL to use."
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a source type that NotebookLM can accept?",
+      "choices": [
+        "Website URLs",
+        "Google Docs",
+        "Social media posts",
+        "YouTube videos"
+      ],
+      "answer": 2,
+      "slide": 14,
+      "feedback_correct": "That's correct — while websites, Google Docs, and YouTube videos are all mentioned as compatible sources, social media posts are not specifically called out in the course material.",
+      "feedback_incorrect": "The course mentions that sources can include PDFs, Google Docs, YouTube videos, and websites. Social media posts are not mentioned as a compatible source type."
+    },
+    {
+      "question": "What happens when you click 'Add Source' and choose 'Website'?",
+      "choices": [
+        "NotebookLM immediately opens the website in a new tab",
+        "A field appears where you can paste a URL",
+        "You are asked to write a description of the webpage",
+        "The tool generates a Video Overview automatically"
+      ],
+      "answer": 1,
+      "slide": 8,
+      "feedback_correct": "Correct — after selecting Website as your source type, a field appears for you to paste in the URL.",
+      "feedback_incorrect": "When you choose Website as a source type, a text field appears where you can paste the URL. This happens before any processing or generation occurs."
+    },
+    {
+      "question": "How does NotebookLM gather information when you ask it a question?",
+      "choices": [
+        "It searches the entire internet in real time",
+        "It pulls context from your Google account history",
+        "It works exclusively from the sources you have added to your notebook",
+        "It combines information from the web with your uploaded documents"
+      ],
+      "answer": 2,
+      "slide": 2,
+      "feedback_correct": "Perfect — NotebookLM does not browse the web; it only uses the sources you explicitly add to your notebook, which makes the output grounded and traceable.",
+      "feedback_incorrect": "NotebookLM does not pull in outside context or search the internet. It works only from the sources you add to your notebook, which is presented as a feature because it keeps the output grounded and verifiable."
+    },
+    {
+      "question": "What does 'grounded' output mean in the context of this course?",
+      "choices": [
+        "The output is written by a human expert",
+        "Every insight can be traced back to something you actually put into the tool",
+        "The output has been fact-checked by an external source",
+        "The output is stored securely on Google's servers"
+      ],
+      "answer": 1,
+      "slide": 2,
+      "feedback_correct": "Exactly — grounded output means you can trace every insight back to a source you actually provided, which is why NotebookLM working only from your sources is presented as a feature.",
+      "feedback_incorrect": "Grounded output means that every piece of information can be traced back to the sources you added. This is why NotebookLM's limitation to only your sources is actually a strength — it ensures transparency and verifiability."
+    },
+    {
+      "question": "What is the primary difference between an Audio Overview and a Video Overview in NotebookLM's Studio?",
+      "choices": [
+        "Audio Overviews are faster to generate than Video Overviews",
+        "Audio Overviews are podcast-style conversational summaries, while Video Overviews are structured presenter-style briefings",
+        "Video Overviews can only be created from websites, while Audio Overviews work with any source",
+        "Audio Overviews include written transcripts, while Video Overviews do not"
+      ],
+      "answer": 1,
+      "slide": 3,
+      "feedback_correct": "Correct — Audio Overviews are described as conversational podcast-style summaries, while Video Overviews are structured, presenter-style summaries meant as briefings.",
+      "feedback_incorrect": "The course describes Audio Overviews as conversational podcast-style content and Video Overviews as structured presenter-style briefings. These are different formats for different use cases."
+    },
+    {
+      "question": "According to the instructor, how long does it typically take for NotebookLM to process a website URL after you add it as a source?",
+      "choices": [
+        "A few seconds",
+        "Anywhere from a few seconds to a minute or two",
+        "At least five minutes",
+        "The time depends entirely on your internet connection"
+      ],
+      "answer": 1,
+      "slide": 11,
+      "feedback_correct": "Exactly — the instructor notes that video generation can take anywhere from a few seconds to a minute or two, and this is completely normal.",
+      "feedback_incorrect": "The course explains that Video Overview generation can take anywhere from a few seconds to a minute or two depending on the source, and this is normal processing time."
+    },
+    {
+      "question": "Why does the instructor recommend naming your notebook something meaningful rather than leaving it with a default name?",
+      "choices": [
+        "Default names can compromise your privacy",
+        "Meaningful names make it easier to find the notebook later when you have multiple notebooks",
+        "NotebookLM charges more for notebooks with generic names",
+        "The tool requires you to rename notebooks before you can add sources"
+      ],
+      "answer": 1,
+      "slide": 7,
+      "feedback_correct": "Right — the instructor suggests using a meaningful name because it makes the notebook easier to find later, especially as you create more notebooks.",
+      "feedback_incorrect": "The instructor recommends naming your notebook something real and meaningful because it makes it easier to locate later. This is a practical organization tip, not a technical requirement."
+    },
+    {
+      "question": "Based on the course material, what is the most appropriate next step after completing this exercise?",
+      "choices": [
+        "Immediately teach the tool to your entire team",
+        "Open a new notebook with something from your actual work and run the same steps to see how it applies to your real projects",
+        "Wait for the instructor to send you a more advanced training module",
+        "Export all the Video Overviews you created and share them on social media"
+      ],
+      "answer": 1,
+      "slide": 16,
+      "feedback_correct": "Perfect — the instructor explicitly states that the next step is to open a new notebook with something from your actual work and run the same steps, which is where it becomes genuinely useful.",
+      "feedback_incorrect": "The closing slide emphasizes that the next step is to apply what you learned to your own work — take a real document, report, or webpage you need to read and run the same process you just learned."
+    },
+    {
+      "question": "Why does the instructor emphasize that your notebook is private and nothing leaves unless you send it somewhere?",
+      "choices": [
+        "To explain the licensing terms required by Google",
+        "To reassure you that your sources and generated content remain confidential unless you deliberately share them, which affects how freely you might use the tool",
+        "To warn you that the tool cannot be used for collaborative work",
+        "To indicate that private notebooks have more features than shared notebooks"
+      ],
+      "answer": 1,
+      "slide": 2,
+      "feedback_correct": "Exactly — the instructor highlights privacy to give you confidence that your material and output stay private, which is an important feature when working with sensitive or proprietary content.",
+      "feedback_incorrect": "The privacy aspect is mentioned to assure you that your sources and any generated content remain confidential to you alone. This is important context for understanding how safely you can use the tool with your actual work."
+    }
+  ]
+}
