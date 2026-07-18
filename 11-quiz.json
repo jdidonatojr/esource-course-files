@@ -6,121 +6,134 @@
   },
   "questions": [
     {
-      "question": "What is the main website URL where you access NotebookLM?",
+      "question": "What is the primary tool you used in this course?",
       "choices": [
-        "notebooklm.google.com",
-        "google.notebooklm.com",
-        "notebooks.google.com",
-        "ai.google.com/notebook"
-      ],
-      "answer": 0,
-      "slide": 6,
-      "feedback_correct": "Exactly right—notebooklm.google.com is the address where you sign in with your Google account.",
-      "feedback_incorrect": "The correct address is notebooklm.google.com. This is the direct link provided on Slide 6 where you begin the exercise."
-    },
-    {
-      "question": "What is Studio in NotebookLM?",
-      "choices": [
-        "A web browser extension for faster searching",
-        "The panel inside every notebook where you generate rich content formats like Audio and Video Overviews",
-        "A separate subscription service for video editing",
-        "A public gallery where you can view other users' notebooks"
-      ],
-      "answer": 1,
-      "slide": 3,
-      "feedback_correct": "That's correct—Studio is the content generation panel where you turn your sources into formats like Audio Overviews and Video Overviews.",
-      "feedback_incorrect": "Studio is not a browser tool, subscription service, or public gallery. It's the content generation panel built into every NotebookLM notebook, where you access Audio and Video Overviews."
-    },
-    {
-      "question": "What does NotebookLM do when you ask it a question?",
-      "choices": [
-        "It searches the open web and pulls in outside context from multiple sources",
-        "It uses only the sources you have given it—no web searches, no hallucinated context",
-        "It connects to other users' notebooks to find related information",
-        "It retrieves information from Google's main search index"
+        "A web browser extension that edits webpages",
+        "NotebookLM, a Google AI tool that works from sources you provide",
+        "A video editing software for creating summaries",
+        "An online database of pre-made video summaries"
       ],
       "answer": 1,
       "slide": 2,
-      "feedback_correct": "Correct—NotebookLM works exclusively from the sources you provide, which is a core feature that keeps outputs grounded and traceable.",
-      "feedback_incorrect": "NotebookLM does not browse the web or pull in outside context. It works only with the material you give it, which ensures every insight can be traced back to your actual sources."
+      "feedback_correct": "Exactly right — NotebookLM is a Google AI tool that synthesizes only from the sources you give it, with no outside web searches or hallucinated context.",
+      "feedback_incorrect": "NotebookLM is specifically a Google AI tool that works exclusively from sources you provide to it. It doesn't browse the web or pull in outside context — that's actually a key feature, not a limitation."
     },
     {
-      "question": "What happens after you add a website source to your notebook?",
+      "question": "Which of the following is NOT a content format you can generate in NotebookLM's Studio?",
       "choices": [
-        "The source is instantly ready to use with no processing time",
-        "NotebookLM reads, indexes, and processes the page, then displays the title and summary in the Sources list when complete",
-        "You must manually summarize the content before it can be used",
-        "The source is added but remains hidden until you generate content from it"
-      ],
-      "answer": 1,
-      "slide": 9,
-      "feedback_correct": "Exactly—NotebookLM processes the page and shows you confirmation by displaying the title and summary in the Sources panel.",
-      "feedback_incorrect": "After you add a source, NotebookLM processes it automatically. You'll know it's ready when the title and summary appear in your Sources list on the left side of the screen."
-    },
-    {
-      "question": "What is a Video Overview in NotebookLM?",
-      "choices": [
-        "A raw video recording of the webpage content",
-        "A structured, presenter-style summary built directly from your source material, similar to a briefing",
-        "A slideshow with images extracted from the webpage",
-        "An interactive tool where you can edit the source material in real time"
-      ],
-      "answer": 1,
-      "slide": 3,
-      "feedback_correct": "That's right—a Video Overview is a structured, presenter-style briefing synthesized from your sources, designed for quick understanding.",
-      "feedback_incorrect": "A Video Overview is not a raw recording, slideshow, or editing tool. It's a structured summary that presents your source material in a presenter-style format, like a briefing you'd watch before a meeting."
-    },
-    {
-      "question": "How long does the hands-on exercise portion of this course take to complete?",
-      "choices": [
-        "About 5 minutes",
-        "About 30 minutes total for the whole session",
-        "Roughly 16 minutes for the hands-on portion",
-        "About 70 seconds"
+        "Audio Overviews",
+        "Video Overviews",
+        "Live interactive webinars",
+        "Infographics"
       ],
       "answer": 2,
-      "slide": 5,
-      "feedback_correct": "Correct—the instructor notes indicate the hands-on portion takes roughly 16 minutes, which is separate from the full 30-minute session.",
-      "feedback_incorrect": "The full session is about 30 minutes, but the hands-on exercise itself is roughly 16 minutes. The 70 seconds mentioned is just the interface video preview."
+      "slide": 10,
+      "feedback_correct": "Correct — live interactive webinars are not mentioned as an available format in Studio.",
+      "feedback_incorrect": "Studio offers Audio Overviews, Video Overviews, Infographics, Quizzes, Reports, Flashcards and more. Live interactive webinars were not listed as an available format."
     },
     {
-      "question": "What can you do at the end of the hands-on exercise to help you repeat this process later?",
+      "question": "What is the first step you take after opening NotebookLM and signing in?",
       "choices": [
-        "Ask the course to produce a written step-by-step summary document you can keep and reuse",
-        "Automatically receive an email with the steps",
-        "Download a pre-made PDF template from the course resources",
-        "Record a video of yourself completing the steps"
+        "Add a website source immediately",
+        "Open the Studio panel",
+        "Create a new notebook with a meaningful name",
+        "Watch the 70-second interface video"
       ],
-      "answer": 0,
-      "slide": 13,
-      "feedback_correct": "Perfect—you can ask for a written summary of every step you completed, which becomes a reference document you can use anytime.",
-      "feedback_incorrect": "The course offers a written summary document that you can request using a specific prompt. This becomes a clean, reusable reference you can keep for future use."
+      "answer": 2,
+      "slide": 7,
+      "feedback_correct": "Yes — creating a new notebook and naming it something meaningful is your first action after signing in.",
+      "feedback_incorrect": "After signing in, the first step is to create a new notebook by clicking the New Notebook button and giving it a name that means something to you. This creates your private workspace before you add sources."
     },
     {
-      "question": "Why is NotebookLM's approach of working only from your own sources described as a feature rather than a limitation?",
+      "question": "How do you know that NotebookLM has finished processing a website source you added?",
       "choices": [
-        "It prevents the tool from being too powerful and overwhelming",
-        "It ensures the output is grounded in your actual material and every insight can be traced back to something you provided",
-        "It makes the tool easier for beginners to understand",
-        "It reduces the cost of running the service"
+        "The browser tab automatically refreshes",
+        "You receive an email confirmation",
+        "The source appears in the Sources panel with a title and summary",
+        "A notification sound plays in the background"
+      ],
+      "answer": 2,
+      "slide": 9,
+      "feedback_correct": "Perfect — when processing is complete, the source appears in the Sources panel on the left with a title pulled from the page and a short summary underneath.",
+      "feedback_incorrect": "When NotebookLM finishes processing your webpage, it will appear in the Sources panel (usually on the left) with a title and summary displayed. That's your confirmation that the material is ready to work with."
+    },
+    {
+      "question": "What is the key difference between how NotebookLM generates content versus how a general web search engine might?",
+      "choices": [
+        "NotebookLM is faster because it searches the entire internet at once",
+        "NotebookLM works only from sources you explicitly provide, with no outside context added",
+        "NotebookLM requires you to manually write prompts for every piece of content",
+        "NotebookLM can only process text and cannot handle images or videos"
       ],
       "answer": 1,
       "slide": 2,
-      "feedback_correct": "Exactly—by limiting outputs to only your sources, NotebookLM ensures accountability and traceability, which is a strength, not a weakness.",
-      "feedback_incorrect": "This approach is a feature because it keeps outputs grounded and verifiable. You can always trace where an insight came from, since it must come from sources you actually provided."
+      "feedback_correct": "That's it — NotebookLM works exclusively from the sources you give it, which means the output is grounded and you can trace every insight back to your material.",
+      "feedback_incorrect": "The defining feature of NotebookLM is that it draws only from sources you provide. It does not browse the web or pull in outside context. This means everything it generates is traceable directly to your material, which is a strength, not a limitation."
     },
     {
-      "question": "Based on the course, when would NotebookLM be most useful to you?",
+      "question": "After you click Generate for a Video Overview, what should you expect to happen?",
       "choices": [
-        "Only when you need to generate creative fiction content",
-        "When you bring it your own material like a PDF report, long article, or set of notes you actually need to work with",
-        "When you want to browse the latest news and trends from across the web",
-        "When you need to verify information from multiple internet sources"
+        "The video appears instantly within one second",
+        "NotebookLM asks you to refine your request with more details",
+        "The process takes a moment — anywhere from a few seconds to a minute or two depending on the source",
+        "You are redirected to a separate website to download the video"
+      ],
+      "answer": 2,
+      "slide": 11,
+      "feedback_correct": "Correct — generating a Video Overview is not instantaneous. It takes time because NotebookLM is building a structured presenter-style summary from your source material.",
+      "feedback_incorrect": "When you click Generate for a Video Overview, you need to be patient. The process can take a few seconds to a minute or two depending on your source material. This is normal — NotebookLM is doing the real work of synthesizing and structuring the content."
+    },
+    {
+      "question": "What should you notice when you review the Video Overview that was created?",
+      "choices": [
+        "The content includes information from multiple websites beyond your source",
+        "The structure and content draw directly from the source you added, not from anything else",
+        "The video includes ads and promotional content",
+        "The presenter adds their own opinions and interpretations not found in the source"
       ],
       "answer": 1,
-      "slide": 14,
-      "feedback_correct": "That's right—NotebookLM earns its usefulness by working with your actual material, not by being a general search or research tool.",
-      "feedback_incorrect": "NotebookLM is most valuable when you load your own material—reports, articles, notes—that you genuinely need to understand or process. It's designed for working with content you already have, not for general web browsing."
+      "slide": 12,
+      "feedback_correct": "Exactly — the Video Overview's topics, framing, and specific details all come directly from the source material you provided, which is what grounded AI output looks like.",
+      "feedback_incorrect": "The key observation when reviewing your Video Overview is that it stays tightly connected to your source material. The topics, framing, and specific details are all drawn from what you added — that's what makes it grounded AI output."
+    },
+    {
+      "question": "Based on what you learned in this course, what would be the most practical next step to take this week?",
+      "choices": [
+        "Sign up for multiple NotebookLM accounts to process different sources separately",
+        "Open a new notebook with something from your actual work and run the same steps",
+        "Wait until you take an advanced NotebookLM course before using it again",
+        "Share your first Video Overview on social media to get feedback"
+      ],
+      "answer": 1,
+      "slide": 16,
+      "feedback_correct": "Yes — the recommended next step is to open a new notebook this week with actual material from your work and apply what you just learned.",
+      "feedback_incorrect": "The most practical next step is to apply what you learned with real material from your own work — a document, report, or webpage you've been meaning to read. That's where NotebookLM becomes genuinely useful to you."
+    },
+    {
+      "question": "Why is the fact that NotebookLM does not perform open web searches considered a feature rather than a limitation?",
+      "choices": [
+        "It makes the tool slower and more deliberate",
+        "It ensures the output is grounded in your material and every insight can be traced back to what you provided",
+        "It prevents you from learning new information",
+        "It means the tool only works with very short documents"
+      ],
+      "answer": 1,
+      "slide": 2,
+      "feedback_correct": "Precisely — by working only from your sources, NotebookLM ensures grounded output that is traceable and reliable, with no hallucinated or outside context bleeding in.",
+      "feedback_incorrect": "NotebookLM's exclusive reliance on your sources is a feature because it makes the output grounded and trustworthy. You can verify every insight against your material, rather than wondering if the AI pulled in unverified information from elsewhere."
+    },
+    {
+      "question": "What is the purpose of the written summary document that you can request at the end of the hands-on exercise?",
+      "choices": [
+        "To submit to your supervisor as proof you completed the course",
+        "To keep as a reusable reference guide so you can repeat the steps on your own later",
+        "To share with other learners in the course",
+        "To test your memory of what you learned"
+      ],
+      "answer": 1,
+      "slide": 13,
+      "feedback_correct": "Right — the written summary is a clean, step-by-step document you keep and reuse as a reference whenever you need to create a Video Overview again.",
+      "feedback_incorrect": "The purpose of the written summary document is to serve as your personal reference guide. You can keep it and use it anytime you want to repeat the steps on your own without having to remember every detail from the course."
     }
   ]
 }
