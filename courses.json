@@ -353,20 +353,20 @@
         "startSlide": 1
       },
       {
-        "label": "Exercise Overview (slides 5-5)",
+        "label": "Course Overview (slides 5-6)",
         "startSlide": 5
       },
       {
-        "label": "Hands-On Steps (slides 6-12)",
-        "startSlide": 6
+        "label": "Hands-On Exercise (slides 7-12)",
+        "startSlide": 7
       },
       {
-        "label": "Review and Documentation (slides 13-13)",
+        "label": "Consolidating Learning (slides 13-15)",
         "startSlide": 13
       },
       {
-        "label": "Next Steps and Resources (slides 14-16)",
-        "startSlide": 14
+        "label": "Closing and Next Steps (slides 16)",
+        "startSlide": 16
       }
     ]
   }
