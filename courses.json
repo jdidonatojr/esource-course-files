@@ -353,16 +353,20 @@
         "startSlide": 1
       },
       {
-        "label": "Exercise Setup (slides 5-9)",
+        "label": "Exercise Overview (slides 5-5)",
         "startSlide": 5
       },
       {
-        "label": "Video Generation and Review (slides 10-12)",
-        "startSlide": 10
+        "label": "Hands-On Steps (slides 6-12)",
+        "startSlide": 6
       },
       {
-        "label": "Documentation and Next Steps (slides 13-16)",
+        "label": "Review and Documentation (slides 13-13)",
         "startSlide": 13
+      },
+      {
+        "label": "Next Steps and Resources (slides 14-16)",
+        "startSlide": 14
       }
     ]
   }
