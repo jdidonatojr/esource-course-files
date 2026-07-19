@@ -1,0 +1,139 @@
+{
+  "brand": {
+    "title": "ESource AI Group (Production)",
+    "subtitle": "Knowledge Check — CTFS for Account Executives: From Discovery to Deal",
+    "color": "#1a73e8"
+  },
+  "questions": [
+    {
+      "question": "According to the course, what are the five financial functions that CTFS unifies on a single platform?",
+      "choices": [
+        "Budgeting, contracting, forecasting, site payments, and participant payments",
+        "Budgeting, invoicing, forecasting, site payments, and vendor management",
+        "Grant management, contracting, forecasting, payroll, and participant payments",
+        "Budgeting, contracting, reporting, site payments, and financial analysis"
+      ],
+      "answer": 0,
+      "slide": 5,
+      "feedback_correct": "Exactly right — those five functions sharing the same data is the core differentiation of the CTFS platform.",
+      "feedback_incorrect": "The course is clear that CTFS unifies budgeting, contracting, forecasting, site payments, and participant payments. Review slide 5 for the one-sentence definition of what CTFS does."
+    },
+    {
+      "question": "What is the key differentiator of CTFS's GrantPlan module according to the course?",
+      "choices": [
+        "It offers the fastest contracting workflows in the industry",
+        "It has 38 million negotiated data points, the largest benchmark dataset for budget accuracy",
+        "It provides real-time payment visibility to site operations teams",
+        "It uses agentic AI to automate all investigator communications"
+      ],
+      "answer": 1,
+      "slide": 6,
+      "feedback_correct": "Perfect — the 38 million negotiated data points is what sets GrantPlan apart on budget accuracy.",
+      "feedback_incorrect": "While GrantPlan is part of the platform, the specific differentiator mentioned in the course is the 38 million negotiated data points dataset. Check slide 6 for the module breakdown."
+    },
+    {
+      "question": "Which of these statistics comes from the Frost and Sullivan report mentioned in the course?",
+      "choices": [
+        "Forty-nine percent growth in trial sites since 2019",
+        "Sixty percent increase in protocol amendments",
+        "Fifty-eight percent of sponsor executives already use IQVIA Technologies for clinical trial financial management",
+        "Delay costs up to $55,000 per day for late-stage trials"
+      ],
+      "answer": 2,
+      "slide": 8,
+      "feedback_correct": "That's the stat from Frost and Sullivan, May 2025 — it's particularly powerful because it shows market direction and peer adoption.",
+      "feedback_incorrect": "The Frost and Sullivan stat is the one about sponsor executives already using IQVIA Technologies. The other statistics in the course come from different sources. Review slide 8 for context."
+    },
+    {
+      "question": "What is Gilbert's primary pain point as a Clinical Operations Director?",
+      "choices": [
+        "His AI pilots have stalled before reaching enterprise scale",
+        "He lacks unified financial visibility across trials and his teams spend too much time reconciling systems",
+        "His complex tech stack is difficult to integrate and maintenance costs are high",
+        "He does not know when payments are coming and invoicing is manual and error-prone"
+      ],
+      "answer": 1,
+      "slide": 10,
+      "feedback_correct": "Correct — Gilbert's pain is fragmentation and the manual work that comes with it, which is exactly what CTFS addresses.",
+      "feedback_incorrect": "Each persona has a distinct pain. Gilbert is the Clinical Operations Director focused on end-to-end platform needs and operational efficiency. Review slide 10 to see how his pain differs from the other personas."
+    },
+    {
+      "question": "For Reena, the VP of IT Clinical, what is the most important architectural requirement for CTFS?",
+      "choices": [
+        "It must include agentic AI for participant concierge functions",
+        "It must accelerate trial timelines by at least ten days",
+        "It must be API-first, cloud-native, and play well with existing systems like EDC, CTMS, and ERP without custom middleware",
+        "It must provide real-time payment visibility through a site operations portal"
+      ],
+      "answer": 2,
+      "slide": 11,
+      "feedback_correct": "Exactly — Reena needs architectural specifics and standards-based integration so she does not need a custom integration project.",
+      "feedback_incorrect": "Reena's pain is high maintenance cost and integration complexity. She needs to hear about API-first architecture and standards-based integration, not features for other personas. Review slide 11."
+    },
+    {
+      "question": "What is the key distinction between how CTFS positions agentic AI compared to competing solutions, according to Andres's persona?",
+      "choices": [
+        "CTFS uses agentic AI for participant concierge, while competitors do not",
+        "CTFS is a standalone agent, while competitors offer orchestration layers",
+        "CTFS is the orchestration layer that connects multiple AI agents through APIs and webhooks, while other solutions are standalone agents",
+        "CTFS uses agentic AI only for document extraction, while competitors use it for forecasting"
+      ],
+      "answer": 2,
+      "slide": 12,
+      "feedback_correct": "That's the critical difference — CTFS is the infrastructure that makes AI operational at scale, not just another pilot tool.",
+      "feedback_incorrect": "The distinction for Andres is that CTFS provides the orchestration environment, not just a standalone agent. This addresses why his previous pilot stalled. Review slide 12."
+    },
+    {
+      "question": "According to the Total Net Value formula taught in the course, which of the following is NOT one of the three pillars?",
+      "choices": [
+        "Revenue Uplift from accelerating trial timelines",
+        "Cost Savings from reducing manual financial processing",
+        "Participant satisfaction scores",
+        "Solution Cost of implementing CTFS"
+      ],
+      "answer": 2,
+      "slide": 18,
+      "feedback_correct": "Right — the formula is Revenue Uplift plus Cost Savings minus Solution Cost. Participant satisfaction is a benefit but not part of the quantified valuation formula.",
+      "feedback_incorrect": "The Total Net Value formula has exactly three pillars: Revenue Uplift, Cost Savings, and Solution Cost. Participant satisfaction, while important, is not part of the quantified formula. Review slide 18."
+    },
+    {
+      "question": "When a prospect says 'We already tried an AI pilot and it did not scale,' which persona is most likely making this objection and what is the recommended counter?",
+      "choices": [
+        "Gilbert; respond that CTFS is simpler than his current platform",
+        "Reena; respond that CTFS has better API documentation than competitors",
+        "Andres; ask whether the pilot had an enterprise orchestration layer, then position CTFS as the infrastructure that makes pilots scalable",
+        "Rachel; respond that CTFS guarantees faster payment cycles"
+      ],
+      "answer": 2,
+      "slide": 25,
+      "feedback_correct": "Perfect — Andres is the Digital Transformation Leader who has had stalled pilots, and the counter positions CTFS as the solution to why they failed.",
+      "feedback_incorrect": "This objection comes from Andres, the Digital Transformation Leader. The counter is to ask a diagnostic question about the orchestration layer, then reframe CTFS as infrastructure rather than another pilot. Review slide 25."
+    },
+    {
+      "question": "In a real buying committee with both Gilbert and Reena present, what should be your opening strategy?",
+      "choices": [
+        "Lead with the platform's AI capabilities to appeal to both technical and operational leaders",
+        "Start with the shared pain of fragmentation and delay costs, then branch to individual value drivers as the conversation develops",
+        "Ask Gilbert to explain his technical requirements first, then address Reena's concerns",
+        "Present the Total Net Value formula to establish credibility with both personas"
+      ],
+      "answer": 1,
+      "slide": 15,
+      "feedback_correct": "Exactly — shared pain opens the door, and then you personalize as the conversation develops.",
+      "feedback_incorrect": "The course specifically teaches that with mixed committees, you start with shared pain (fragmentation and cost of delay), then branch into persona-specific value drivers. Review slide 15."
+    },
+    {
+      "question": "What should you use as your closing anchor when a prospect says they need time to think about the CTFS opportunity?",
+      "choices": [
+        "The 49 percent growth in trial sites statistic",
+        "The University of Chile Phase III case study",
+        "The Frost and Sullivan stat that 58 percent of sponsor executives already use IQVIA Technologies",
+        "The $55,000 per day delay cost figure"
+      ],
+      "answer": 2,
+      "slide": 27,
+      "feedback_correct": "Correct — that stat is social proof that the market has already moved, making it a powerful closing anchor against hesitation.",
+      "feedback_incorrect": "The closing anchor should be the Frost and Sullivan stat about market adoption by peers, not the opening urgency anchors or individual case studies. Review slide 27 for the closing framework."
+    }
+  ]
+}
