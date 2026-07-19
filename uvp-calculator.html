@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>CTFS UVP Calculator</title>
+<style>
+  :root { --brand: #1a73e8; --ink: #1c2128; --muted: #6b7280; --line: #e5e7eb;
+          --ok: #1a7f37; --ok-bg: #eafaef; --bg: #f6f8fa; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; }
+  body { background: var(--bg); color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.5; display: flex; flex-direction: column; }
+
+  .hd { background: var(--brand); color: #fff; padding: 14px 22px; flex: 0 0 auto; }
+  .hd h1 { margin: 0; font-size: 18px; }
+  .hd p { margin: 2px 0 0; font-size: 13px; opacity: 0.9; }
+
+  .bd { flex: 1 1 auto; overflow-y: auto; padding: 20px; }
+  .in { max-width: 640px; margin: 0 auto; }
+  .sec { background: #fff; border: 1px solid var(--line); border-radius: 12px;
+    padding: 18px 20px; margin-bottom: 16px; }
+  .sec h2 { margin: 0 0 4px; font-size: 15px; }
+  .sec .sub { color: var(--muted); font-size: 13px; margin: 0 0 12px; }
+  .frow { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; }
+  .frow label { flex: 1 1 260px; font-size: 14px; }
+  .frow input { flex: 0 0 130px; padding: 8px 10px; border: 1px solid var(--line);
+    border-radius: 8px; font-size: 15px; font-family: inherit; text-align: right; }
+  .note { color: var(--muted); font-size: 12px; margin-top: -4px; margin-bottom: 10px; }
+
+  .res { border-left: 4px solid var(--ok); background: var(--ok-bg); }
+  .res table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  .res td { padding: 5px 0; }
+  .res td:last-child { text-align: right; font-weight: 600; white-space: nowrap; }
+  .res tr.total td { border-top: 2px solid var(--ok); padding-top: 8px;
+    font-size: 17px; font-weight: 800; }
+  .roi { color: var(--muted); font-size: 13px; margin-top: 6px; }
+
+  .pitch { background: #fff; border: 1px dashed var(--brand); border-radius: 12px;
+    padding: 16px 18px; font-size: 15px; }
+  .pitch em { color: var(--brand); font-style: normal; font-weight: 600; }
+  .row { display: flex; gap: 10px; margin-top: 12px; flex-wrap: wrap; }
+  button { background: var(--brand); color: #fff; border: none; border-radius: 8px;
+    padding: 10px 18px; font-size: 14px; font-weight: 600; cursor: pointer; }
+  button:hover { filter: brightness(0.94); }
+  .foot { color: var(--muted); font-size: 12px; text-align: center; padding: 10px; }
+</style>
+</head>
+<body>
+
+<div class="hd">
+  <h1>Unique Value Proposition Calculator</h1>
+  <p>Total Net Value = (Revenue Uplift + Cost Savings) − Solution Cost</p>
+</div>
+
+<div class="bd"><div class="in">
+
+  <div class="sec">
+    <h2>1. Manual processing cost (today)</h2>
+    <p class="sub">Finance analysts doing manual CTA and invoice processing.</p>
+    <div class="frow"><label for="analysts">Number of analysts</label>
+      <input id="analysts" type="number" min="0" value="15" /></div>
+    <div class="frow"><label for="hours">Hours per analyst per week on manual processing</label>
+      <input id="hours" type="number" min="0" value="20" /></div>
+    <div class="frow"><label for="rate">Average analyst rate ($/hour)</label>
+      <input id="rate" type="number" min="0" value="45" /></div>
+    <div class="frow"><label for="eff">Processing time reduction with CTFS (%)</label>
+      <input id="eff" type="number" min="0" max="100" value="50" /></div>
+    <p class="note">CTFS materials cite up to a 50% reduction in financial processing time.</p>
+  </div>
+
+  <div class="sec">
+    <h2>2. Redundant software eliminated</h2>
+    <div class="frow"><label for="software">Annual cost of point solutions replaced ($/year)</label>
+      <input id="software" type="number" min="0" value="0" /></div>
+  </div>
+
+  <div class="sec">
+    <h2>3. Trial delay avoided (revenue uplift)</h2>
+    <p class="sub">The cost of standing still: delays in late-stage trials.</p>
+    <div class="frow"><label for="delayDays">Days of delay avoided per year</label>
+      <input id="delayDays" type="number" min="0" value="10" /></div>
+    <div class="frow"><label for="delayCost">Cost per day of late-stage delay ($)</label>
+      <input id="delayCost" type="number" min="0" value="55000" /></div>
+    <p class="note">Default $55,000/day is from IQVIA's CTFS materials (Source: Applied Clinical Trials) for late-stage trials. Adjust to your prospect's situation — or set to 0 if their finance team prefers to exclude it.</p>
+  </div>
+
+  <div class="sec">
+    <h2>4. Solution cost</h2>
+    <div class="frow"><label for="cost">Annual CTFS investment ($/year)</label>
+      <input id="cost" type="number" min="0" value="0" /></div>
+  </div>
+
+  <div class="sec res">
+    <table>
+      <tr><td>Labor savings (cost savings)</td><td id="rLabor">$0</td></tr>
+      <tr><td>Software savings (cost savings)</td><td id="rSoftware">$0</td></tr>
+      <tr><td>Delay avoidance (revenue uplift)</td><td id="rDelay">$0</td></tr>
+      <tr><td>Solution cost</td><td id="rCost">−$0</td></tr>
+      <tr class="total"><td>Total Net Value (annual)</td><td id="rTotal">$0</td></tr>
+    </table>
+    <div class="roi" id="rRoi"></div>
+  </div>
+
+  <div class="sec">
+    <h2>Your one-sentence pitch</h2>
+    <p class="pitch" id="pitch"></p>
+    <div class="row">
+      <button onclick="copyPitch(this)">📋 Copy the pitch</button>
+      <button onclick="copySummary(this)" style="background:#fff;color:var(--brand);border:1px solid #cfe0ff;">📋 Copy the full numbers</button>
+    </div>
+  </div>
+
+</div></div>
+<div class="foot">Estimates for conversation-starting purposes — validate with the prospect's own figures.</div>
+
+<script>
+(function() {
+  'use strict';
+  var ids = ['analysts','hours','rate','eff','software','delayDays','delayCost','cost'];
+  function v(id) { var n = parseFloat(document.getElementById(id).value); return isNaN(n) || n < 0 ? 0 : n; }
+  function money(n) {
+    return (n < 0 ? '−$' : '$') + Math.abs(Math.round(n)).toLocaleString('en-US');
+  }
+  var CALC = {};
+
+  function recalc() {
+    var labor = v('analysts') * v('hours') * v('rate') * 52 * (Math.min(v('eff'),100) / 100);
+    var software = v('software');
+    var delay = v('delayDays') * v('delayCost');
+    var cost = v('cost');
+    var savings = labor + software;
+    var total = (delay + savings) - cost;
+    CALC = { labor: labor, software: software, delay: delay, cost: cost,
+             savings: savings, total: total };
+
+    document.getElementById('rLabor').textContent = money(labor);
+    document.getElementById('rSoftware').textContent = money(software);
+    document.getElementById('rDelay').textContent = money(delay);
+    document.getElementById('rCost').textContent = '−' + money(cost).replace('−','');
+    document.getElementById('rTotal').textContent = money(total);
+    document.getElementById('rRoi').textContent =
+      cost > 0 ? ('Return: ' + ((delay + savings) / cost).toFixed(1) + '× the annual investment.') : '';
+
+    var pitchEl = document.getElementById('pitch');
+    pitchEl.innerHTML =
+      '"We help clinical trial sponsors recover <em>' + money(savings) +
+      '</em> a year in financial processing costs' +
+      (delay > 0 ? ' and protect <em>' + money(delay) + '</em> in revenue lost to trial delays' : '') +
+      ', for a total net value of <em>' + money(total) + '</em> in the first year' +
+      ' — on a unified, AI-powered platform already trusted by 90% of the top 20 pharma companies."';
+  }
+
+  function plainPitch() {
+    return document.getElementById('pitch').textContent;
+  }
+  window.copyPitch = function(btn) {
+    navigator.clipboard.writeText(plainPitch()).then(function() { flash(btn); });
+  };
+  window.copySummary = function(btn) {
+    var s = 'CTFS UVP Calculation (annual)\n' +
+      'Labor savings: ' + money(CALC.labor) + '\n' +
+      'Software savings: ' + money(CALC.software) + '\n' +
+      'Delay avoidance (revenue uplift): ' + money(CALC.delay) + '\n' +
+      'Solution cost: −' + money(CALC.cost).replace('−','') + '\n' +
+      'TOTAL NET VALUE: ' + money(CALC.total) + '\n\n' +
+      'Pitch: ' + plainPitch();
+    navigator.clipboard.writeText(s).then(function() { flash(btn); });
+  };
+  function flash(btn) {
+    var old = btn.textContent;
+    btn.textContent = '✓ Copied!';
+    setTimeout(function() { btn.textContent = old; }, 1500);
+  }
+
+  ids.forEach(function(id) {
+    document.getElementById(id).addEventListener('input', recalc);
+  });
+  recalc();
+})();
+</script>
+</body>
+</html>
