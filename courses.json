@@ -378,7 +378,7 @@
     "firstMessage": "Welcome to CTFS for Account Executives: From Discovery to Deal. Are you ready to begin?",
     "sections": [
       {
-        "label": "Introduction (slides 1-2)",
+        "label": "Introduction and Course Arc (slides 1-2)",
         "startSlide": 1
       },
       {
@@ -394,11 +394,11 @@
         "startSlide": 17
       },
       {
-        "label": "Deal Conversation and Objections (slides 23-28)",
+        "label": "Sales Conversations and Objections (slides 23-28)",
         "startSlide": 23
       },
       {
-        "label": "Closing and Resources (slides 29-30)",
+        "label": "Knowledge Check and Next Steps (slides 29-30)",
         "startSlide": 29
       }
     ]
