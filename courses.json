@@ -372,10 +372,10 @@
   },
   "12": {
     "id": "ctfs_for_account_executives_from_discovery_to_deal",
-    "title": "CTFS for Account Executives: From Discovery to Deal",
+    "title": "CTFS for Account Executives From Discovery to Deal",
     "totalSlides": 30,
     "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/12-CTFS-for-Account-Executives-From-Discovery-to-Deal.pdf",
-    "firstMessage": "Welcome to CTFS for Account Executives: From Discovery to Deal. Are you ready to begin?",
+    "firstMessage": "Welcome to CTFS for Account Executives From Discovery to Deal. Are you ready to begin?",
     "sections": [
       {
         "label": "Introduction and Course Arc (slides 1-2)",
@@ -394,11 +394,11 @@
         "startSlide": 17
       },
       {
-        "label": "Sales Conversations and Objections (slides 23-28)",
+        "label": "Live Deal Conversations (slides 23-28)",
         "startSlide": 23
       },
       {
-        "label": "Knowledge Check and Next Steps (slides 29-30)",
+        "label": "Closing and Resources (slides 29-30)",
         "startSlide": 29
       }
     ]
