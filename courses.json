@@ -402,5 +402,42 @@
         "startSlide": 29
       }
     ]
+  },
+  "13": {
+    "id": "ctfs_for_sales_managers_from_discovery_to_deal",
+    "title": "CTFS for Sales Managers: From Discovery to Deal",
+    "totalSlides": 28,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/13-CTFS-for-Sales-Managers-From-Discovery-to-Deal.pdf",
+    "firstMessage": "Welcome to CTFS for Sales Managers: From Discovery to Deal. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Objectives (slides 1-2)",
+        "startSlide": 1
+      },
+      {
+        "label": "Market Context and Problem (slides 3-5)",
+        "startSlide": 3
+      },
+      {
+        "label": "CTFS Platform Overview (slides 6-11)",
+        "startSlide": 6
+      },
+      {
+        "label": "Delivery Models and Operations (slides 12-12)",
+        "startSlide": 12
+      },
+      {
+        "label": "Persona-Driven Messaging (slides 13-19)",
+        "startSlide": 13
+      },
+      {
+        "label": "ROI Formula and Value Proposition (slides 20-26)",
+        "startSlide": 20
+      },
+      {
+        "label": "Closing and Next Steps (slides 27-28)",
+        "startSlide": 27
+      }
+    ]
   }
 }
