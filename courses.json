@@ -378,7 +378,7 @@
     "firstMessage": "Welcome to CTFS for Account Executives From Discovery to Deal. Are you ready to begin?",
     "sections": [
       {
-        "label": "Introduction and Course Arc (slides 1-2)",
+        "label": "Introduction and Course Overview (slides 1-2)",
         "startSlide": 1
       },
       {
@@ -390,7 +390,7 @@
         "startSlide": 9
       },
       {
-        "label": "Building the Value Proposition (slides 17-22)",
+        "label": "Quantified Value Proposition (slides 17-22)",
         "startSlide": 17
       },
       {
