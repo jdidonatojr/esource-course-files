@@ -1,0 +1,139 @@
+{
+  "brand": {
+    "title": "ESource AI Group (Production)",
+    "subtitle": "Knowledge Check — CTFS for Sales Managers: From Discovery to Deal",
+    "color": "#1a73e8"
+  },
+  "questions": [
+    {
+      "question": "Which five financial functions does CTFS unify into one AI-powered platform?",
+      "choices": [
+        "Budgeting, contracting, forecasting, site payments, and participant payments",
+        "Budgeting, invoicing, forecasting, site payments, and vendor management",
+        "Contracting, forecasting, site payments, participant payments, and compliance reporting",
+        "Budgeting, contracting, forecasting, site payments, and regulatory filing"
+      ],
+      "answer": 0,
+      "slide": 6,
+      "feedback_correct": "Exactly right — those five modules connected by shared data are what make CTFS a unified platform, not just five point solutions.",
+      "feedback_incorrect": "The five modules are budgeting (GrantPlan), contracting, forecasting, site payments, and participant payments. Remember that unified architecture is the core differentiator."
+    },
+    {
+      "question": "What are the three market trends that create operational complexity for trial sponsors?",
+      "choices": [
+        "Increased trial duration, higher participant costs, and more regulatory requirements",
+        "49 percent growth in trial sites since 2019, 60 percent increase in protocol amendments, and expansion into more geographies",
+        "More competitors entering the market, fewer available sites, and increased investigator demand",
+        "Technology failures, budget cuts, and staffing shortages across CROs"
+      ],
+      "answer": 1,
+      "slide": 3,
+      "feedback_correct": "Those three data points are the foundation of the market context your reps should open with — they anchor the problem in data.",
+      "feedback_incorrect": "The three market trends are: 49 percent growth in trial sites since 2019, 60 percent increase in protocol amendments, and trials expanding into more geographies. These create the operational complexity the CTFS platform solves."
+    },
+    {
+      "question": "What is the current commercial availability status of CTFS Site Payments?",
+      "choices": [
+        "Already generally available in all geographies",
+        "The sandbox is available in Q4 2025 and the early adopter program is live now, with general commercial availability in Q1 2026",
+        "Still in development with no sandbox or early access available",
+        "Available only for large pharma sponsors, not for biotech or CROs"
+      ],
+      "answer": 1,
+      "slide": 9,
+      "feedback_correct": "You've got the timeline exactly right — Site Payments is the first module in market, and the early adopter program is a concrete next step a rep can offer today.",
+      "feedback_incorrect": "Site Payments has a specific launch timeline: sandbox in Q4 2025, early adopter program live now, and general commercial availability in Q1 2026. Reps must not conflate Site Payments timing with the full suite."
+    },
+    {
+      "question": "Which three delivery model options does CTFS offer prospects, and what is each one best suited for?",
+      "choices": [
+        "SaaS for all sponsors, TES for CROs only, and Hybrid for mid-size biotech",
+        "SaaS, TES (tech-enabled services), and Hybrid — with SaaS best for large sponsors with capable internal teams, TES for organizations needing managed services or lacking internal capacity, and Hybrid as a mix of both",
+        "Cloud-based, on-premise, and hybrid — depending on IT infrastructure preferences",
+        "Monthly, quarterly, and annual subscription models with different feature sets in each tier"
+      ],
+      "answer": 1,
+      "slide": 10,
+      "feedback_correct": "Perfect — you understand how delivery model choice connects to the prospect's internal capacity and operational preferences.",
+      "feedback_incorrect": "The three delivery models are SaaS (prospect manages internally), TES or tech-enabled services (IQVIA manages operations), and Hybrid (mix of both). Each fits different organizational capacity levels."
+    },
+    {
+      "question": "What dollar amount per day can delays in late-stage trial payments cost, according to the source cited in the course?",
+      "choices": [
+        "Up to $15,000 per day",
+        "Up to $55,000 per day",
+        "Up to $100,000 per day",
+        "Up to $200,000 per day"
+      ],
+      "answer": 1,
+      "slide": 4,
+      "feedback_correct": "That figure from Applied Clinical Trials is one of the most powerful numbers a rep can use in discovery because it reframes the conversation from software cost to business risk.",
+      "feedback_incorrect": "The specific figure cited in the course is $55,000 per day in delays for late-stage trials. This comes from Applied Clinical Trials and should be in your reps' discovery toolkit."
+    },
+    {
+      "question": "Rachel is a Site Clinical Operations Director. What is the primary fear she has, and what does she most value?",
+      "choices": [
+        "She fears missing trial milestones and values faster CTA ingestion and fewer manual steps",
+        "She fears compliance exposure and values cloud-native, API-first architecture with GxP and HIPAA compliance",
+        "She fears payment delays that strain the site's financial stability and values predictable cash flow, automated invoicing, and real-time visibility through a portal that works for sites",
+        "She fears innovation budgets being wasted and values cross-agent orchestration and enterprise-wide ROI"
+      ],
+      "answer": 2,
+      "slide": 17,
+      "feedback_correct": "You've correctly identified Rachel's world — cash flow, lean teams, and the administrative burden of managing relationships with multiple sponsors simultaneously.",
+      "feedback_incorrect": "Rachel is the Site Clinical Operations Director who cares about cash flow and automated processes. Her fear is payment delays straining the site's financial stability, and she values predictable cash flow and real-time visibility."
+    },
+    {
+      "question": "According to the UVP formula taught in this course, what three components must you combine to calculate Total Net Value?",
+      "choices": [
+        "Time savings, implementation cost, and software licensing fees",
+        "Revenue uplift, cost savings, and solution cost (where Total Net Value = Uplift + Savings − Cost)",
+        "Employee hours saved, average hourly rate, and number of employees affected",
+        "Budget reduction, compliance improvements, and integration complexity"
+      ],
+      "answer": 1,
+      "slide": 20,
+      "feedback_correct": "Exactly — Total Net Value = Prospect Revenue Uplift + Cost Savings − Solution Cost. This is the framework every rep must know before any first call.",
+      "feedback_incorrect": "The Total Net Value formula is: Prospect Revenue Uplift + Cost Savings − Solution Cost. The most buildable component in early discovery is cost savings, calculated as Hours Saved × Hourly Rate × Number of Employees."
+    },
+    {
+      "question": "What is the one-sentence UVP template your reps must complete before any first call, and what three pieces of account research does it require?",
+      "choices": [
+        "\"We help [Persona] solve [Problem] faster than competitors\" — requires competitor analysis, timeline, and feature list",
+        "\"We help [Target Persona] in [Industry] increase [Specific Metric] by [Percentage] and reduce [Pain Point] by [Dollar Amount] in [Timeframe]\" — requires knowing the persona, the metric they care about, and the cost savings math",
+        "\"Our platform [Feature] helps [Company Size] achieve [Goal]\" — requires product features, company size, and goals",
+        "\"[Solution] enables [Department] to improve [KPI] through [Technology]\" — requires solution name, department, KPI, and technology stack"
+      ],
+      "answer": 1,
+      "slide": 22,
+      "feedback_correct": "That template forces the rep to demonstrate persona fluency, account research, and cost-benefit analysis — all before the first call.",
+      "feedback_incorrect": "The UVP sentence is: \"We help [Target Persona] in [Industry] increase [Specific Metric] by [Percentage] and reduce [Pain Point] by [Dollar Amount] in [Timeframe].\" Every blank requires account research; if a rep cannot fill them, they are not ready for the call."
+    },
+    {
+      "question": "How should a rep translate CTFS's AI capabilities when speaking to Gilbert, the Clinical Operations Director, and what is the business outcome?",
+      "choices": [
+        "Emphasize the Document Extraction Agent (DeX) and API integration for IT architecture planning",
+        "Highlight board-level ROI, scalable innovation, and cross-agent orchestration",
+        "Explain AI means faster CTA ingestion and invoice reconciliation with fewer manual steps — the outcome is time saved and fewer delays to trial timelines",
+        "Focus on predictable cash flow, automated invoicing, and real-time portal visibility for site teams"
+      ],
+      "answer": 2,
+      "slide": 23,
+      "feedback_correct": "You've nailed the persona-specific translation — leading with the business outcome (fewer delays, time saved) not the technology name is what makes the message land with Gilbert.",
+      "feedback_incorrect": "For Gilbert in ClinOps, translate AI as faster CTA ingestion and invoice reconciliation with fewer manual steps. The outcome that matters to him is time saved and fewer delays — not technology architecture or agent names."
+    },
+    {
+      "question": "When a prospect asks about competing solutions like GreenPhire and Medidata, when should a rep bring up competitive contrasts, and what are the two core contrasts for CTFS?",
+      "choices": [
+        "Bring them up immediately in the opening pitch; contrast is that CTFS is cheaper and faster to implement than both competitors",
+        "Only when a competitor is named; GreenPhire is a point solution while CTFS is unified, and Medidata is inflexible while CTFS is modular and open",
+        "Save competitive positioning for the final presentation stage; emphasize CTFS's superior user interface and customer support",
+        "Avoid mentioning competitors altogether; focus only on CTFS's unique features and benefits"
+      ],
+      "answer": 1,
+      "slide": 18,
+      "feedback_correct": "Perfect — competitive positioning has a specific place in the conversation, and it only comes out when a competitor is named, not before.",
+      "feedback_incorrect": "Competitive messaging should only emerge when the prospect names a competitor. The two clean contrasts are: GreenPhire is a point solution vs. CTFS is unified, and Medidata is inflexible vs. CTFS is modular and open."
+    }
+  ]
+}
