@@ -6,134 +6,134 @@
   },
   "questions": [
     {
-      "question": "According to the course, what are the five functions that CTFS unifies in a single platform?",
+      "question": "According to the course, what are the five financial functions that CTFS unifies on a single platform?",
       "choices": [
         "Budgeting, contracting, forecasting, site payments, and participant payments",
-        "Budgeting, invoicing, forecasting, site payments, and vendor management",
-        "Grant budgeting, contracting, invoicing, site payments, and participant payments",
-        "Budgeting, contracting, forecasting, invoice processing, and data analytics"
+        "Budgeting, invoicing, forecasting, vendor payments, and compliance reporting",
+        "Grant management, contract negotiation, cash flow analysis, payment processing, and audit trails",
+        "Protocol budgeting, site recruitment, payment tracking, vendor management, and financial reconciliation"
       ],
       "answer": 0,
       "slide": 5,
-      "feedback_correct": "You've correctly identified the core platform unification—these five functions are what differentiate CTFS from point solutions.",
-      "feedback_incorrect": "The five functions are budgeting, contracting, forecasting, site payments, and participant payments. The key is that they all share data in one platform, which eliminates manual reconciliation across separate tools."
+      "feedback_correct": "Exactly right—these five unified functions on shared data are the core differentiator of CTFS.",
+      "feedback_incorrect": "The correct answer focuses on the five specific financial functions that CTFS brings together. Review Slide 5 for the one-sentence definition of what CTFS does."
     },
     {
-      "question": "Which three market statistics does the instructor recommend using to open discovery conversations?",
+      "question": "What is the largest benchmark dataset that gives GrantPlan its competitive advantage in budget accuracy?",
       "choices": [
-        "49% growth in trial sites, 60% increase in protocol amendments, and up to $55,000 per day delay cost for late-stage trials",
-        "49% growth in trial sites, 70% increase in regulatory changes, and up to $50,000 per day delay cost",
-        "58% of sponsor executives using IQVIA, 49% growth in trial sites, and $15 billion in payments processed",
-        "60% increase in protocol amendments, 90% of top 20 pharma using IQVIA, and up to $55,000 per day delay cost"
-      ],
-      "answer": 0,
-      "slide": 4,
-      "feedback_correct": "These three statistics are explicitly called out as your urgency anchors for opening discovery—they establish the market context immediately.",
-      "feedback_incorrect": "The three opening statistics are specifically the 49% growth in trial sites since 2019, the 60% increase in protocol amendments, and the $55,000 per day delay cost for late-stage trials. These are described as your urgency anchors, separate from other proof points like the Frost & Sullivan stat."
-    },
-    {
-      "question": "What is Gilbert's primary pain as a Clinical Operations Director?",
-      "choices": [
-        "High maintenance costs and the risk of disruptive technology implementations",
-        "Fragmentation leading to lack of unified financial visibility, manual reconciliation, and site dissatisfaction from slow payments",
-        "AI pilots that have stalled before reaching enterprise scale",
-        "Cash flow unpredictability and manual, error-prone invoicing"
+        "22 million negotiated data points from FDA submissions",
+        "38 million negotiated data points",
+        "51 million historical trial budgets from top 20 pharma",
+        "15 billion payment records across all geographies"
       ],
       "answer": 1,
-      "slide": 10,
-      "feedback_correct": "You've identified Gilbert's core pain—he is the operations driver who needs end-to-end visibility and efficiency.",
-      "feedback_incorrect": "Gilbert's pain is fragmentation: no unified financial visibility, teams spending too much time reconciling systems, and site dissatisfaction due to payment delays. This is distinct from Reena's IT maintenance concerns or Andres's AI scaling challenges."
+      "slide": 6,
+      "feedback_correct": "That's correct—38 million negotiated data points is the industry-leading dataset no competitor comes close to.",
+      "feedback_incorrect": "The specific dataset size is 38 million negotiated data points, which powers GrantPlan's investigator grant budgeting. This differentiates CTFS on budget accuracy."
     },
     {
-      "question": "What key architectural feature does the instructor recommend emphasizing when speaking with Reena, the VP of IT Clinical?",
+      "question": "Which proof point from the course demonstrates that the market has already adopted CTFS technologies at scale?",
       "choices": [
-        "The 38 million negotiated data points in the GrantPlan benchmark dataset",
-        "The predictive and adaptive forecasting model that adjusts to trial conditions",
-        "API-first, cloud-native architecture with standards-based integration to existing systems like EDC, CTMS, and ERP",
-        "The agentic AI orchestration layer that connects multiple agents through webhooks"
+        "Five hundred ten thousand plus budgets delivered across all trial phases",
+        "Two hundred plus geographies where CTFS operates",
+        "Fifty-eight percent of sponsor executives already use our technologies for clinical trial financial management",
+        "Ninety percent of the top 20 pharma companies use our technologies"
       ],
       "answer": 2,
-      "slide": 11,
-      "feedback_correct": "Reena is IT-focused and needs to hear about integration, compliance, and avoiding custom middleware—these architectural details directly address her concerns.",
-      "feedback_incorrect": "Reena specifically needs to hear about API-first, cloud-native architecture, GxP/GDPR/HIPAA compliance, and standards-based integration with EDC, CTMS, and ERP. Her pain is high maintenance costs and integration complexity, so architectural specifics are what resonate with her."
+      "slide": 8,
+      "feedback_correct": "Perfect—this Frost and Sullivan stat from May 2025 is particularly powerful because it shows peers have already moved, which is compelling social proof in discovery.",
+      "feedback_incorrect": "While all the options are real proof points, the 58% sponsor executive stat is the one specifically called out as most powerful for showing market directional choice in buyer conversations."
     },
     {
-      "question": "Which persona is most concerned with AI pilots that have stalled before reaching production scale?",
+      "question": "What is Rachel's primary pain point, and what does she need to hear from an AE?",
       "choices": [
-        "Gilbert, the Clinical Operations Director",
-        "Reena, the VP of IT Clinical",
-        "Andres, the Digital Transformation Leader",
-        "Rachel, the Site Operations Director"
+        "Her pain is system fragmentation, and she needs an end-to-end platform story with global multicurrency support",
+        "Her pain is high maintenance cost, and she needs architectural specifics like API-first and cloud-native design",
+        "Her pain is cash flow unpredictability, and she needs predictability through automated invoicing and real-time payment visibility",
+        "Her pain is that AI pilots stall before scale, and she needs an orchestration layer connecting multiple AI agents"
       ],
       "answer": 2,
-      "slide": 12,
-      "feedback_correct": "Andres is the buyer whose core pain is stalled AI initiatives, and CTFS positions as the orchestration infrastructure that enables scaling.",
-      "feedback_incorrect": "Andres is the Digital Transformation Leader whose pain is AI pilots that never cross into production. He needs infrastructure and orchestration, not another standalone pilot. Reena is IT-focused, Gilbert focuses on operations, and Rachel focuses on site cash flow."
+      "slide": 13,
+      "feedback_correct": "Exactly—Rachel is the Site Operations Director running lean, and predictable cash flow is her critical need.",
+      "feedback_incorrect": "Rachel is a Site Operations Director, not a Clinical Operations Director or IT leader. Her specific pain is cash flow uncertainty, and the solution she values is predictability through automation and visibility."
     },
     {
-      "question": "According to the course, what is the plain-language definition of agentic AI that you should use with buyers?",
+      "question": "According to the course, what is agentic AI in plain language terms?",
       "choices": [
-        "Artificial intelligence that uses machine learning to predict trial outcomes",
+        "Machine learning that predicts trial outcomes based on historical data patterns",
         "Software that perceives data, takes action, and completes multi-step workflows without a human triggering each step",
-        "An AI system that can integrate with external APIs and third-party platforms",
-        "Autonomous software that replaces human decision-makers in financial processes"
+        "Artificial intelligence agents that work independently without any oversight or human review",
+        "An API-based system that connects multiple clinical trial management tools automatically"
       ],
       "answer": 1,
       "slide": 14,
-      "feedback_correct": "This is the exact definition the instructor provides—simple, clear, and directly tied to value for different personas.",
-      "feedback_incorrect": "The plain-language definition is: software that perceives data, takes action, and completes multi-step workflows without a human triggering each step. This avoids jargon and translates directly to value—fewer exceptions for Reena, proof of operational AI for Andres."
+      "feedback_correct": "That's the exact definition provided in the course—clean, jargon-free, and ready to use in any discovery conversation.",
+      "feedback_incorrect": "The definition focuses on software that acts autonomously across multi-step workflows without human triggering. Review Slide 14 for the plain-language explanation designed for non-technical buyers."
     },
     {
-      "question": "What is the Total Net Value formula that forms the basis of the quantified value proposition?",
+      "question": "When facing a real buying committee with both Gilbert and Reena present, what should the AE do first?",
       "choices": [
-        "Total Net Value = Revenue Uplift + Cost Savings - Solution Cost",
-        "Total Net Value = Annual Cost Savings + Delay Cost Avoidance + Product Discount",
-        "Total Net Value = Staff Hours Saved × Hourly Rate + Trial Acceleration Bonus",
-        "Total Net Value = Platform License Cost + Implementation Cost + Maintenance Savings"
-      ],
-      "answer": 0,
-      "slide": 18,
-      "feedback_correct": "This three-pillar formula is the foundation of moving a prospect from \"interesting\" to \"we need to do this.\"",
-      "feedback_incorrect": "The Total Net Value formula has three pillars: Revenue Uplift (recovery from accelerated timelines), Cost Savings (reduced manual labor), and Solution Cost (what you're charging). This is what enables AEs to build a number the prospect can defend internally."
-    },
-    {
-      "question": "When you encounter the stalled POC objection from Andres, what is the key distinction you should make between CTFS and his previous AI pilot?",
-      "choices": [
-        "CTFS has better AI algorithms and machine learning models than competing solutions",
-        "CTFS is cheaper and requires less implementation effort than other enterprise platforms",
-        "CTFS is not another pilot—it is the enterprise orchestration infrastructure that connects multiple agents and makes pilots scalable",
-        "CTFS uses a proprietary agentic framework that no other vendor has developed"
+        "Start with GrantPlan's 38 million data points, since that appeals to both operational and IT leaders equally",
+        "Lead with API-first architecture to establish credibility with the IT decision-maker before anyone else speaks",
+        "Start with the shared pain—fragmentation and the cost of delay—that every buyer in that room feels",
+        "Ask each person individually what their primary concern is before giving any platform information"
       ],
       "answer": 2,
-      "slide": 25,
-      "feedback_correct": "This response turns his objection into a root cause analysis and positions CTFS as the solution to why his last attempt failed.",
-      "feedback_incorrect": "The key counter to the stalled POC objection is that CTFS is not another standalone pilot—it is the orchestration layer and infrastructure that makes pilots scalable. You're not asking him to try AI again; you're explaining why the last one didn't work and offering the fix."
+      "slide": 15,
+      "feedback_correct": "Correct—opening with shared pain creates common ground, then you branch to individual value drivers as the conversation develops.",
+      "feedback_incorrect": "While personalization matters, the strategic move is to unite the room around a shared problem first, then differentiate value by persona as the conversation progresses."
     },
     {
-      "question": "When closing a deal conversation, what market validation statistic should you reference to establish social proof?",
+      "question": "What is the Total Net Value formula taught in this course, and which pillar often produces the most immediate impact for a Phase III trial?",
       "choices": [
-        "49% growth in trial sites since 2019",
-        "15 billion dollars in payments processed by IQVIA",
-        "58% of sponsor executives already use IQVIA Technologies for clinical trial financial management, according to Frost & Sullivan May 2025",
-        "90% of the top 20 pharma companies use IQVIA for clinical trial management"
-      ],
-      "answer": 2,
-      "slide": 27,
-      "feedback_correct": "This specific stat from Frost & Sullivan is positioned as directional market proof that the prospect's peers have already moved—it's social proof, not just vanity.",
-      "feedback_incorrect": "The closing statistic to use is the Frost & Sullivan May 2025 finding that 58% of sponsor executives already use IQVIA Technologies. This is framed as social proof that the market has made a directional choice, not just a product feature or operational metric."
-    },
-    {
-      "question": "According to the instructor, what is the most important discovery question to ask before choosing which persona-specific message to use?",
-      "choices": [
-        "What is your current annual spend on clinical trial financial management?",
-        "Who owns financial systems, who signs off on technology decisions, and who represents site operations in this conversation?",
-        "Have you considered adopting AI or automation in your clinical operations?",
-        "What specific pain points are you experiencing with your current trial processes?"
+        "Revenue Uplift + Cost Savings - Solution Cost; Cost Savings is typically largest",
+        "Revenue Uplift + Cost Savings - Solution Cost; Revenue Uplift from avoiding trial delays is typically largest",
+        "Implementation Cost - Annual Savings + Efficiency Gains; Revenue Uplift is typically largest",
+        "Cost Savings + Compliance Benefits - Licensing Fees; Cost Savings is typically largest"
       ],
       "answer": 1,
-      "slide": 24,
-      "feedback_correct": "These three questions map directly to your four personas and determine who has authority—skipping this step means pitching the wrong message to the wrong person first.",
-      "feedback_incorrect": "The three discovery questions are: who owns financial systems, who signs off on technology decisions, and who represents site operations. These questions quickly identify which personas are in the room and who has authority, which is discovery priority one before you choose your message track."
+      "slide": 18,
+      "feedback_correct": "Exactly right—the formula is Revenue Uplift + Cost Savings - Solution Cost, and in Phase III trials, the delay cost ($55,000 per day) often drives the biggest number.",
+      "feedback_incorrect": "The Total Net Value formula has three pillars: Revenue Uplift, Cost Savings, and Solution Cost. For late-stage trials specifically, the revenue impact from avoiding delays tends to be the largest component."
+    },
+    {
+      "question": "When Reena raises an integration concern about her complex tech stack, what is the appropriate counter-response from the AE?",
+      "choices": [
+        "Offer to build custom middleware to connect CTFS to any existing system she currently uses",
+        "Ask if that pilot had an enterprise orchestration layer, then position CTFS as infrastructure that enables integration rather than requiring it",
+        "Question whether standards-based integration with EDC, CTMS, and ERP is truly needed, and suggest CTFS can replace those systems instead",
+        "Explain that API-first, cloud-native, and GxP/GDPR/HIPAA compliance mean CTFS works with any stack without custom work"
+      ],
+      "answer": 3,
+      "slide": 25,
+      "feedback_correct": "Perfect—this response directly addresses Reena's architectural concerns by confirming standards-based integration exists and compliance is built in, reducing her implementation risk.",
+      "feedback_incorrect": "Reena's objection is about integration complexity and implementation risk. The answer focuses on the architectural features (API-first, cloud-native, compliance) and standards-based integration that make her concern addressable without custom work."
+    },
+    {
+      "question": "For which persona is the Q4 2025 sandbox specifically framed as a chance to validate integration against their real tech stack with zero production risk?",
+      "choices": [
+        "Gilbert, because he needs to see Site Payments running against real workflow scenarios",
+        "Andres, because he needs proof that AI infrastructure actually scales beyond a pilot",
+        "Reena, because she needs an architecture review in a safe environment without disrupting existing systems",
+        "Rachel, because she needs the fastest path to predictable payments without operational disruption"
+      ],
+      "answer": 2,
+      "slide": 26,
+      "feedback_correct": "Correct—for Reena, the sandbox is positioned as an architecture review with no production data risk, directly addressing her concern about system disruption.",
+      "feedback_incorrect": "Each persona receives a different framing of the sandbox. Reena, the VP of IT Clinical, values the chance to validate integration safely. Review Slide 26 for how each buyer type should hear the sandbox opportunity."
+    },
+    {
+      "question": "What is the instructor's final action item for an AE before their next real deal conversation?",
+      "choices": [
+        "Memorize all four persona pain points and proof points verbatim so you can recite them in discovery",
+        "Practice the Total Net Value calculator with a real account from your pipeline, map the buyer to a persona, and open the discovery conversation this week",
+        "Wait until you have perfected your pitch and can answer every possible objection before contacting any prospect",
+        "Schedule a full platform training with your sales engineer before attempting any discovery call"
+      ],
+      "answer": 1,
+      "slide": 30,
+      "feedback_correct": "Exactly—the course emphasizes moving to action immediately with real accounts, not waiting for perfection.",
+      "feedback_incorrect": "The instructor's guidance is to pick a real account, map it to a persona, and start the discovery conversation this week. The tools and frameworks are ready; applying them in practice is the next step."
     }
   ]
 }
