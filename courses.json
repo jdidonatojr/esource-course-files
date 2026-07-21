@@ -431,5 +431,38 @@
         "startSlide": 27
       }
     ]
+  },
+  "14": {
+    "id": "how_to_position_esource_ai_tools_services_with_prospects",
+    "title": "How to Position ESource AI Tools & Services with Prospects",
+    "totalSlides": 27,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/14-How-to-Position-ESource-AI-Tools-Services-with-Prospects.pdf",
+    "firstMessage": "Welcome to How to Position ESource AI Tools & Services with Prospects. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction (slides 1-3)",
+        "startSlide": 1
+      },
+      {
+        "label": "ESource Portfolio (slides 4-7)",
+        "startSlide": 4
+      },
+      {
+        "label": "Prospect Qualification (slides 8-13)",
+        "startSlide": 8
+      },
+      {
+        "label": "Discovery Conversation (slides 14-18)",
+        "startSlide": 14
+      },
+      {
+        "label": "Value Proposition Framework (slides 19-25)",
+        "startSlide": 19
+      },
+      {
+        "label": "Closing and Next Steps (slides 26-27)",
+        "startSlide": 26
+      }
+    ]
   }
 }
