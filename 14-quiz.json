@@ -1,0 +1,139 @@
+{
+  "brand": {
+    "title": "ESource AI Group (Production)",
+    "subtitle": "Knowledge Check — How to Position ESource AI Tools & Services with Prospects",
+    "color": "#1a73e8"
+  },
+  "questions": [
+    {
+      "question": "Which three brands operate under the ESource umbrella?",
+      "choices": [
+        "ESource Corp, ESource AI University, and ESource AI Group",
+        "ESource Corp, ESource Learning, and ESource Enterprise",
+        "ESource Training, ESource AI Solutions, and ESource Consulting",
+        "ESource L&D, ESource Staffing, and ESource Technology"
+      ],
+      "answer": 0,
+      "slide": 3,
+      "feedback_correct": "Exactly right—these three brands together cover the full ESource portfolio from L&D consulting to AI curriculum to enterprise infrastructure.",
+      "feedback_incorrect": "The three brands are ESource Corp (L&D consulting and staffing), ESource AI University (AI courses and chatbots), and ESource AI Group (enterprise intelligence). Knowing all three helps you match any prospect situation to the right solution."
+    },
+    {
+      "question": "What is the primary output speed advantage of the L&D Expert Assistant?",
+      "choices": [
+        "It produces training in 10 minutes versus 10 days using standard methods",
+        "It produces a full ILT package in under 10 minutes and e-learning in minutes instead of days",
+        "It cuts development time by 50 percent compared to competitors",
+        "It speeds up LMS deployment by eliminating SCORM conversion"
+      ],
+      "answer": 1,
+      "slide": 6,
+      "feedback_correct": "That's the core capability—full instructor-led training package (outline, facilitator guide, workbook, slides) in under ten minutes, with e-learning produced in minutes instead of days.",
+      "feedback_incorrect": "The L&D Expert Assistant is remarkable specifically because it produces a complete ILT package in under ten minutes and e-learning in minutes rather than days, with a benchmark claim of up to 99.98% faster than standard development workflows."
+    },
+    {
+      "question": "According to the course, what makes a prospect 'high-fit' for ESource?",
+      "choices": [
+        "They work in the healthcare or financial services industry",
+        "Their current organizational moment matches something ESource can solve, not their industry",
+        "They have a fully staffed L&D team with mature processes",
+        "They have already implemented an LMS in the last three years"
+      ],
+      "answer": 1,
+      "slide": 8,
+      "feedback_correct": "Perfect—fit is about timing and organizational moment, not industry. ESource serves every vertical, and the same company can be low-fit one quarter and high-fit the next based on what they are actively working on.",
+      "feedback_incorrect": "Fit is not determined by industry or past decisions. Fit is about whether the prospect's current organizational moment—a merger, an initiative, executive pressure—matches something ESource solves right now. A mature, stable L&D team with no active initiative is actually low-fit today."
+    },
+    {
+      "question": "Which of these is NOT listed as a green-light signal for ESource Corp?",
+      "choices": [
+        "Launching a new product or service with no internal training bandwidth",
+        "Going through a merger or acquisition requiring knowledge integration",
+        "Exploring AI implementation without internal expertise",
+        "Building a mature L&D team with fully staffed instructional designers"
+      ],
+      "answer": 3,
+      "slide": 9,
+      "feedback_correct": "Correct—a fully staffed, mature L&D team is actually a disqualifying signal, not a green-light signal. The green lights are launch, hiring/scaling, consolidation, and M&A.",
+      "feedback_incorrect": "The four green-light signals for ESource Corp are: new product/service launch, hiring or scaling an L&D team, consolidating an LMS or implementing AI, and merger or acquisition. A fully staffed and mature team with no active initiative is a disqualifying signal instead."
+    },
+    {
+      "question": "What are the three questions you can ask in a two-minute fit check?",
+      "choices": [
+        "How many people are on your team, what is your annual training budget, and who reports to the CEO?",
+        "What is your team working on that keeps you up at night, have you had pressure from leadership on AI, and are you fully staffed on L&D?",
+        "What tools are you currently using, when is your next budget cycle, and are you planning any technology upgrades?",
+        "What is your company's annual revenue, how many locations do you have, and what is your employee count?"
+      ],
+      "answer": 1,
+      "slide": 12,
+      "feedback_correct": "Exactly—these three quick questions surface active pain, executive urgency, and capacity constraints in the first two minutes of any opener.",
+      "feedback_incorrect": "The two-minute fit check uses three simple questions: 'What is your team working on right now that keeps you up at night?' (surfaces active problems), 'Have you had any pressure from leadership to do something with AI?' (reveals executive urgency), and 'Are you fully staffed on the L&D side today?' (uncovers capacity gaps)."
+    },
+    {
+      "question": "In the discovery conversation structure, which two categories are most critical to hit on a first call?",
+      "choices": [
+        "Situation and Priority",
+        "Problem and Impact",
+        "Situation and Problem",
+        "Impact and Priority"
+      ],
+      "answer": 1,
+      "slide": 16,
+      "feedback_correct": "You've got it—Problem and Impact are the two most important discovery categories on a first call because they surface actual pain and reveal the cost of inaction.",
+      "feedback_incorrect": "While all four discovery categories matter (Situation, Problem, Impact, Priority), Problem and Impact are the most critical on a first call. Situation you can often research in advance, and Priority sometimes reveals itself naturally. Problem and Impact are where the real conversation happens."
+    },
+    {
+      "question": "What is the formula for calculating Pillar 2 (Cost Reduction and Efficiency) in the UVP?",
+      "choices": [
+        "Annual revenue × performance improvement percentage",
+        "Monthly revenue × downtime or delay percentage",
+        "Hours per week on the problem × hourly rate × number of people affected",
+        "Solution cost × contract length × number of users"
+      ],
+      "answer": 2,
+      "slide": 22,
+      "feedback_correct": "Right—this formula surfaces the labor cost waste that an ESource solution eliminates. In the course example, 5 designers × 10 hours × $50/hour = $2,500/week or over $130K/year.",
+      "feedback_incorrect": "Pillar 2 (Cost Reduction and Efficiency) is calculated as: hours per week spent on the problem multiplied by average hourly rate multiplied by number of people affected. This reveals the hidden labor cost that the ESource solution will eliminate."
+    },
+    {
+      "question": "According to the course, what distinguishes a true value proposition from a mere claim?",
+      "choices": [
+        "It mentions the prospect's company name and industry",
+        "It includes a specific dollar figure or measurable outcome",
+        "It compares ESource favorably to three competitors",
+        "It describes the features of the ESource solution in detail"
+      ],
+      "answer": 1,
+      "slide": 19,
+      "feedback_correct": "Exactly—if you cannot put a number on it, it is a claim, not a proposition. 'Helps teams move faster' is a tagline; 'eliminates $130K in annual costs' is a value proposition.",
+      "feedback_incorrect": "A value proposition must include a specific number—either a dollar figure or a measurable outcome. Without a number, you have a talking point or a claim, not a calculated business case that lands credibly with a prospect."
+    },
+    {
+      "question": "Which pillar of the UVP formula addresses the cost of delay—such as a product launch stalled because training is not ready?",
+      "choices": [
+        "Pillar 1: Revenue Uplift",
+        "Pillar 2: Cost Reduction and Efficiency",
+        "Pillar 3: Risk Mitigation and Time-to-Value",
+        "None of the above; delay costs are not part of the UVP calculation"
+      ],
+      "answer": 2,
+      "slide": 23,
+      "feedback_correct": "Correct—Pillar 3 makes the cost of waiting tangible by calculating monthly revenue multiplied by the downtime or delay percentage, which often persuades prospects to act.",
+      "feedback_incorrect": "Pillar 3 (Risk Mitigation and Time-to-Value) captures the revenue loss from delays and downtime. This is a powerful pillar because it transforms a frustration into a dollar figure and often motivates prospects who are sitting on the fence."
+    },
+    {
+      "question": "You have just completed a discovery call and heard enough to know there is a fit between the prospect's pain and an ESource solution. What is your next step in the conversation?",
+      "choices": [
+        "Immediately launch into a detailed product demo",
+        "Ask the prospect to schedule a follow-up meeting with your manager",
+        "Use a bridge statement to validate what they said and ask permission to explain how ESource addresses it",
+        "Send them a proposal email with pricing and implementation timelines"
+      ],
+      "answer": 2,
+      "slide": 17,
+      "feedback_correct": "Perfect—the bridge statement validates what you heard, signals relevant experience, and keeps the prospect in the conversation by asking permission to move forward.",
+      "feedback_incorrect": "After discovery, use a bridge statement like 'Based on what you just described, a lot of our clients in a similar situation have found that [ESource capability] addressed exactly that—can I tell you how it works?' This transitions cleanly from listening to recommending without sounding like you were just waiting to pitch."
+    }
+  ]
+}
