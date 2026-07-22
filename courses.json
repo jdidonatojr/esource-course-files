@@ -357,16 +357,16 @@
         "startSlide": 5
       },
       {
-        "label": "Hands-On Steps (slides 6-12)",
+        "label": "Hands-On Workflow (slides 6-12)",
         "startSlide": 6
       },
       {
-        "label": "Review and Documentation (slides 13-13)",
+        "label": "Documentation and Next Steps (slides 13-14)",
         "startSlide": 13
       },
       {
-        "label": "Next Steps and Resources (slides 14-16)",
-        "startSlide": 14
+        "label": "Knowledge Check and Closing (slides 15-16)",
+        "startSlide": 15
       }
     ]
   },
