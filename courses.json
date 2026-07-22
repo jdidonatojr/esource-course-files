@@ -342,31 +342,31 @@
     ]
   },
   "11": {
-    "id": "notebooklm_in_action",
-    "title": "NotebookLM in Action",
+    "id": "gemini_notebook_in_action",
+    "title": "Gemini Notebook in Action",
     "totalSlides": 16,
-    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/11-NotebookLM-in-Action.pdf",
-    "firstMessage": "Welcome to NotebookLM in Action. Are you ready to begin?",
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/11-Gemini-Notebook-in-Action.pdf",
+    "firstMessage": "Welcome to Gemini Notebook in Action. Are you ready to begin?",
     "sections": [
       {
         "label": "Introduction and Context (slides 1-4)",
         "startSlide": 1
       },
       {
-        "label": "Course Overview (slides 5-6)",
+        "label": "Exercise Overview (slides 5-5)",
         "startSlide": 5
       },
       {
-        "label": "Hands-On Exercise (slides 7-12)",
-        "startSlide": 7
+        "label": "Hands-On Steps (slides 6-12)",
+        "startSlide": 6
       },
       {
-        "label": "Consolidating Learning (slides 13-15)",
+        "label": "Review and Documentation (slides 13-13)",
         "startSlide": 13
       },
       {
-        "label": "Closing and Next Steps (slides 16)",
-        "startSlide": 16
+        "label": "Next Steps and Resources (slides 14-16)",
+        "startSlide": 14
       }
     ]
   },
