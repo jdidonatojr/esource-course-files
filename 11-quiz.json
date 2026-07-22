@@ -8,119 +8,132 @@
     {
       "question": "What is the main purpose of Gemini Notebook?",
       "choices": [
-        "To browse the open web and pull in context from any source automatically",
+        "To browse the open web and gather information from any source",
         "To work exclusively from sources you provide, synthesizing them without outside context",
-        "To create video content from your webcam and edit it automatically",
-        "To replace all other Google productivity tools in your workflow"
+        "To replace traditional note-taking apps with AI-powered alternatives",
+        "To generate content without requiring any user input or direction"
       ],
       "answer": 1,
       "slide": 2,
-      "feedback_correct": "Exactly—Gemini Notebook is grounded in your material only, which keeps the output trustworthy and traceable.",
-      "feedback_incorrect": "Gemini Notebook actually works only from sources you give it, not from the open web. This is a feature, not a limitation, because it means everything it generates is grounded in your actual material."
+      "feedback_correct": "Exactly—Gemini Notebook is designed to work only with material you give it, which keeps the output grounded and traceable.",
+      "feedback_incorrect": "Gemini Notebook actually does not browse the web or pull in outside context. It works exclusively from the sources you provide, which is a feature that ensures grounded, traceable output."
     },
     {
-      "question": "What is Studio in Gemini Notebook?",
+      "question": "What is Studio within Gemini Notebook?",
       "choices": [
-        "A video recording studio where you film yourself presenting",
-        "The panel inside every notebook where you generate rich content formats like Video Overviews",
-        "A premium subscription tier that costs extra money",
-        "A collection of templates you can use to design presentations"
+        "A separate application that requires its own login",
+        "The panel inside every notebook where you generate rich content formats",
+        "A feature that only works with video files",
+        "A collaboration tool for sharing notebooks with other users"
       ],
       "answer": 1,
       "slide": 3,
-      "feedback_correct": "Right—Studio is where you turn your source material into structured outputs like Video Overviews and Audio Overviews.",
-      "feedback_incorrect": "Studio is not a physical space or a paid upgrade. It's the content generation panel built into every notebook where you create outputs from your sources."
+      "feedback_correct": "That's right—Studio is the content generation hub where you turn your sources into formats like Audio Overviews and Video Overviews.",
+      "feedback_incorrect": "Studio is a panel within Gemini Notebook itself, not a separate application. It's where you create content formats from your sources."
     },
     {
-      "question": "What is a Video Overview in Gemini Notebook?",
+      "question": "What is a Video Overview in the context of this course?",
       "choices": [
-        "A casual, unstructured recording of you talking about a topic",
-        "A structured, presenter-style summary built directly from your source material, like a briefing",
-        "A compilation of video clips from YouTube related to your topic",
-        "An interactive quiz that tests your knowledge of a source"
+        "A raw, unstructured recording of everything in your source material",
+        "A structured, presenter-style summary built directly from source material",
+        "An interactive quiz format that tests comprehension",
+        "A live-streamed presentation that requires audience participation"
       ],
       "answer": 1,
       "slide": 3,
-      "feedback_correct": "That's correct—a Video Overview is designed to get someone up to speed fast, much like a briefing before a meeting.",
-      "feedback_incorrect": "A Video Overview is structured and generated from your sources, not casual or pulled from the web. It's designed to be a professional summary that synthesizes your material."
+      "feedback_correct": "Correct—a Video Overview is a structured briefing format, presenter-style, designed to help someone get up to speed quickly on source material.",
+      "feedback_incorrect": "A Video Overview is not raw or unstructured. It's a polished, organized summary delivered in a presenter style, perfect for quick briefings before meetings or for colleagues who need to catch up fast."
     },
     {
-      "question": "What should you do immediately after adding a website URL as a source?",
+      "question": "In the hands-on exercise, what is the first action you take after signing into Gemini Notebook?",
       "choices": [
-        "Start typing questions in the search box right away",
-        "Click Generate to create a Video Overview immediately",
-        "Watch the Sources panel on the left until the source appears with a title and summary",
-        "Navigate away and come back to it after 24 hours"
+        "Add a website source immediately",
+        "Open Studio and select Video Overview",
+        "Create a new notebook and give it a name",
+        "Watch an instructional video about the interface"
+      ],
+      "answer": 2,
+      "slide": 7,
+      "feedback_correct": "Yes—after signing in, the first step is creating a new notebook with a meaningful name for your workspace.",
+      "feedback_incorrect": "While you do need to sign in first, the next step is to create a new notebook. This gives you your private workspace before you add any sources."
+    },
+    {
+      "question": "What should you look for in the Sources panel to confirm that Gemini Notebook has finished processing a website you added?",
+      "choices": [
+        "A green checkmark icon next to the URL",
+        "A notification popup thanking you for adding the source",
+        "The source appears with a title and short summary beneath it",
+        "An email confirmation sent to your Google account"
       ],
       "answer": 2,
       "slide": 9,
-      "feedback_correct": "Perfect—watching the Sources panel confirms that Gemini Notebook has processed your material and is ready to use.",
-      "feedback_incorrect": "You need to wait for processing to complete first. When the source appears in the list with a title and summary, that's your confirmation that the material is indexed and ready to work with."
+      "feedback_correct": "Exactly—when the source appears in the list with a title pulled from the page and a summary underneath, that's your confirmation it's ready to use.",
+      "feedback_incorrect": "Gemini Notebook signals completion by displaying the source with a title and summary in your Sources panel. This is what tells you the AI has processed your material and is ready to work with it."
     },
     {
-      "question": "In what order do the core steps of creating a Video Overview occur?",
+      "question": "What happens when you click Generate for a Video Overview in Studio?",
       "choices": [
-        "Open Gemini Notebook, create a notebook, add a source, open Studio, generate the Video Overview",
-        "Add a source, create a notebook, open Studio, open Gemini Notebook, generate the Video Overview",
-        "Open Studio, create a notebook, open Gemini Notebook, add a source, generate the Video Overview",
-        "Generate the Video Overview, create a notebook, add a source, open Studio, open Gemini Notebook"
+        "The video appears instantly on your screen",
+        "Gemini Notebook builds a structured video summary from your source material, which takes a few seconds to a couple of minutes",
+        "You are prompted to record your own voiceover",
+        "The tool opens your source in a video editor for you to manually create the overview"
       ],
-      "answer": 0,
-      "slide": 5,
-      "feedback_correct": "Excellent—you have the sequence down: sign in, create the workspace, add your material, open the generation tool, then create the output.",
-      "feedback_incorrect": "The correct order starts with opening Gemini Notebook and signing in, then creating a named notebook, adding your website source, opening Studio, and finally generating the Video Overview. This progression ensures your workspace and material are ready before you generate content."
+      "answer": 1,
+      "slide": 11,
+      "feedback_correct": "That's correct—generating a Video Overview takes time because Gemini Notebook is actively synthesizing and structuring your source material into that format.",
+      "feedback_incorrect": "Video Overview generation is not instant, but it is automated. Gemini Notebook does the work of building the structured summary for you from your source—no manual editing or recording required."
     },
     {
-      "question": "Why is it important that Gemini Notebook does not perform open web searches when generating content?",
+      "question": "According to the course, why is the grounded nature of Gemini Notebook's output described as important?",
       "choices": [
-        "Because it saves money on API costs and makes the tool run faster",
-        "Because it ensures all output is grounded in your material and traceable, not hallucinated",
-        "Because the tool is not allowed to access the internet for security reasons",
-        "Because it prevents the tool from competing with Google Search"
+        "It allows you to generate content faster than other tools",
+        "It ensures every insight can be traced back to source material you provided, not invented information",
+        "It prevents other users from seeing your work",
+        "It requires less storage space on your device"
       ],
       "answer": 1,
       "slide": 2,
-      "feedback_correct": "Exactly—working only from your sources means every insight in the output can be traced back to something you actually provided, which makes the tool trustworthy.",
-      "feedback_incorrect": "The reason Gemini Notebook avoids open web searches is to ground the output in your actual material. This prevents hallucination and makes every result verifiable, which is a core strength of the tool."
+      "feedback_correct": "Precisely—because Gemini Notebook works only from your sources, you can verify where every piece of information came from, which is a significant advantage.",
+      "feedback_incorrect": "The grounded approach is valuable because it means the output is traceable and fact-based. You're not getting hallucinated or outside information mixed in—only what you actually provided."
     },
     {
-      "question": "After you complete the hands-on exercise, what resource does the course offer to help you remember the steps?",
+      "question": "After completing the hands-on exercise, what option is offered to you before closing out?",
       "choices": [
-        "A video recording of an instructor demonstrating the entire process again",
-        "A certification badge you can display on your LinkedIn profile",
-        "A written, step-by-step document you can keep and reuse",
-        "Access to a live chat support group with other learners"
-      ],
-      "answer": 2,
-      "slide": 13,
-      "feedback_correct": "That's right—you can ask for a written summary of the steps you completed, which you can keep as a reusable reference.",
-      "feedback_incorrect": "The course provides a written document you can request that captures every step you just completed. You can use this as a reference guide whenever you want to repeat the process with new material."
-    },
-    {
-      "question": "Which of the following is the best example of when Gemini Notebook would add genuine value to your actual work?",
-      "choices": [
-        "Brainstorming creative ideas for a marketing campaign with no reference material",
-        "Loading a PDF report you need to understand before a meeting and generating a Video Overview to watch instead",
-        "Replacing all of your note-taking apps with a single tool",
-        "Creating social media content without reviewing any sources first"
+        "A survey asking for feedback on the course",
+        "A written summary document of every step you completed that you can reuse",
+        "A certification badge for finishing the exercise",
+        "A link to purchase Gemini Notebook premium features"
       ],
       "answer": 1,
-      "slide": 14,
-      "feedback_correct": "Perfect—this is exactly the kind of practical use case where Gemini Notebook shines: taking real material you have and synthesizing it into a consumable format.",
-      "feedback_incorrect": "Gemini Notebook works best when you bring your own material to it. The value comes from loading actual documents, reports, or pages you need to understand and generating structured summaries from them, not from working without sources."
+      "slide": 13,
+      "feedback_correct": "Right—Gemini Notebook can create a clean, reusable reference document summarizing the steps you just completed.",
+      "feedback_incorrect": "The course offers you a written reference document of the steps you performed so you can repeat the process independently on your own material later."
     },
     {
-      "question": "What should happen if you encounter an issue or uncertainty while completing the hands-on steps?",
+      "question": "Based on the course content, what would be the most appropriate next step after completing this training?",
       "choices": [
-        "Skip the step and move on to the next one without help",
-        "Close Gemini Notebook and start over from the beginning",
-        "Take your time with each step and refer back to the instructor notes for that slide when needed",
-        "Wait until the course is completely finished before asking any questions"
+        "Wait for an email with advanced features to unlock",
+        "Open a new notebook this week with actual material from your work and run the same steps",
+        "Take the course again with a different website URL",
+        "Sign up for a Gemini Notebook certification program"
+      ],
+      "answer": 1,
+      "slide": 16,
+      "feedback_correct": "Exactly—the course explicitly recommends applying what you learned to real work material this week, which is where the tool becomes genuinely useful.",
+      "feedback_incorrect": "The point of this training is not just to learn the steps once, but to apply them to your own work. Taking what you've practiced with a random webpage and using it on actual documents, reports, or materials from your job is how you'll see real value."
+    },
+    {
+      "question": "Why does the course emphasize that Gemini Notebook works only from sources you provide rather than browsing the open web?",
+      "choices": [
+        "Because web browsing would make the tool too slow to use",
+        "Because it is a limitation that Google will eventually fix in future updates",
+        "Because it ensures output is grounded, traceable, and based only on material you control",
+        "Because web sources are less reliable than the sources you choose"
       ],
       "answer": 2,
-      "slide": 6,
-      "feedback_correct": "That's the right approach—the instructor notes on each slide are there to guide you through every step at your own pace.",
-      "feedback_incorrect": "Each slide has detailed instructor notes that walk you through exactly what to do and what to expect. If you're uncertain about a step, review those notes on that slide—they're designed to support you through the entire hands-on exercise."
+      "slide": 2,
+      "feedback_correct": "Perfect—this design choice is presented as a feature, not a limitation, because it guarantees that everything generated comes from your actual material.",
+      "feedback_incorrect": "The closed-source approach is actually presented as a strength. By working only from what you provide, the tool ensures every output is grounded in material you control and can verify, rather than pulling in unpredictable outside context."
     }
   ]
 }
