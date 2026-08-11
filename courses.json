@@ -464,5 +464,38 @@
         "startSlide": 26
       }
     ]
+  },
+  "15": {
+    "id": "selling_the_iqvia_clinical_trial_financial_suite",
+    "title": "Selling the IQVIA Clinical Trial Financial Suite",
+    "totalSlides": 40,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/15-Selling-the-IQVIA-Clinical-Trial-Financial-Suite.pdf",
+    "firstMessage": "Welcome to Selling the IQVIA Clinical Trial Financial Suite. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Context (slides 1-7)",
+        "startSlide": 1
+      },
+      {
+        "label": "CTFS Platform Overview (slides 8-14)",
+        "startSlide": 8
+      },
+      {
+        "label": "Customer Personas and Messaging (slides 15-19)",
+        "startSlide": 15
+      },
+      {
+        "label": "Current-State Analysis (slides 20-27)",
+        "startSlide": 20
+      },
+      {
+        "label": "UVP Calculator and Value Quantification (slides 28-35)",
+        "startSlide": 28
+      },
+      {
+        "label": "Sales Application and Assessment (slides 36-40)",
+        "startSlide": 36
+      }
+    ]
   }
 }
