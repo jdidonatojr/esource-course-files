@@ -6,134 +6,134 @@
   },
   "questions": [
     {
-      "question": "What are the four modules covered in the Selling the IQVIA Clinical Trial Financial Suite course?",
+      "question": "According to the course, what are the four modules that make up the CTFS sales enablement training?",
       "choices": [
         "Introduction to CTFS, Understanding Customer Personas, Analyzing Cost and Opportunity, and Utilizing the UVP Calculator",
-        "CTFS Overview, Site Payments, GrantPlan, and Case Studies",
-        "Budget Management, Invoice Processing, Payment Workflows, and Risk Assessment",
-        "Sales Strategy, Customer Discovery, Solution Design, and Implementation Planning"
+        "GrantPlan, Site Payments, Contracting, and Forecasting",
+        "Clinical Operations, Digital Transformation, IT Leadership, and Finance",
+        "Budgeting, Invoicing, Payment Processing, and Compliance"
       ],
       "answer": 0,
       "slide": 4,
-      "feedback_correct": "Exactly right—these four modules form the backbone of the course structure and build from context to application.",
-      "feedback_incorrect": "The course road map on Slide 4 clearly outlines the four modules. While the other options mention relevant concepts, they don't reflect the actual course structure."
+      "feedback_correct": "Exactly right—these four modules build from business context through persona understanding to value quantification.",
+      "feedback_incorrect": "While some of these options reference CTFS capabilities or customer roles, the course Road Map on Slide 4 specifies the four training modules you selected."
     },
     {
-      "question": "Which of the following is NOT listed as a current-state challenge in the CTFS sales context?",
+      "question": "Which two statistics does the course cite to demonstrate that clinical trial complexity is growing?",
       "choices": [
-        "Payment disputes strain site relationships",
-        "Siloed tools limit visibility",
-        "Excessive automated decision-making creates confusion",
-        "Email obscures process ownership"
+        "49% growth in trial sites and 60% increase in protocol amendments",
+        "60% growth in trial sites and 49% increase in protocol amendments",
+        "35% growth in trial sites and 70% increase in protocol amendments",
+        "49% increase in payment disputes and 60% increase in manual data entry"
       ],
-      "answer": 2,
-      "slide": 7,
-      "feedback_correct": "Well done—excessive automation is not mentioned as a problem; the course focuses on too much manual work, not too much automation.",
-      "feedback_incorrect": "Review Slide 7, which outlines the current-state challenges. The actual problems are manual data entry, siloed tools, email-based processes, and payment disputes—not automation issues."
+      "answer": 0,
+      "slide": 6,
+      "feedback_correct": "These specific statistics appear on Slide 6 and illustrate the growing operational burden that makes CTFS relevant.",
+      "feedback_incorrect": "While both numbers relate to trial complexity, the correct pairing is 49% for trial sites and 60% for protocol amendments. Check Slide 6 to confirm these metrics."
     },
     {
-      "question": "What is the primary purpose of GrantPlan within the CTFS platform?",
+      "question": "What is Rachel's primary role and top priority in the customer organization?",
       "choices": [
-        "To automate invoice creation and validate invoices against CTA terms",
-        "To support evidence-based budgeting using fair-market-value data and historical agreement information",
-        "To provide payment-status visibility and reduce manual reconciliation",
-        "To orchestrate multiple AI workflows and enable governance and transparency"
-      ],
-      "answer": 1,
-      "slide": 11,
-      "feedback_correct": "Correct—GrantPlan focuses on improving budget development through evidence-based information rather than manual effort.",
-      "feedback_incorrect": "Review Slide 11 to distinguish GrantPlan from other CTFS modules. GrantPlan is specifically about budgeting with fair-market-value data, not invoice processing or AI orchestration."
-    },
-    {
-      "question": "Which customer persona would be most interested in APIs, webhooks, and agentic AI orchestration?",
-      "choices": [
-        "Rachel, the Clinical Operations Director",
-        "Andrés, the Digital Transformation Leader",
-        "Reena, the VP IT Clinical",
-        "A clinical trial site finance administrator"
-      ],
-      "answer": 1,
-      "slide": 17,
-      "feedback_correct": "Correct—Andrés prioritizes scalable digital innovation and agentic AI orchestration as a means to demonstrate transformation outcomes at scale.",
-      "feedback_incorrect": "While Reena (VP IT Clinical) cares about APIs and architecture, Andrés is specifically highlighted as the persona who prioritizes agentic AI orchestration and cross-agent innovation (Slide 17). Rachel focuses on execution and site relationships (Slide 16)."
-    },
-    {
-      "question": "What discovery question would be most appropriate to ask Rachel, the Clinical Operations Director?",
-      "choices": [
-        "Which AI use cases have demonstrated value in your organization, and what has prevented them from scaling?",
-        "Where do payment issues most often create operational friction for your sites or study teams?",
-        "What are your specific GxP, GDPR, and HIPAA validation requirements?",
-        "How many protocol amendments occur per study, and what is the administrative burden?"
+        "VP IT Clinical who prioritizes integration and governance",
+        "Clinical Operations Director who prioritizes execution and predictability",
+        "Digital Transformation Leader who prioritizes scalable digital innovation",
+        "Finance Director who prioritizes cost reduction across all departments"
       ],
       "answer": 1,
       "slide": 16,
-      "feedback_correct": "Exactly right—this question directly connects to Rachel's priority of maintaining productive site relationships and reducing operational friction.",
-      "feedback_incorrect": "The instructor notes on Slide 16 provide the suggested discovery question for Rachel. The other options reflect questions better suited to Andrés (digital transformation) or Reena (IT governance)."
+      "feedback_correct": "Rachel is the Clinical Operations Director focused on keeping studies moving and maintaining productive site relationships.",
+      "feedback_incorrect": "The course introduces three main personas—Rachel, Andrés, and Reena—each with distinct roles and priorities. Review Slide 16 to confirm Rachel's focus on execution and predictability."
     },
     {
-      "question": "According to the course, what are the four primary sources of customer impact when analyzing current-state costs?",
+      "question": "According to the course, which of the following best describes Andrés' view of CTFS value?",
       "choices": [
-        "System downtime, software licensing, staff turnover, and regulatory fines",
+        "He values CTFS primarily because it reduces manual invoice preparation for study teams.",
+        "He is interested in whether CTFS can produce measurable operational change at scale through agentic AI and extensible architecture.",
+        "He focuses on CTFS's ability to improve site relationship quality and reduce payment disputes.",
+        "He evaluates CTFS based on its compliance certifications and data security standards."
+      ],
+      "answer": 1,
+      "slide": 17,
+      "feedback_correct": "Andrés, the Digital Transformation Leader, is concerned with scalable digital innovation, agentic AI orchestration, APIs, and measurable transformation outcomes.",
+      "feedback_incorrect": "While each answer option reflects a valid CTFS benefit, Andrés's persona is specifically focused on digital transformation at scale. Review Slide 17 to understand his unique perspective on extensibility and AI."
+    },
+    {
+      "question": "What does the course identify as the four main sources of customer impact when analyzing cost and opportunity?",
+      "choices": [
+        "Software licensing fees, implementation costs, staff training, and ongoing support",
         "Labor and administrative costs, delays and cycle-time costs, risk and compliance costs, and lost capacity and opportunity",
-        "Invoice processing, payment validation, site management, and budget forecasting",
-        "Manual data entry, email communication, spreadsheet errors, and system integration gaps"
+        "Invoice processing, payment validation, forecasting, and budgeting",
+        "Clinical operations, digital transformation, IT infrastructure, and finance management"
       ],
       "answer": 1,
       "slide": 21,
-      "feedback_correct": "Perfect—these four sources form the framework for understanding where value and customer savings come from.",
-      "feedback_incorrect": "Review Slide 21, which explicitly identifies the four sources of customer impact. While the other options mention related challenges, only the second choice captures the full framework used in the course."
+      "feedback_correct": "Slide 21 specifies these four sources of customer impact as the foundation for analyzing value during discovery.",
+      "feedback_incorrect": "The four sources of customer impact are not implementation costs or functional areas, but rather the business consequences of the current-state process. Review Slide 21 to understand how to quantify customer value."
     },
     {
-      "question": "When using the UVP Calculator, why is it important to separate facts from assumptions?",
+      "question": "In the labor savings framework presented in the course, which elements are multiplied together to estimate annual labor savings?",
       "choices": [
-        "To make the calculator easier to use and reduce the number of inputs required",
-        "To ensure that the sales process moves quickly without unnecessary validation delays",
-        "To maintain credibility and help both the seller and customer understand which inputs are known, estimated, or still requiring validation",
-        "To reduce the total net value and avoid overstating customer benefits"
+        "Process volume, average hourly rate, and number of process cycles per year",
+        "Hours saved per week, average hourly rate, number of employees, and the annualized working period",
+        "Manual effort hours, cost of tools, solution cost, and time to implement",
+        "Invoice volume, dispute frequency, payment aging, and staff utilization rate"
+      ],
+      "answer": 1,
+      "slide": 31,
+      "feedback_correct": "The labor savings formula multiplies hours saved by hourly rate by number of employees involved, then scales to an annual period.",
+      "feedback_incorrect": "While process metrics are important for discovery, the labor savings formula specifically uses hours saved, hourly rate, number of employees, and the annualized working period. See Slide 31 for the exact calculation."
+    },
+    {
+      "question": "According to the course's UVP value framework, what five categories of value should be considered when building a business case?",
+      "choices": [
+        "Process improvement, staff reduction, technology ROI, risk mitigation, and strategic alignment",
+        "Revenue uplift, cost savings, time savings, risk or downtime reduction, and solution cost",
+        "Implementation cost, licensing fees, training investment, maintenance, and integration expenses",
+        "Labor hours, invoice volume, payment disputes, cycle time, and audit compliance"
+      ],
+      "answer": 1,
+      "slide": 29,
+      "feedback_correct": "Slide 29 presents the complete value framework with these five categories, showing how CTFS delivers both financial and operational benefits.",
+      "feedback_incorrect": "While several of these categories relate to business value, the UVP value framework specifically includes revenue uplift, cost savings, time savings, risk/downtime reduction, and solution cost. Review Slide 29 to understand the complete picture."
+    },
+    {
+      "question": "The course emphasizes that when presenting labor cost savings, a seller should focus on what rather than on general efficiency claims?",
+      "choices": [
+        "The total number of employees who will be reassigned to other departments",
+        "The percentage reduction in overall IT system spending",
+        "Quantified activities such as specific hours, number of invoices, and documented follow-up effort",
+        "The timeline required to achieve the projected savings over the first three years"
+      ],
+      "answer": 2,
+      "slide": 22,
+      "feedback_correct": "Slide 22 instructs sellers to quantify activities rather than using vague language, asking for specifics like invoice volumes and time per review.",
+      "feedback_incorrect": "To build credibility, focus on verifiable, quantified activities rather than general statements about efficiency. Review Slide 22 to learn how to gather the specific metrics that support labor savings claims."
+    },
+    {
+      "question": "When using the UVP Calculator, the course advises sellers to separate which two types of input information to maintain credibility?",
+      "choices": [
+        "Customer assumptions and vendor marketing claims",
+        "Current-state costs and future-state benefits",
+        "Facts from assumptions, and validate customer-provided metrics against labeled benchmarks",
+        "Financial impact and operational impact, keeping them in separate worksheets"
       ],
       "answer": 2,
       "slide": 27,
-      "feedback_correct": "Exactly—credibility depends on transparency about which information is verified customer data versus estimated or benchmarked.",
-      "feedback_incorrect": "Slide 27 emphasizes that separating facts from assumptions is essential for maintaining credibility. Avoid presenting calculated results as guaranteed savings; instead, make assumptions visible and encourage validation together."
+      "feedback_correct": "Slide 27 emphasizes that credibility requires distinguishing verified customer data from assumptions and clearly labeling all benchmarks.",
+      "feedback_incorrect": "Credibility in value conversations comes from transparency about what is known, estimated, or still requiring validation. Review Slide 27 to understand how to maintain trust through honest labeling of calculation inputs."
     },
     {
-      "question": "What does the labor savings formula multiply to estimate annual labor savings?",
+      "question": "According to the course, a strong UVP message should include which of the following elements in sequence?",
       "choices": [
-        "Hours saved × Average hourly rate × Number of employees × Annual working period",
-        "Invoice volume × Processing time × Staff utilization rate",
-        "Hourly rate × Number of employees × Solution cost",
-        "Current process cost ÷ CTFS implementation time"
-      ],
-      "answer": 0,
-      "slide": 31,
-      "feedback_correct": "Correct—this formula converts identified time savings into a quantified financial impact that can be included in the value model.",
-      "feedback_incorrect": "Review Slide 31 for the exact labor savings formula. It specifically multiplies hours saved, hourly rate, and the number of employees involved, adjusted for the annual working period."
-    },
-    {
-      "question": "A sales professional is preparing to speak with a VP IT Clinical about CTFS. Which topics should they prioritize in the conversation?",
-      "choices": [
-        "Site payment visibility, dispute reduction, and study timeline predictability",
-        "Faster budgeting cycles, protocol amendment handling, and staffing flexibility",
-        "Integration capabilities, security and compliance requirements, APIs, interoperability, and total cost of ownership",
-        "Agentic AI capabilities, transformation outcomes, cycle-time reduction, and scalable automation"
-      ],
-      "answer": 2,
-      "slide": 18,
-      "feedback_correct": "Right—Reena, the VP IT Clinical, evaluates solutions through the lens of architecture, security, integration, and total cost of ownership.",
-      "feedback_incorrect": "Review Slide 18 to understand Reena's priorities. While the other options address valid CTFS benefits, they reflect the priorities of clinical operations leaders and digital transformation leaders, not IT governance and infrastructure leaders."
-    },
-    {
-      "question": "Why does the course emphasize that value-based selling should begin with current-state analysis rather than solution discussion?",
-      "choices": [
-        "Because customers are not interested in hearing about solution features until after a contract is signed",
-        "Because understanding the customer's current challenges, processes, and costs reveals where CTFS value actually exists and creates a fact-based picture of both the problem and the opportunity",
-        "Because it is faster to analyze current state than to configure a solution for each customer",
-        "Because the UVP Calculator cannot function without detailed current-state data"
+        "Product features, pricing information, implementation timeline, and customer references",
+        "Target persona, customer problem, measurable outcome, relevant CTFS capability, and strategic benefit",
+        "Business metrics, cost savings calculation, time savings estimate, and risk mitigation value",
+        "Current-state process description, competitive analysis, recommended solution, and next steps"
       ],
       "answer": 1,
-      "slide": 20,
-      "feedback_correct": "Excellent—current-state analysis creates the foundation for credible, customer-specific value conversations rather than generic feature pitches.",
-      "feedback_incorrect": "Slide 20 explains that value-based selling investigates current-state processes to quantify administrative effort, delays, risk, and lost opportunity. This analysis reveals where real impact exists, making the subsequent solution conversation relevant and persuasive."
+      "slide": 34,
+      "feedback_correct": "Slide 34 outlines this five-element structure as the foundation for a focused, customer-relevant UVP message.",
+      "feedback_incorrect": "A strong UVP is structured around the customer's perspective, not product features or pricing. Review Slide 34 to see how naming the persona, problem, outcome, capability, and strategic benefit creates a coherent message."
     }
   ]
 }
