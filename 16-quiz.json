@@ -1,0 +1,126 @@
+{
+  "brand": {
+    "title": "IQVIA (Production)",
+    "subtitle": "Knowledge Check — Introduction to CTFS for TechIQ",
+    "color": "#1a73e8"
+  },
+  "questions": [
+    {
+      "question": "What does CTFS stand for?",
+      "choices": [
+        "Clinical Trial Financial Suite",
+        "Clinical Trial Forecasting System",
+        "Centralized Trial Finance Service",
+        "Clinical Testing Financial Solutions"
+      ],
+      "answer": 0,
+      "slide": 1,
+      "feedback_correct": "That's right—CTFS is IQVIA's Clinical Trial Financial Suite, designed to unify financial operations across clinical trials.",
+      "feedback_incorrect": "The correct acronym is Clinical Trial Financial Suite. While other options sound plausible, CTFS specifically refers to IQVIA's comprehensive financial platform for trials."
+    },
+    {
+      "question": "According to the course, what percentage did trial sites grow by since 2019?",
+      "choices": [
+        "25%",
+        "49%",
+        "60%",
+        "75%"
+      ],
+      "answer": 1,
+      "slide": 2,
+      "feedback_correct": "Correct—the course notes that trial sites grew by 49% since 2019, contributing to increasing complexity in financial management.",
+      "feedback_incorrect": "The slide indicates that trial sites grew by 49% since 2019. You may have confused this with the 60% increase in protocol amendments."
+    },
+    {
+      "question": "Which of the following is NOT listed as a module or capability of the CTFS platform?",
+      "choices": [
+        "Budgeting and grant management",
+        "Site and participant payments",
+        "Clinical endpoint analysis",
+        "Forecasting and reconciliation"
+      ],
+      "answer": 2,
+      "slide": 5,
+      "feedback_correct": "Exactly—clinical endpoint analysis is not part of CTFS. The platform focuses on financial functions like budgeting, payments, and reconciliation, not clinical data analysis.",
+      "feedback_incorrect": "Clinical endpoint analysis is not a financial function and is outside the scope of CTFS. The platform covers budgeting, contracting, payments, forecasting, and reconciliation."
+    },
+    {
+      "question": "How many countries does CTFS support for participant payments?",
+      "choices": [
+        "Fewer than 50",
+        "Approximately 100",
+        "More than 180",
+        "Exactly 200"
+      ],
+      "answer": 2,
+      "slide": 10,
+      "feedback_correct": "That's correct—CTFS supports participant payments across more than 180 countries as part of its global design.",
+      "feedback_incorrect": "The course states that CTFS extends participant payment capabilities across more than 180 countries, demonstrating its truly global scope."
+    },
+    {
+      "question": "What is the primary purpose of shifting from manual workflows to orchestration in CTFS?",
+      "choices": [
+        "To completely eliminate human review and oversight",
+        "To focus human attention on exceptions and decisions requiring expertise rather than repetitive data handling",
+        "To speed up only the contract negotiation phase",
+        "To reduce the need for IT infrastructure"
+      ],
+      "answer": 1,
+      "slide": 6,
+      "feedback_correct": "Excellent—orchestration aims to redirect human effort from routine tasks to high-value decisions and exception management, not to remove oversight entirely.",
+      "feedback_incorrect": "Orchestration is not about removing human judgment; it's about using automation to handle routine tasks so that experts can focus on issues that truly require their attention."
+    },
+    {
+      "question": "According to the course, what is the estimated daily cost of delays in late-stage clinical trials?",
+      "choices": [
+        "$10,000 per day",
+        "$25,000 per day",
+        "$55,000 per day",
+        "$100,000 per day"
+      ],
+      "answer": 2,
+      "slide": 3,
+      "feedback_correct": "Right—the course cites Applied Clinical Trials data indicating that delays can cost as much as $55,000 per day in late-stage trials, underscoring the financial impact of inefficiency.",
+      "feedback_incorrect": "The course references a specific figure from Applied Clinical Trials showing that delays in late-stage trials can cost approximately $55,000 per day."
+    },
+    {
+      "question": "Which of the following best describes how CTFS uses APIs and webhooks in its architecture?",
+      "choices": [
+        "They ensure CTFS never needs to integrate with external systems",
+        "They allow CTFS to connect with IQVIA capabilities, internal systems, and third-party agents to orchestrate multiple workflows",
+        "They replace the need for traditional databases",
+        "They are only used for customer reporting"
+      ],
+      "answer": 1,
+      "slide": 7,
+      "feedback_correct": "Perfect—APIs and webhooks are central to CTFS's design philosophy, enabling it to orchestrate multiple AI agents and connect with diverse systems rather than working in isolation.",
+      "feedback_incorrect": "APIs and webhooks in CTFS are designed to create connectivity and integration across systems, allowing the platform to orchestrate workflows with both internal and third-party capabilities."
+    },
+    {
+      "question": "Based on the course content, why is it particularly important that CTFS was designed to scale modularly rather than requiring full implementation at once?",
+      "choices": [
+        "Because clinical trials never use more than one module at a time",
+        "Because it allows sponsors to start with focused capabilities like site payments and expand into other workflows as needs evolve, reducing implementation complexity and risk",
+        "Because IQVIA wants to sell the modules separately at different price points",
+        "Because global regulatory requirements change so rapidly that modularity is the only viable approach"
+      ],
+      "answer": 1,
+      "slide": 13,
+      "feedback_correct": "Excellent synthesis—modular design enables organizations to achieve immediate operational improvements with a focused pilot while building toward longer-term modernization without a disruptive big-bang implementation.",
+      "feedback_incorrect": "The modular approach is strategic because it allows sponsors to balance immediate operational gains with phased transformation, reducing risk and implementation burden compared to a single large-scale deployment."
+    },
+    {
+      "question": "Given the course's discussion of trial complexity trends and CTFS capabilities, which scenario would present the strongest business case for implementing CTFS?",
+      "choices": [
+        "A sponsor running a single-site trial in one country with stable protocols",
+        "A sponsor with multiple global sites, growing volumes of protocol amendments, fragmented financial processes causing disputes, and measurable delays in payment cycles",
+        "A sponsor that already uses spreadsheets exclusively and has no IT infrastructure",
+        "A sponsor whose primary concern is clinical data analysis rather than financial operations"
+      ],
+      "answer": 1,
+      "slide": 15,
+      "feedback_correct": "Exactly—CTFS's value is strongest when addressing multiple interrelated problems: growing complexity, fragmentation, and measurable operational impact, which aligns with the business case presented throughout the course.",
+      "feedback_incorrect": "The course positions CTFS as most valuable when clinical trials face growing complexity, fragmented processes, and demonstrable delays—precisely the conditions that create both clinical execution risk and financial waste."
+    }
+  ]
+}
