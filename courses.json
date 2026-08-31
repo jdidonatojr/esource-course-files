@@ -497,5 +497,30 @@
         "startSlide": 36
       }
     ]
+  },
+  "16": {
+    "id": "introduction_to_ctfs_for_techiq",
+    "title": "Introduction to CTFS for TechIQ",
+    "totalSlides": 17,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/16-Introduction-to-CTFS-for-TechIQ.pdf",
+    "firstMessage": "Welcome to Introduction to CTFS for TechIQ. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Context (slides 1-3)",
+        "startSlide": 1
+      },
+      {
+        "label": "The CTFS Solution (slides 4-8)",
+        "startSlide": 4
+      },
+      {
+        "label": "Platform Capabilities and Scale (slides 9-13)",
+        "startSlide": 9
+      },
+      {
+        "label": "Growth and Implementation (slides 14-17)",
+        "startSlide": 14
+      }
+    ]
   }
 }
