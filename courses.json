@@ -506,7 +506,7 @@
     "firstMessage": "Welcome to Introduction to CTFS for TechIQ. Are you ready to begin?",
     "sections": [
       {
-        "label": "Introduction (slides 1-3)",
+        "label": "Introduction and Context (slides 1-3)",
         "startSlide": 1
       },
       {
@@ -518,16 +518,12 @@
         "startSlide": 8
       },
       {
-        "label": "Enterprise Readiness (slides 11-13)",
+        "label": "Enterprise Value and Scale (slides 11-13)",
         "startSlide": 11
       },
       {
-        "label": "Future Vision (slides 14-15)",
+        "label": "Future Vision and Implementation (slides 14-17)",
         "startSlide": 14
-      },
-      {
-        "label": "Getting Started (slides 16-17)",
-        "startSlide": 16
       }
     ]
   }
