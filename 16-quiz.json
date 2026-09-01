@@ -9,17 +9,17 @@
       "question": "What does CTFS stand for?",
       "choices": [
         "Clinical Trial Financial Suite",
-        "Centralized Trial Funding System",
-        "Clinical Treatment Finance Structure",
-        "Coordinated Trial Finance Services"
+        "Clinical Trials Financial System",
+        "Connected Trial Finance Solutions",
+        "Clinical Treatment Financial Services"
       ],
       "answer": 0,
       "slide": 1,
-      "feedback_correct": "Exactly! CTFS is IQVIA's Clinical Trial Financial Suite, designed to bring major financial activities of a clinical trial into one connected experience.",
-      "feedback_incorrect": "Not quite. CTFS stands for Clinical Trial Financial Suite, which is IQVIA's platform for unifying financial operations across clinical trials. Take another look at Slide 1."
+      "feedback_correct": "That's right—CTFS is IQVIA's Clinical Trial Financial Suite, designed to unify financial operations across clinical trials.",
+      "feedback_incorrect": "Not quite. While these sound similar, CTFS specifically stands for Clinical Trial Financial Suite. This foundational term appears in the course introduction."
     },
     {
-      "question": "Since 2019, by what percentage has the number of trial sites grown?",
+      "question": "According to the course, by what percentage did trial sites grow since 2019?",
       "choices": [
         "25%",
         "49%",
@@ -28,112 +28,112 @@
       ],
       "answer": 1,
       "slide": 2,
-      "feedback_correct": "Correct! Trial sites have grown by 49% since 2019, contributing to the increased complexity of clinical trial management.",
-      "feedback_incorrect": "Not the right figure. According to Slide 2, trial sites have grown by 49% since 2019, while protocol amendments have increased by 60%."
+      "feedback_correct": "Correct—the course notes that trial sites grew by 49 percent since 2019, contributing to the increased complexity in clinical trial management.",
+      "feedback_incorrect": "The course states that trial sites grew by 49 percent since 2019. You may have confused this with the 60 percent increase in protocol amendments mentioned on the same slide."
     },
     {
-      "question": "Which of the following is NOT listed as a module within the CTFS platform?",
+      "question": "What is one key problem that fragmented financial processes create for clinical trials?",
       "choices": [
+        "Increased marketing costs",
+        "Manual data entry that creates errors and requires re-entry across multiple systems",
+        "Reduced participant enrollment",
+        "Fewer available trial sites globally"
+      ],
+      "answer": 1,
+      "slide": 3,
+      "feedback_correct": "Exactly—fragmentation causes staff to re-enter the same information into multiple systems, which increases errors and limits visibility.",
+      "feedback_incorrect": "While trial complexity has many impacts, the course specifically highlights that fragmented processes cause manual data entry errors and information duplication across disconnected systems."
+    },
+    {
+      "question": "Which of the following is NOT listed as a capability included in CTFS?",
+      "choices": [
+        "Site payments and participant payments",
         "Budgeting and grant management",
-        "Site payments",
-        "Clinical data management",
-        "Participant payments"
+        "Patient recruitment and enrollment marketing",
+        "Forecasting and reconciliation"
       ],
       "answer": 2,
       "slide": 5,
-      "feedback_correct": "Right! Clinical data management is not part of CTFS. The platform focuses on financial modules like budgeting, contracting, forecasting, site payments, and participant payments.",
-      "feedback_incorrect": "That's actually part of CTFS. According to Slide 5, CTFS spans budgeting, contracting, forecasting, site payments, participant payments, and exception management—but not clinical data management."
+      "feedback_correct": "Right—patient recruitment and enrollment marketing are not part of CTFS. The platform focuses on financial workflows, not recruitment activities.",
+      "feedback_incorrect": "The course lists six financial capabilities within CTFS: budgeting, contracting, forecasting, site payments, participant payments, and exception management. Recruitment marketing falls outside the financial scope of the platform."
     },
     {
-      "question": "What is the estimated cost of delays in late-stage clinical trials per day, according to Applied Clinical Trials?",
+      "question": "How does CTFS shift the nature of financial work in clinical trials?",
       "choices": [
-        "$25,000 per day",
-        "$40,000 per day",
-        "$55,000 per day",
-        "$75,000 per day"
+        "From site involvement to sponsor-only control",
+        "From manual workflows to orchestrated, AI-enabled processes that focus human attention on exceptions",
+        "From global operations to domestic-only operations",
+        "From data verification to data elimination"
+      ],
+      "answer": 1,
+      "slide": 6,
+      "feedback_correct": "Precisely—CTFS moves from repetitive manual tasks to orchestrated workflows where AI handles routine work and humans focus on decisions requiring expertise.",
+      "feedback_incorrect": "CTFS is designed to automate routine financial tasks while keeping humans in control of critical decisions. The goal is smarter orchestration, not removing oversight or changing the relationship between sites and sponsors."
+    },
+    {
+      "question": "What does 'agentic AI' mean in the context of CTFS?",
+      "choices": [
+        "AI that replaces all human decision-making in financial processes",
+        "AI that works independently without any connection to other systems",
+        "AI capabilities that perform or support connected tasks within a broader workflow, orchestrated through the platform",
+        "AI that is only used for participant communication"
       ],
       "answer": 2,
-      "slide": 3,
-      "feedback_correct": "Correct! Late-stage trial delays can cost as much as $55,000 per day, making financial inefficiency a critical concern for trial execution.",
-      "feedback_incorrect": "Not quite. Slide 3 cites Applied Clinical Trials' estimate that delays in late-stage trials can cost up to $55,000 per day, highlighting why financial efficiency matters."
+      "slide": 7,
+      "feedback_correct": "Correct—agentic AI in CTFS refers to AI agents that work together through orchestration via APIs and webhooks, not as isolated tools.",
+      "feedback_incorrect": "Agentic AI in CTFS is not about replacing humans or working in isolation. Instead, it's about multiple AI agents that are coordinated through the platform to support connected workflows like document ingestion, forecasting, and reconciliation."
+    },
+    {
+      "question": "According to the course, what is the projected reduction in financial processing time that CTFS can deliver?",
+      "choices": [
+        "Up to 25% faster",
+        "Up to 50% faster",
+        "Up to 75% faster",
+        "Up to 90% faster"
+      ],
+      "answer": 1,
+      "slide": 11,
+      "feedback_correct": "That's correct—the course cites a projected 50 percent reduction in financial processing time as a key outcome of CTFS implementation.",
+      "feedback_incorrect": "While CTFS offers significant efficiency gains, the course specifically states a projected 50 percent faster financial processing as a proven outcome."
     },
     {
       "question": "How many countries does CTFS support for participant payments?",
       "choices": [
-        "More than 100 countries",
-        "More than 150 countries",
+        "Fewer than 50 countries",
+        "Approximately 100 countries",
         "More than 180 countries",
-        "More than 200 countries"
+        "All countries worldwide"
       ],
       "answer": 2,
       "slide": 10,
-      "feedback_correct": "Exactly! CTFS supports participant payments across more than 180 countries, making it truly global by design.",
-      "feedback_incorrect": "Not quite. While CTFS is supported across 200+ geographies, participant payment capabilities specifically extend to more than 180 countries, as noted on Slide 10."
+      "feedback_correct": "Well done—CTFS supports participant payments across more than 180 countries, reflecting IQVIA's global infrastructure.",
+      "feedback_incorrect": "The course states that CTFS's participant payment capabilities extend across more than 180 countries, as part of its global-by-design approach to supporting international trials."
     },
     {
-      "question": "What architectural approach does CTFS use to support integration with external systems and future AI agents?",
+      "question": "What is the recommended starting approach for implementing CTFS according to the course?",
       "choices": [
-        "Monolithic design with built-in capabilities",
-        "API-first interoperability with webhooks",
-        "Manual data transfer between isolated modules",
-        "Proprietary integration framework"
-      ],
-      "answer": 1,
-      "slide": 12,
-      "feedback_correct": "Correct! CTFS uses a cloud-native, API-first design that supports integration through APIs and webhooks, allowing future capabilities to be connected without rebuilding the platform.",
-      "feedback_incorrect": "Not quite. Slide 12 explains that CTFS is cloud-native and API-first, using APIs and webhooks to connect with EDC, CTMS, ERP systems, and future AI agents."
-    },
-    {
-      "question": "According to the course, what is the projected reduction in financial processing time that customers may achieve with CTFS?",
-      "choices": [
-        "Up to 25% faster",
-        "Up to 40% faster",
-        "Up to 50% faster",
-        "Up to 75% faster"
-      ],
-      "answer": 2,
-      "slide": 11,
-      "feedback_correct": "Exactly! Customer outcomes include a projected reduction of up to 50% in financial processing time through AI-powered automation.",
-      "feedback_incorrect": "Not the right percentage. Slide 11 indicates that CTFS can deliver up to 50% faster financial processing as a key customer outcome."
-    },
-    {
-      "question": "What is described as the central problem that fragmented financial processes create for clinical trials?",
-      "choices": [
-        "They increase the cost of software licensing",
-        "They limit visibility, increase errors and disputes, and consume time on administrative issues instead of trial advancement",
-        "They make it impossible to track budgets",
-        "They prevent sites from receiving payments"
-      ],
-      "answer": 1,
-      "slide": 3,
-      "feedback_correct": "Excellent! Slide 3 explains that fragmented processes cause re-entry errors, limited visibility, disputes, and missed milestones because staff spend time on administrative tasks instead of advancing the trial.",
-      "feedback_incorrect": "Not quite. The core problem described in Slide 3 is that fragmented financial processes limit visibility across sponsor and site, increase errors and disputes, and consume time on administrative work that could be spent advancing the trial."
-    },
-    {
-      "question": "How does CTFS recommend approaching implementation to scale the platform across an organization?",
-      "choices": [
-        "Deploy all CTFS capabilities simultaneously across the entire enterprise",
-        "Start with a large-scale transformation involving all financial workflows at once",
-        "Begin with a focused pilot on a measurable business problem and expand modularly as needs evolve",
-        "Implement only site payments and never add additional modules"
+        "Implement all CTFS modules simultaneously across the entire organization",
+        "Wait until all roadmap features are complete before beginning any implementation",
+        "Launch a focused pilot tied to a measurable business problem, integrate specific capabilities, and establish baseline metrics",
+        "Replace all existing financial systems immediately to avoid confusion"
       ],
       "answer": 2,
       "slide": 16,
-      "feedback_correct": "Exactly! Slide 16 recommends launching a focused pilot tied to a measurable business problem, then measuring improvements before scaling—this is a pragmatic, modular approach.",
-      "feedback_incorrect": "Not quite. Slides 13 and 16 emphasize a modular, phased approach: start with a focused pilot on a specific business problem, measure results, and expand across workflows—not an all-at-once enterprise deployment."
+      "feedback_correct": "Exactly—the course recommends starting with a focused pilot that addresses a specific business problem, measures outcomes, and creates a scaling path.",
+      "feedback_incorrect": "The course emphasizes a phased approach rather than a big-bang transformation. A focused pilot tied to measurable metrics helps establish value and reduces implementation risk before broader scaling."
     },
     {
-      "question": "Which of the following best describes how CTFS orchestrates financial workflows compared to traditional approaches?",
+      "question": "Which of the following best synthesizes why the timing is right for CTFS adoption according to the course?",
       "choices": [
-        "It replaces all human decision-making with fully automated processes",
-        "It shifts from manual task completion to extracting information, validating against agreements, detecting anomalies, and intelligently routing items for human review",
-        "It eliminates the need for contract management entirely",
-        "It removes the need for any third-party integrations or external systems"
+        "IQVIA needs to increase revenue from software sales",
+        "Growing trial complexity, increased site numbers, and protocol amendments make fragmented financial processes increasingly costly and difficult to manage effectively",
+        "Regulatory agencies are requiring all sponsors to use cloud-based systems",
+        "Participants are demanding more transparency in sponsor payments"
       ],
       "answer": 1,
-      "slide": 6,
-      "feedback_correct": "Perfect! Slide 6 describes the shift from manual workflows to orchestration: information is extracted, validated, anomalies detected, and intelligently routed—focusing human attention on exceptions and decisions that require expertise.",
-      "feedback_incorrect": "Not quite. Slide 6 explains that CTFS doesn't remove oversight; it refocuses human effort by orchestrating document ingestion, extraction, validation, anomaly detection, and intelligent routing so experts handle exceptions and decisions—not routine data handling."
+      "slide": 15,
+      "feedback_correct": "Precisely—you've identified the core strategic case: complexity is outpacing current capabilities, making the need for unified, automated financial management both urgent and compelling.",
+      "feedback_incorrect": "While several factors support CTFS adoption, the course emphasizes that growing trial complexity (49% more sites, 60% more amendments) combined with fragmented processes creates both operational delays and measurable costs that CTFS addresses directly."
     }
   ]
 }
