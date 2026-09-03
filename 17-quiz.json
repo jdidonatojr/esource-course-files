@@ -1,0 +1,139 @@
+{
+  "brand": {
+    "title": "IQVIA (Production)",
+    "subtitle": "Knowledge Check — Introduction to CTFS for TechIQ - V2",
+    "color": "#1a73e8"
+  },
+  "questions": [
+    {
+      "question": "What are the four key personas you will encounter in CTFS deals?",
+      "choices": [
+        "Gilbert, Reena, Andres, and Rachel",
+        "Gilbert, Reena, Marcus, and Sarah",
+        "Clinical Director, IT Manager, Finance Lead, and Operations Head",
+        "Sponsor contacts, site coordinators, IT staff, and financial officers"
+      ],
+      "answer": 0,
+      "slide": 4,
+      "feedback_correct": "Exactly right—Gilbert (Clinical Operations Director), Reena (VP IT Clinical), Andres (Digital Transformation Leader), and Rachel (Finance Lead) are the four personas you need to know.",
+      "feedback_incorrect": "The four personas are Gilbert, Reena, Andres, and Rachel. Each has a distinct role and priority in the buying organization, and knowing their names and titles is your foundation for recognizing them at TechIQ."
+    },
+    {
+      "question": "In one sentence, what is CTFS?",
+      "choices": [
+        "A clinical trial document management tool",
+        "CTFS is IQVIA's Clinical Trial Financial Suite: a unified, AI-powered platform that orchestrates budgeting, contracting, forecasting, site payments and participant payments in a single ecosystem",
+        "A software for managing clinical trial sites and study coordinators",
+        "An AI-only solution for financial forecasting in clinical research"
+      ],
+      "answer": 1,
+      "slide": 7,
+      "feedback_correct": "This is the one-sentence foundation you should memorize and deliver with confidence before you walk into TechIQ.",
+      "feedback_incorrect": "The key phrase is 'single ecosystem'—CTFS is not a collection of separate tools, but one connected platform that eliminates fragmentation across the full financial lifecycle of a trial."
+    },
+    {
+      "question": "What specific question should you ask Reena, the VP IT Clinical, to open a discovery conversation?",
+      "choices": [
+        "What is your budget for new technology this year?",
+        "Ask about existing systems and compliance obligations",
+        "Are you planning to expand to new trial sites?",
+        "What metrics do you track for site performance?"
+      ],
+      "answer": 1,
+      "slide": 5,
+      "feedback_correct": "That's the question that speaks directly to Reena's world—interoperability, compliance, and reducing technical debt are her core concerns.",
+      "feedback_incorrect": "Reena's focus is on compliance obligations and existing system landscape, not on budget or operational metrics. Leading with her priority—not your product—opens the right conversation."
+    },
+    {
+      "question": "According to the course, what percentage of the top 20 pharma companies use IQVIA for clinical trial financial management?",
+      "choices": [
+        "Seventy percent",
+        "Eighty-five percent",
+        "Ninety percent",
+        "Ninety-five percent"
+      ],
+      "answer": 2,
+      "slide": 10,
+      "feedback_correct": "That's the scale and trust foundation that backs every conversation you have at TechIQ—a proven platform, not a startup promise.",
+      "feedback_incorrect": "The figure is 90 percent of top 20 pharma companies. This stat demonstrates the platform's proven scale and the authority you carry into each conversation."
+    },
+    {
+      "question": "What are the three main objections you are most likely to hear at TechIQ?",
+      "choices": [
+        "Cost concerns, long implementation time, and lack of ROI data",
+        "We already use GreenPhire or Medidata; we are not ready for agentic AI; this sounds hard to implement",
+        "We do not have budget approval; our team is too busy; we need more time to decide",
+        "Your solution does not integrate with our EDC; we are locked into our current vendor; implementation is too risky"
+      ],
+      "answer": 1,
+      "slide": 14,
+      "feedback_correct": "Exactly—incumbent loyalty, AI skepticism, and implementation complexity are the three categories of pushback you should prepare for.",
+      "feedback_incorrect": "The three objections are: incumbent loyalty (we already use GreenPhire or Medidata), AI skepticism (we are not ready for agentic AI), and implementation concerns (this sounds hard to integrate). Each has a value-based answer."
+    },
+    {
+      "question": "When responding to the objection 'We already use GreenPhire or Medidata,' what should be your first move?",
+      "choices": [
+        "Immediately explain why CTFS is superior to their current tool",
+        "Ask them to consider switching vendors for better functionality",
+        "Acknowledge the relationship and then pivot to the fragmentation gap",
+        "Suggest a parallel implementation so they can compare both platforms"
+      ],
+      "answer": 2,
+      "slide": 15,
+      "feedback_correct": "Acknowledging first builds trust and keeps them open; then pivoting to the fragmentation gap—what GreenPhire or Medidata does not do—lets you reframe the conversation around unmet need.",
+      "feedback_incorrect": "Arguing against their current tool or pushing them to switch will put them on the defensive. Start by validating their investment, then ask: what is the fragmentation costing you today?"
+    },
+    {
+      "question": "What four signals tell you that a conversation at TechIQ is a qualified opportunity worth advancing?",
+      "choices": [
+        "They seemed interested, they have a large organization, they took your business card, and they promised to call you back",
+        "Known pain in budgeting, contracting, forecasting or payments; a stakeholder with authority; a near-term trigger; and active buying signals",
+        "They work for a top-20 pharma company, they asked technical questions, they scheduled a follow-up, and they shared their budget",
+        "They mentioned budget availability, they have multiple decision-makers, they invited you to visit their site, and they seemed excited"
+      ],
+      "answer": 1,
+      "slide": 17,
+      "feedback_correct": "These four signals—pain, authority, timing, and buying signals—are the framework that separates real opportunities from polite conversations.",
+      "feedback_incorrect": "A real opportunity requires: (1) known pain they actually named, (2) someone with authority to influence a decision, (3) a near-term trigger (new study, budget cycle, etc.), and (4) active buying signals. Interest alone is not enough."
+    },
+    {
+      "question": "According to the course, what should you document immediately after identifying a qualified opportunity to ensure effective follow-up?",
+      "choices": [
+        "Their company name, industry, number of employees, and whether they use any IQVIA products",
+        "Stakeholder name and role; the pain they described in their words; any numbers they gave you; and the next step they agreed to",
+        "A summary of your pitch, their objections, your responses, and a list of features they showed interest in",
+        "Their email address, phone number, LinkedIn profile, and preferred method of contact"
+      ],
+      "answer": 1,
+      "slide": 18,
+      "feedback_correct": "These four data points are your raw material for personalized, effective follow-up—context, not generic outreach, is what advances opportunities.",
+      "feedback_incorrect": "You need the person's name and role, their pain in their own words, any quantifiable numbers they shared, and the specific next step they committed to. Memory is not reliable after a full day of conference conversations."
+    },
+    {
+      "question": "Within how many days should you send a personalized follow-up email to a qualified TechIQ contact, and why is this timing critical?",
+      "choices": [
+        "Within one week, because it gives you time to prepare a professional message",
+        "Within 30 days, because the 30-day window is where opportunities either advance or die",
+        "Within 48 hours, while the conversation is still fresh for both of you",
+        "Within two weeks, to allow them time to discuss internally before you reach out"
+      ],
+      "answer": 2,
+      "slide": 22,
+      "feedback_correct": "Forty-eight hours keeps the conversation fresh in both your minds and signals that you are serious about the opportunity—it is the speed of real follow-up.",
+      "feedback_incorrect": "While the 30-day window is the broader frame for advancing opportunities, personalized follow-up should go out within 48 hours to capitalize on the momentum and recall of your conversation."
+    },
+    {
+      "question": "According to the course, how should your follow-up message to Andres, the Digital Transformation Leader, differ from your follow-up to Gilbert, the Clinical Operations Director?",
+      "choices": [
+        "Both should receive the same message because the product benefits are universal across all buyers",
+        "Andres should focus on trial speed and site satisfaction outcomes; Gilbert should get agentic AI and measurable ROI",
+        "Andres should get the agentic AI and measurable ROI story; Gilbert should get trial speed and site satisfaction outcomes",
+        "Andres should receive a technical architecture document; Gilbert should get a business case summary"
+      ],
+      "answer": 2,
+      "slide": 23,
+      "feedback_correct": "Perfect—persona-specific follow-up means matching your message to what each persona actually cares about, not sending one generic message to everyone.",
+      "feedback_incorrect": "Gilbert's world is trial speed and site satisfaction; Andres is accountable for the agentic AI and measurable ROI story. One generic message does not work for all four personas; personalization is what keeps conversations moving forward."
+    }
+  ]
+}
