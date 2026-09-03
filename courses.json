@@ -526,5 +526,38 @@
         "startSlide": 14
       }
     ]
+  },
+  "17": {
+    "id": "introduction_to_ctfs_for_techiq_v2",
+    "title": "Introduction to CTFS for TechIQ - V2",
+    "totalSlides": 27,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/17-Introduction-to-CTFS-for-TechIQ---V2.pdf",
+    "firstMessage": "Welcome to Introduction to CTFS for TechIQ - V2. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Objectives (slides 1-3)",
+        "startSlide": 1
+      },
+      {
+        "label": "Know Your Stakeholders (slides 4-6)",
+        "startSlide": 4
+      },
+      {
+        "label": "CTFS Platform Story (slides 7-13)",
+        "startSlide": 7
+      },
+      {
+        "label": "Handling Objections (slides 14-19)",
+        "startSlide": 14
+      },
+      {
+        "label": "Qualifying and Follow-Up (slides 20-25)",
+        "startSlide": 20
+      },
+      {
+        "label": "Knowledge Check and Closing (slides 26-27)",
+        "startSlide": 26
+      }
+    ]
   }
 }
