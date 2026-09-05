@@ -562,38 +562,38 @@
   },
   "18": {
     "id": "introduction_to_ctfs_for_techiq_attendees",
-    "title": "Introduction to CTFS - For TechIQ Attendees",
+    "title": "Introduction to CTFS for TechIQ Attendees",
     "totalSlides": 32,
-    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/18-Introduction-to-CTFS---For-TechIQ-Attendees.pdf",
-    "firstMessage": "Welcome to Introduction to CTFS - For TechIQ Attendees. Are you ready to begin?",
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/18-Introduction-to-CTFS-for-TechIQ-Attendees.pdf",
+    "firstMessage": "Welcome to Introduction to CTFS for TechIQ Attendees. Are you ready to begin?",
     "sections": [
       {
-        "label": "Introduction and Framing (slides 1-3)",
+        "label": "Introduction and Setup (slides 1-3)",
         "startSlide": 1
       },
       {
-        "label": "Buyer Personas (slides 4-8)",
+        "label": "Know Your Buyers (slides 4-8)",
         "startSlide": 4
       },
       {
-        "label": "CTFS Pitch Framework (slides 9-14)",
+        "label": "Master Your Pitch (slides 9-14)",
         "startSlide": 9
       },
       {
-        "label": "Contracting Module Deep Dive (slides 15-21)",
+        "label": "Own the Contracting Module (slides 15-21)",
         "startSlide": 15
       },
       {
-        "label": "Objections and Qualification (slides 22-26)",
+        "label": "Handle Objections and Qualify (slides 22-25)",
         "startSlide": 22
       },
       {
-        "label": "Resources and Follow-Up (slides 27-29)",
-        "startSlide": 27
+        "label": "Follow-Up and Pipeline (slides 26-30)",
+        "startSlide": 26
       },
       {
-        "label": "Final Practice and Closing (slides 30-32)",
-        "startSlide": 30
+        "label": "Final Preparation and Recap (slides 31-32)",
+        "startSlide": 31
       }
     ]
   }
