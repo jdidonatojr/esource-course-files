@@ -1,0 +1,139 @@
+{
+  "brand": {
+    "title": "IQVIA (Production)",
+    "subtitle": "Knowledge Check — Introduction to CTFS - For TechIQ Attendees",
+    "color": "#1a73e8"
+  },
+  "questions": [
+    {
+      "question": "Which of the following is NOT one of the five modules in the CTFS platform?",
+      "choices": [
+        "GrantPlan",
+        "Contracting",
+        "Forecasting",
+        "Site Analytics"
+      ],
+      "answer": 3,
+      "slide": 10,
+      "feedback_correct": "Exactly—Site Analytics is not a CTFS module; the five modules are GrantPlan, Contracting, Forecasting, Site Payments, and Spend Analytics.",
+      "feedback_incorrect": "The five CTFS modules are GrantPlan, Contracting, Forecasting, Site Payments, and Spend Analytics. Site Analytics is not one of them."
+    },
+    {
+      "question": "What is the primary operational benefit of having a unified platform where GrantPlan budgets inform Contracting, which then triggers Site Payments milestones?",
+      "choices": [
+        "It allows sponsors to negotiate lower investigator fees",
+        "It eliminates duplicate data entry, reconciliation guesswork, and manual data transfer between systems",
+        "It reduces the number of sites that can participate in trials",
+        "It requires all contracts to be authored by AI without human review"
+      ],
+      "answer": 1,
+      "slide": 11,
+      "feedback_correct": "Spot on—the unified platform's power is eliminating the friction of separate systems that require manual handoffs and reconciliation.",
+      "feedback_incorrect": "The core benefit of unification is operational efficiency: no duplicate data entry between systems, no reconciliation guesswork at month end, and no manual transfers required. The platform doesn't reduce sites, lower fees, or remove human oversight."
+    },
+    {
+      "question": "Reena, a VP IT Clinical, would be most concerned with which of the following when evaluating CTFS?",
+      "choices": [
+        "Whether payment cycles are shortened for sites",
+        "Whether the AI can accurately draft contracts without errors",
+        "Governance, compliance, and integration risk to her existing infrastructure",
+        "Whether the platform supports forecasting in multiple currencies"
+      ],
+      "answer": 2,
+      "slide": 5,
+      "feedback_correct": "Correct—Reena's primary focus as an IT leader is compliance, governance, and whether new technology integrates safely without creating infrastructure risks.",
+      "feedback_incorrect": "While Reena cares about accuracy and forecasting, her main concerns as VP IT Clinical center on compliance, governance, secure integration, and audit readiness—not on operational metrics like payment cycles or currency support."
+    },
+    {
+      "question": "What is the recommended word count for a CTFS pitch delivered during a quick hallway conversation at TechIQ?",
+      "choices": [
+        "Under 35 words",
+        "Under 75 words",
+        "Under 150 words",
+        "Under 250 words"
+      ],
+      "answer": 0,
+      "slide": 13,
+      "feedback_correct": "That's right—a hallway pitch is under 35 words: one clear idea delivered in about 30 seconds to make the person want to keep talking.",
+      "feedback_incorrect": "A hallway pitch must be tight and punchy—under 35 words. The 75-word version is for a five-minute conversation, and the 150-word version is for a formal sit-down meeting."
+    },
+    {
+      "question": "According to the course, what key piece of information should you gather immediately after each meaningful TechIQ conversation?",
+      "choices": [
+        "A summary of all competitors the person mentioned",
+        "The persona, stated pain, qualifying signals, and agreed next step",
+        "A formal contract or letter of intent",
+        "The person's complete organizational chart and budget authority"
+      ],
+      "answer": 1,
+      "slide": 26,
+      "feedback_correct": "Exactly—a 90-second voice memo capturing persona, specific pain, qualifying signals, and next step ensures you don't lose the details before the day is over.",
+      "feedback_incorrect": "The course emphasizes capturing four specific elements immediately after each conversation: the persona, the exact pain they expressed, the qualifying signals you observed, and the agreed next step. This can be done in a quick voice memo while the conversation is fresh."
+    },
+    {
+      "question": "The CTFS Contracting module uses AI to do what specifically?",
+      "choices": [
+        "Automatically sign contracts on behalf of the sponsor without human review",
+        "Replace all contract negotiation with a fully automated system",
+        "Extract, interpret, and contextualize key terms from clinical trial agreements intelligently",
+        "Eliminate the need for legal review of clinical trial agreements"
+      ],
+      "answer": 2,
+      "slide": 17,
+      "feedback_correct": "Correct—the AI uses intelligent models to extract, interpret, and contextualize key contract terms—not to sign contracts, eliminate legal review, or remove human judgment.",
+      "feedback_incorrect": "The Contracting AI is designed to intelligently extract and interpret contract terms to streamline the manual review and data-entry process, not to remove human oversight or legal review from contract execution."
+    },
+    {
+      "question": "When a buyer says 'we already have a system,' what is the recommended first step according to the course?",
+      "choices": [
+        "Immediately list CTFS features that are better than their current system",
+        "Ask what their current system does not unify and quantify the cost of that gap",
+        "Explain that CTFS is the only platform used by 90% of top 20 pharma",
+        "Schedule a demo to show how much faster CTFS is than their legacy tool"
+      ],
+      "answer": 1,
+      "slide": 23,
+      "feedback_correct": "Perfect—don't argue; instead, ask about the gaps in their current system and help them calculate the real cost of that fragmentation.",
+      "feedback_incorrect": "When facing the 'we already have a system' objection, the course recommends asking discovery questions about what their system doesn't unify rather than leading with feature comparison or competitive claims."
+    },
+    {
+      "question": "What is the projected annual savings for a high-volume sponsor running 100+ trials per year using the CTFS Contracting module?",
+      "choices": [
+        "$500,000",
+        "$1.5 million",
+        "$3 million",
+        "$5 million"
+      ],
+      "answer": 2,
+      "slide": 19,
+      "feedback_correct": "That's the number—$3 million in annual savings for high-volume sponsors, based on eliminating manual CTA ingestion, errors, delays, and re-entry labor.",
+      "feedback_incorrect": "The course cites a projected $3 million in annual savings for high-volume sponsors running 100+ trials per year, assuming two CTAs per site and 200 sites per trial."
+    },
+    {
+      "question": "When following up with a TechIQ lead within 30 days, which of the following is NOT listed as a valid milestone target?",
+      "choices": [
+        "A scheduled discovery call or demonstration on the calendar",
+        "A defined opportunity in the CRM with agreed qualification criteria",
+        "A sandbox pilot invitation accepted",
+        "A signed contract with payment terms agreed"
+      ],
+      "answer": 3,
+      "slide": 29,
+      "feedback_correct": "Right—a signed contract is a close, not a 30-day milestone. The three valid milestone targets are a scheduled call/demo, a CRM-defined opportunity, or an accepted sandbox pilot invitation.",
+      "feedback_incorrect": "The three 30-day milestone targets are: a scheduled discovery call or demo, a defined opportunity in the CRM, or an accepted sandbox pilot invitation. A signed contract would be a much later stage, not an appropriate 30-day target."
+    },
+    {
+      "question": "Based on the discovery questions provided in the course, which question is most likely to open a genuine conversation with Gilbert, a Clinical Operations Director?",
+      "choices": [
+        "What keeps you up at night from a compliance risk standpoint?",
+        "How are payment delays affecting your site relationships right now?",
+        "Where are your current AI investments stalling before they reach value?",
+        "Tell me about your IT infrastructure and cloud strategy"
+      ],
+      "answer": 1,
+      "slide": 7,
+      "feedback_correct": "Excellent—that question speaks directly to Gilbert's operational pain: site satisfaction and payment cycle speed, which are his core frustrations.",
+      "feedback_incorrect": "Gilbert is a Clinical Operations Director focused on site satisfaction and payment speed. The question about payment delays opening site relationship issues is perfectly aligned with his pain; the compliance and AI questions target different personas (Reena and Andres)."
+    }
+  ]
+}
