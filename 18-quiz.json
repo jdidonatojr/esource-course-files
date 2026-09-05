@@ -6,134 +6,134 @@
   },
   "questions": [
     {
-      "question": "Which of the following is NOT one of the five modules in the CTFS platform?",
+      "question": "How many modules make up the CTFS platform?",
       "choices": [
-        "GrantPlan",
-        "Contracting",
-        "Forecasting",
-        "Site Analytics"
-      ],
-      "answer": 3,
-      "slide": 10,
-      "feedback_correct": "Exactly—Site Analytics is not a CTFS module; the five modules are GrantPlan, Contracting, Forecasting, Site Payments, and Spend Analytics.",
-      "feedback_incorrect": "The five CTFS modules are GrantPlan, Contracting, Forecasting, Site Payments, and Spend Analytics. Site Analytics is not one of them."
-    },
-    {
-      "question": "What is the primary operational benefit of having a unified platform where GrantPlan budgets inform Contracting, which then triggers Site Payments milestones?",
-      "choices": [
-        "It allows sponsors to negotiate lower investigator fees",
-        "It eliminates duplicate data entry, reconciliation guesswork, and manual data transfer between systems",
-        "It reduces the number of sites that can participate in trials",
-        "It requires all contracts to be authored by AI without human review"
-      ],
-      "answer": 1,
-      "slide": 11,
-      "feedback_correct": "Spot on—the unified platform's power is eliminating the friction of separate systems that require manual handoffs and reconciliation.",
-      "feedback_incorrect": "The core benefit of unification is operational efficiency: no duplicate data entry between systems, no reconciliation guesswork at month end, and no manual transfers required. The platform doesn't reduce sites, lower fees, or remove human oversight."
-    },
-    {
-      "question": "Reena, a VP IT Clinical, would be most concerned with which of the following when evaluating CTFS?",
-      "choices": [
-        "Whether payment cycles are shortened for sites",
-        "Whether the AI can accurately draft contracts without errors",
-        "Governance, compliance, and integration risk to her existing infrastructure",
-        "Whether the platform supports forecasting in multiple currencies"
+        "Three modules",
+        "Four modules",
+        "Five modules",
+        "Six modules"
       ],
       "answer": 2,
-      "slide": 5,
-      "feedback_correct": "Correct—Reena's primary focus as an IT leader is compliance, governance, and whether new technology integrates safely without creating infrastructure risks.",
-      "feedback_incorrect": "While Reena cares about accuracy and forecasting, her main concerns as VP IT Clinical center on compliance, governance, secure integration, and audit readiness—not on operational metrics like payment cycles or currency support."
+      "slide": 10,
+      "feedback_correct": "Exactly right—GrantPlan, Contracting, Forecasting, Site Payments, and Analytics make up the five-module CTFS suite.",
+      "feedback_incorrect": "The CTFS platform consists of five core modules, not three, four, or six. You'll want to know each one by name and function for TechIQ conversations."
     },
     {
-      "question": "What is the recommended word count for a CTFS pitch delivered during a quick hallway conversation at TechIQ?",
+      "question": "What is the primary pain point that Gilbert, the Clinical Operations Director, is trying to solve?",
+      "choices": [
+        "Compliance risk and audit trail management",
+        "Site satisfaction and payment cycle delays",
+        "AI investment alignment with existing systems",
+        "Data security and integration architecture"
+      ],
+      "answer": 1,
+      "slide": 5,
+      "feedback_correct": "Exactly—Gilbert is focused on speed, site satisfaction, and reducing manual processes that slow payment cycles.",
+      "feedback_incorrect": "Gilbert's world is trial execution. While compliance and data security matter to other personas, Gilbert is specifically frustrated by manual financial drag that delays site activation and payment cycles."
+    },
+    {
+      "question": "How much has CTFS processed in total payments?",
+      "choices": [
+        "$5 billion",
+        "$15 billion",
+        "$30 billion",
+        "$55 billion"
+      ],
+      "answer": 1,
+      "slide": 12,
+      "feedback_correct": "Correct—the $15 billion in payments processed is a key proof point that anchors your pitch and demonstrates IQVIA's track record at scale.",
+      "feedback_incorrect": "The $15 billion figure is one of your most powerful proof points when buyers push back on adoption or ask why IQVIA. Make sure this number is in your anchor set."
+    },
+    {
+      "question": "What is the recommended word count for a hallway conversation pitch at TechIQ?",
       "choices": [
         "Under 35 words",
         "Under 75 words",
         "Under 150 words",
-        "Under 250 words"
+        "Under 200 words"
       ],
       "answer": 0,
       "slide": 13,
-      "feedback_correct": "That's right—a hallway pitch is under 35 words: one clear idea delivered in about 30 seconds to make the person want to keep talking.",
-      "feedback_incorrect": "A hallway pitch must be tight and punchy—under 35 words. The 75-word version is for a five-minute conversation, and the 150-word version is for a formal sit-down meeting."
+      "feedback_correct": "Perfect—under 35 words keeps a hallway pitch sharp and gives the person a reason to keep talking, not a full data dump.",
+      "feedback_incorrect": "The 35-word version is for quick hallway moments where you have thirty seconds and need one clear idea. The 75-word and 150-word versions are for longer conversations."
     },
     {
-      "question": "According to the course, what key piece of information should you gather immediately after each meaningful TechIQ conversation?",
+      "question": "What does the Contracting module automatically trigger in Site Payments when a CTA is signed?",
       "choices": [
-        "A summary of all competitors the person mentioned",
-        "The persona, stated pain, qualifying signals, and agreed next step",
-        "A formal contract or letter of intent",
-        "The person's complete organizational chart and budget authority"
+        "Budget reconciliation reports",
+        "Payment milestones informed by contract terms",
+        "Compliance audit trails",
+        "Site activation timelines"
       ],
       "answer": 1,
-      "slide": 26,
-      "feedback_correct": "Exactly—a 90-second voice memo capturing persona, specific pain, qualifying signals, and next step ensures you don't lose the details before the day is over.",
-      "feedback_incorrect": "The course emphasizes capturing four specific elements immediately after each conversation: the persona, the exact pain they expressed, the qualifying signals you observed, and the agreed next step. This can be done in a quick voice memo while the conversation is fresh."
+      "slide": 18,
+      "feedback_correct": "Exactly—this automation is the core value of Contracting's integration with Site Payments, eliminating manual re-entry and reconciliation.",
+      "feedback_incorrect": "When a CTA is signed in CTFS Contracting, the system automatically informs payment milestones in Site Payments without manual transfer. This is what makes Contracting a platform player, not a standalone tool."
     },
     {
-      "question": "The CTFS Contracting module uses AI to do what specifically?",
+      "question": "What discovery question would be most effective to open a conversation with Reena, the VP IT Clinical?",
       "choices": [
-        "Automatically sign contracts on behalf of the sponsor without human review",
-        "Replace all contract negotiation with a fully automated system",
-        "Extract, interpret, and contextualize key terms from clinical trial agreements intelligently",
-        "Eliminate the need for legal review of clinical trial agreements"
-      ],
-      "answer": 2,
-      "slide": 17,
-      "feedback_correct": "Correct—the AI uses intelligent models to extract, interpret, and contextualize key contract terms—not to sign contracts, eliminate legal review, or remove human judgment.",
-      "feedback_incorrect": "The Contracting AI is designed to intelligently extract and interpret contract terms to streamline the manual review and data-entry process, not to remove human oversight or legal review from contract execution."
-    },
-    {
-      "question": "When a buyer says 'we already have a system,' what is the recommended first step according to the course?",
-      "choices": [
-        "Immediately list CTFS features that are better than their current system",
-        "Ask what their current system does not unify and quantify the cost of that gap",
-        "Explain that CTFS is the only platform used by 90% of top 20 pharma",
-        "Schedule a demo to show how much faster CTFS is than their legacy tool"
-      ],
-      "answer": 1,
-      "slide": 23,
-      "feedback_correct": "Perfect—don't argue; instead, ask about the gaps in their current system and help them calculate the real cost of that fragmentation.",
-      "feedback_incorrect": "When facing the 'we already have a system' objection, the course recommends asking discovery questions about what their system doesn't unify rather than leading with feature comparison or competitive claims."
-    },
-    {
-      "question": "What is the projected annual savings for a high-volume sponsor running 100+ trials per year using the CTFS Contracting module?",
-      "choices": [
-        "$500,000",
-        "$1.5 million",
-        "$3 million",
-        "$5 million"
-      ],
-      "answer": 2,
-      "slide": 19,
-      "feedback_correct": "That's the number—$3 million in annual savings for high-volume sponsors, based on eliminating manual CTA ingestion, errors, delays, and re-entry labor.",
-      "feedback_incorrect": "The course cites a projected $3 million in annual savings for high-volume sponsors running 100+ trials per year, assuming two CTAs per site and 200 sites per trial."
-    },
-    {
-      "question": "When following up with a TechIQ lead within 30 days, which of the following is NOT listed as a valid milestone target?",
-      "choices": [
-        "A scheduled discovery call or demonstration on the calendar",
-        "A defined opportunity in the CRM with agreed qualification criteria",
-        "A sandbox pilot invitation accepted",
-        "A signed contract with payment terms agreed"
-      ],
-      "answer": 3,
-      "slide": 29,
-      "feedback_correct": "Right—a signed contract is a close, not a 30-day milestone. The three valid milestone targets are a scheduled call/demo, a CRM-defined opportunity, or an accepted sandbox pilot invitation.",
-      "feedback_incorrect": "The three 30-day milestone targets are: a scheduled discovery call or demo, a defined opportunity in the CRM, or an accepted sandbox pilot invitation. A signed contract would be a much later stage, not an appropriate 30-day target."
-    },
-    {
-      "question": "Based on the discovery questions provided in the course, which question is most likely to open a genuine conversation with Gilbert, a Clinical Operations Director?",
-      "choices": [
-        "What keeps you up at night from a compliance risk standpoint?",
         "How are payment delays affecting your site relationships right now?",
-        "Where are your current AI investments stalling before they reach value?",
-        "Tell me about your IT infrastructure and cloud strategy"
+        "What keeps you up at night from a compliance risk standpoint?",
+        "Where are your current AI investments stalling before they reach full ROI?",
+        "How many sites are you activating per trial on average?"
       ],
       "answer": 1,
       "slide": 7,
-      "feedback_correct": "Excellent—that question speaks directly to Gilbert's operational pain: site satisfaction and payment cycle speed, which are his core frustrations.",
-      "feedback_incorrect": "Gilbert is a Clinical Operations Director focused on site satisfaction and payment speed. The question about payment delays opening site relationship issues is perfectly aligned with his pain; the compliance and AI questions target different personas (Reena and Andres)."
+      "feedback_correct": "Perfect—this question opens Reena's world (governance, compliance, integration risk) and lets her tell you where the real pressure is in her own words.",
+      "feedback_incorrect": "Each persona responds to discovery questions that focus on their specific pain. Reena is thinking about compliance and integration risk, not site relationships or payment cycles. Your question needs to match the persona's priorities."
+    },
+    {
+      "question": "When a buyer says \"we already have a system,\" what is the recommended response strategy?",
+      "choices": [
+        "Immediately list CTFS features that are superior",
+        "Ask what the existing system does not unify and quantify the cost of that gap",
+        "Suggest a pilot program to prove CTFS value",
+        "Acknowledge but quickly pivot to the $15 billion in processed payments"
+      ],
+      "answer": 1,
+      "slide": 23,
+      "feedback_correct": "Right—the gap question opens a genuine conversation and usually reveals hidden costs that a buyer hasn't quantified, which is far more persuasive than feature comparison.",
+      "feedback_incorrect": "Feature comparison puts you on their terms and turns the conversation into a race you don't want to run. The gap question is more powerful because it helps the buyer discover the real cost of fragmentation themselves."
+    },
+    {
+      "question": "What should you record in your post-TechIQ conversation notes within 90 seconds of ending a meaningful conversation?",
+      "choices": [
+        "The person's title, company size, and budget level",
+        "The persona, stated pain, qualifying signals, and agreed next step",
+        "A summary of the entire pitch you delivered",
+        "The person's contact information and their competitors"
+      ],
+      "answer": 1,
+      "slide": 26,
+      "feedback_correct": "Exactly—capturing these four elements immediately ensures you retain the specific details that make follow-up personal and effective, rather than relying on memory later.",
+      "feedback_incorrect": "The goal of post-conversation notes is to preserve what made each conversation unique and actionable: the persona, their specific pain in their own words, signals that this is worth pursuing, and what you both agreed to next. Generic contact information is not enough."
+    },
+    {
+      "question": "Why is the timing particularly important for positioning the Contracting module at TechIQ?",
+      "choices": [
+        "It has been in market for over a year with extensive case studies",
+        "It reaches general availability at the end of November and will be featured prominently",
+        "Competitors have already launched similar products",
+        "Early adopters have already moved to competing platforms"
+      ],
+      "answer": 1,
+      "slide": 15,
+      "feedback_correct": "Correct—because Contracting is brand new and reaching GA just as TechIQ happens, buyers will expect you to know it and it will be a hot topic throughout the event.",
+      "feedback_incorrect": "The timing of Contracting's GA at the end of November means it will be front and center at TechIQ. This is not a mature, proven module yet—it's emerging, which is exactly why early adopter positioning matters."
+    },
+    {
+      "question": "How does CTFS's unification strategy differ fundamentally from the competitive positioning of point solutions?",
+      "choices": [
+        "CTFS offers more features than point solutions in each category",
+        "CTFS solves the whole financial lifecycle and eliminates data handoff friction, whereas point solutions create new integration problems on either side of their single function",
+        "CTFS is less expensive than point solutions",
+        "CTFS is easier to implement than point solutions"
+      ],
+      "answer": 1,
+      "slide": 24,
+      "feedback_correct": "Exactly—this is your core competitive story: the gap between disconnected point solutions creates friction and manual work, which unified architecture eliminates.",
+      "feedback_incorrect": "Never lead with feature comparison against point solutions. The real win is the unification story—point solutions solve one problem well but leave you needing something to connect budgets to contracts to payments. CTFS solves all three and makes the handoffs automatic."
     }
   ]
 }
