@@ -568,31 +568,31 @@
     "firstMessage": "Welcome to Introduction to CTFS for TechIQ Attendees. Are you ready to begin?",
     "sections": [
       {
-        "label": "Introduction and Framing (slides 1-3)",
+        "label": "Introduction and Objectives (slides 1-3)",
         "startSlide": 1
       },
       {
-        "label": "Buyer Personas and Discovery (slides 4-8)",
+        "label": "Know Your Buyers (slides 4-8)",
         "startSlide": 4
       },
       {
-        "label": "CTFS Platform and Pitch Strategy (slides 9-14)",
+        "label": "Own Your Pitch (slides 9-14)",
         "startSlide": 9
       },
       {
-        "label": "Contracting Module Deep Dive (slides 15-21)",
+        "label": "Master the Contracting Module (slides 15-21)",
         "startSlide": 15
       },
       {
-        "label": "Objections and Qualification (slides 22-26)",
+        "label": "Handle Objections and Qualify Leads (slides 22-25)",
         "startSlide": 22
       },
       {
-        "label": "Field Perspective and Follow-Up Planning (slides 27-30)",
-        "startSlide": 27
+        "label": "Capture and Follow Up (slides 26-30)",
+        "startSlide": 26
       },
       {
-        "label": "Confidence Check and Closing (slides 31-32)",
+        "label": "Final Confidence Check and Action (slides 31-32)",
         "startSlide": 31
       }
     ]
