@@ -6,134 +6,134 @@
   },
   "questions": [
     {
-      "question": "How many major buyer personas will you encounter at TechIQ?",
+      "question": "How many modules make up the CTFS platform?",
       "choices": [
-        "Two personas: clinical operations and IT leadership",
-        "Three personas: Gilbert, Reena, and Andres",
-        "Four personas: Gilbert, Reena, Andres, and one additional stakeholder",
-        "Five personas representing all major sponsor departments"
+        "Three modules",
+        "Four modules",
+        "Five modules",
+        "Six modules"
       ],
-      "answer": 1,
+      "answer": 2,
+      "slide": 10,
+      "feedback_correct": "Exactly—GrantPlan, Contracting, Forecasting, Site Payments, and Analytics make up the complete CTFS suite.",
+      "feedback_incorrect": "The course covers five distinct modules that work together to create the unified financial backbone. Review slide 10 for the full breakdown of what each module does."
+    },
+    {
+      "question": "What is the primary pain point that Gilbert, the Clinical Operations Director, is trying to solve?",
+      "choices": [
+        "Ensuring audit trails and compliance documentation",
+        "Modernizing infrastructure without breaking compliance",
+        "Delayed site activation and frustrated payment cycles",
+        "Aligning AI investments with existing systems"
+      ],
+      "answer": 2,
       "slide": 5,
-      "feedback_correct": "Exactly right—Gilbert, Reena, and Andres are the three primary personas you'll meet, each with distinct financial pain points.",
-      "feedback_incorrect": "The course identifies three primary personas at TechIQ. While there are four personas mentioned in the materials overall, the focus at the event is on Gilbert (Clinical Operations), Reena (VP IT Clinical), and Andres (Digital Transformation)."
+      "feedback_correct": "Gilbert's world is trial execution, and his frustration centers on manual financial drag that slows site activation and payment cycles.",
+      "feedback_incorrect": "Each persona has a distinct pain point. Gilbert is focused on operational execution speed, not compliance or infrastructure. Review slide 5 to see how each persona's concerns differ."
     },
     {
-      "question": "What is the primary problem that CTFS Contracting solves in the clinical trial workflow?",
+      "question": "What single figure is used to illustrate the daily cost of fragmented clinical trial financial management?",
       "choices": [
-        "It automates site recruitment and enrollment processes",
-        "It reduces manual contract execution delays and eliminates duplicate data entry between systems",
-        "It manages investigator budgets using 38 million negotiated data points",
-        "It forecasts real-time trial costs using historical spend data"
+        "$15 million per day",
+        "$55,000 per day",
+        "$3 million per year",
+        "$200 million annually"
       ],
       "answer": 1,
-      "slide": 16,
-      "feedback_correct": "You've identified the core problem correctly—Contracting streamlines the manual, error-prone CTA process and connects contract terms directly to payment systems.",
-      "feedback_incorrect": "While CTFS has multiple modules, Contracting specifically solves the contract execution bottleneck. GrantPlan handles budgeting, and Forecasting handles cost projection—but Contracting eliminates the manual handoffs between contract signing and payment processing."
+      "slide": 9,
+      "feedback_correct": "The $55,000 per day figure comes from Applied Clinical Trials and is a powerful way to make the cost of doing nothing concrete in any conversation.",
+      "feedback_incorrect": "While the course mentions several numbers, this specific daily cost figure for late-stage trials is what anchors the problem statement. Check slide 9 for the exact framing."
     },
     {
-      "question": "What are the three versions of the CTFS pitch you should prepare, and what distinguishes them?",
+      "question": "Which of the following best describes how CTFS Contracting differs from a standalone contract management tool?",
       "choices": [
-        "Short, medium, and long versions differentiated by the number of modules you mention",
-        "Versions for clinical ops, IT, and digital transformation stakeholders",
-        "Under 35 words for hallway conversations, under 75 words for five-minute chats, under 150 words for formal meetings",
-        "Versions with and without competitive comparisons, plus one for skeptical buyers"
+        "It uses basic OCR scanning instead of AI models",
+        "It only handles contract authoring but not amendments",
+        "Signed contracts automatically inform payment milestones and budget alignment in other modules",
+        "It is designed exclusively for small-volume trial sponsors"
       ],
       "answer": 2,
-      "slide": 13,
-      "feedback_correct": "Perfect—the pitch discipline is about fitting the moment, not the audience. Word count and context dictate which version you deliver.",
-      "feedback_incorrect": "The three pitch versions are structured by context and time available, not by persona or content focus. Each version leads with the customer's problem before naming the solution, but the depth increases with the time you have available."
-    },
-    {
-      "question": "Which of the following is NOT a discovery question designed to open a real conversation with a buyer persona?",
-      "choices": [
-        "For Gilbert: How are payment delays affecting your site relationships right now?",
-        "For Reena: What keeps you up at night from a compliance risk standpoint?",
-        "For Andres: Can you tell me about your current technology stack and budget for new platforms?",
-        "For Andres: Where are your current AI investments stalling before they reach scale?"
-      ],
-      "answer": 2,
-      "slide": 7,
-      "feedback_correct": "That's right—asking directly about technology stack and budget is transactional, not discovery. The best discovery questions focus on the buyer's specific pain and priorities in their own language.",
-      "feedback_incorrect": "The course emphasizes discovery questions that are open, specific to the person's world, and focused on their pain—not on your solution or their procurement process. Questions about pain, frustration, and roadblocks open doors; questions about budgets and systems close them down."
-    },
-    {
-      "question": "Why does the course emphasize that Contracting is 'not a standalone tool'?",
-      "choices": [
-        "Because it requires integration with at least two other CTFS modules to function",
-        "Because signed CTAs automatically inform payment milestones in Site Payments and update budget alignment in GrantPlan without manual re-entry",
-        "Because it depends on manual reconciliation between contract terms and payment schedules",
-        "Because sponsors typically use multiple contract management tools alongside CTFS"
-      ],
-      "answer": 1,
       "slide": 18,
-      "feedback_correct": "Exactly—the power of Contracting lies in its integration. A signed contract automatically triggers downstream actions, eliminating the duplicate data entry that point solutions require.",
-      "feedback_incorrect": "The 'not standalone' distinction is crucial because it highlights CTFS's competitive advantage over point solutions. Contracting connects directly to the downstream financial systems, creating an end-to-end unified flow rather than isolated tools that require manual handoffs."
+      "feedback_correct": "That's the critical distinction—CTFS Contracting is the upstream trigger that eliminates manual data re-entry by connecting directly to Site Payments and GrantPlan.",
+      "feedback_incorrect": "The value of CTFS Contracting is not in the contract tool itself, but in how it integrates with the rest of the platform. When a CTA is signed, it automatically updates downstream modules without re-keying. Review slide 18."
     },
     {
-      "question": "What is the core value proposition that separates CTFS from competing point solutions?",
+      "question": "What is the word limit for the short version of the CTFS pitch meant for hallway conversations?",
       "choices": [
-        "CTFS has the largest database of negotiated investigator rates in the market",
-        "CTFS solves the entire financial lifecycle and eliminates the data handoff friction that point solutions require",
-        "CTFS uses more advanced AI algorithms than competing platforms",
-        "CTFS supports more geographies than any other clinical trial finance vendor"
+        "Under 25 words",
+        "Under 35 words",
+        "Under 75 words",
+        "Under 150 words"
       ],
       "answer": 1,
-      "slide": 24,
-      "feedback_correct": "That's the unification story—point solutions solve one problem well but create integration problems on either side. CTFS covers the whole lifecycle without the friction.",
-      "feedback_incorrect": "While CTFS has many strengths individually, the course emphasizes that its competitive win is the unification story. Point solutions force you to reconcile between systems; CTFS eliminates that burden by connecting budgeting, contracting, payments, and forecasting in one platform."
+      "slide": 13,
+      "feedback_correct": "The short pitch is designed for quick, mobile conversations where you have only 30 seconds to make one clear point.",
+      "feedback_incorrect": "Pitch length varies by context. Under 35 words is the hallway version, while longer versions work for different settings. See slide 13 for the three versions and their contexts."
     },
     {
-      "question": "If a buyer says 'We already have a system,' what is the recommended approach to move the conversation forward?",
+      "question": "When handling the objection \"we already have a system,\" what is the recommended first step?",
       "choices": [
-        "Acknowledge that you understand and offer to compare CTFS features against their existing system",
-        "Ask what their current system does NOT unify, then quantify the cost of that gap",
-        "Pivot immediately to discussing the Contracting module as a complementary tool",
-        "Suggest a sandbox pilot to demonstrate CTFS's capabilities directly"
+        "List all the features that your system has that theirs doesn't",
+        "Ask what their current system does not unify and quantify the cost of that gap",
+        "Immediately offer a competitive price discount",
+        "Suggest they schedule a full product demo before making any decisions"
       ],
       "answer": 1,
       "slide": 23,
-      "feedback_correct": "Correct—the gap question is the key. It opens a real conversation because the honest answer almost always reveals unification problems that cost money.",
-      "feedback_incorrect": "The course teaches you to avoid feature comparison and instead dig into the gaps that existing systems create. By asking what doesn't unify, you redirect the conversation from 'we have something already' to 'here's what we're still struggling with,' which is where CTFS wins."
+      "feedback_correct": "This approach opens a real conversation by focusing on unmet needs rather than defending your solution—and it almost always reveals meaningful integration gaps.",
+      "feedback_incorrect": "The course specifically advises against leading with feature comparison, which puts you on the other system's terms. The gap question is designed to uncover real operational friction. Review slide 23."
     },
     {
-      "question": "What constitutes a qualified TechIQ lead according to the course?",
+      "question": "What should you do immediately after each meaningful conversation at TechIQ to preserve key information?",
       "choices": [
-        "Any buyer who shows interest in hearing a CTFS demonstration",
-        "A buyer who expresses pain around financial processes AND you've identified a named decision-maker willing to continue the conversation, OR they show openness to a pilot within 30 days",
-        "A buyer who commits to a follow-up meeting before leaving the booth",
-        "A buyer from the top 20 pharma companies who use IQVIA for other services"
-      ],
-      "answer": 1,
-      "slide": 25,
-      "feedback_correct": "Precisely—qualification requires both expressed pain AND a real mechanism to continue (named decision-maker, openness to demo, budget visibility, or pilot interest). One strong signal is enough.",
-      "feedback_incorrect": "Not every good conversation is a qualified opportunity. The course emphasizes specific markers: expressed pain, a named decision-maker or influencer willing to continue, openness to a demo/pilot within 30 days, or budget authority/visibility. These signals tell you whether to invest follow-up effort."
-    },
-    {
-      "question": "What should you do immediately after a meaningful TechIQ conversation to preserve critical information?",
-      "choices": [
-        "Send a follow-up email to the contact within 24 hours summarizing what you discussed",
-        "Enter the conversation into your CRM system at the end of the day with all relevant details",
-        "Take a 90-second voice memo or note the persona, stated pain, qualifying signals, and agreed next step right after the conversation",
-        "Request a calendar invitation for the next meeting before either of you leave the conversation"
+        "Wait until the end of the day to record all conversations at once",
+        "Send a follow-up email before you forget the details",
+        "Take a 90-second voice memo or note capturing persona, pain, signals, and next steps",
+        "Add the contact to your CRM without any notes about the specific conversation"
       ],
       "answer": 2,
       "slide": 26,
-      "feedback_correct": "Exactly—capture insights immediately while they're fresh, not at the end of the day when details blur together. A quick voice memo preserves the specificity that makes follow-up personalized and effective.",
-      "feedback_incorrect": "The course stresses urgency: capture information right after the conversation, not hours later. By the end of TechIQ, you'll have had eight more conversations and the specific details will be lost. A quick memo captures the persona, their exact pain in their words, qualifying signals, and the next step you agreed on."
+      "feedback_correct": "Capturing insights immediately—not at day's end—ensures you retain the specific details that make your follow-up personal and relevant.",
+      "feedback_incorrect": "Memory is unreliable after multiple conversations. Waiting until the end of the day or sending generic emails loses the specificity that makes follow-up effective. Slide 26 emphasizes capturing the interaction while it's fresh."
     },
     {
-      "question": "How should a 30-day follow-up plan be structured, and what makes it effective?",
+      "question": "Which of the following is NOT listed as a signal of a qualified TechIQ lead?",
       "choices": [
-        "A generic email to all TechIQ contacts offering a product demonstration and inviting them to schedule a call",
-        "Contact name and title, personalized follow-up action referencing their specific pain, and a target date within 30 days with a clear milestone (scheduled call, CRM opportunity, or pilot invitation accepted)",
-        "A series of automated nurture emails sent to all qualified leads with rotating content about CTFS modules",
-        "Monthly check-ins with all TechIQ contacts to maintain relationship engagement until budget cycles align"
+        "They've expressed pain around payment delays, contract cycle times, or site dissatisfaction",
+        "A named decision-maker is willing to continue the conversation after TechIQ",
+        "They indicated they are considering three competing vendors",
+        "They've shown openness to a demo or sandbox pilot within 30 days"
+      ],
+      "answer": 2,
+      "slide": 25,
+      "feedback_correct": "Considering multiple vendors is normal competitive activity, not a qualification signal on its own. The qualified signals focus on pain, decision-maker access, and willingness to advance.",
+      "feedback_incorrect": "Review slide 25 for the four explicit qualification signals. Competition alone doesn't disqualify a lead—what matters is whether they've expressed real pain and whether there's a path to continue the conversation."
+    },
+    {
+      "question": "How does the unified design of CTFS prevent operational friction compared to point solutions?",
+      "choices": [
+        "Point solutions offer more customization options than CTFS",
+        "Point solutions solve one problem well but create new integration problems, while CTFS eliminates manual data handoff friction across the entire financial lifecycle",
+        "CTFS only works with sponsors who run fewer than 50 trials annually",
+        "Point solutions are always more expensive than CTFS over a five-year period"
       ],
       "answer": 1,
-      "slide": 28,
-      "feedback_correct": "You've got it—the follow-up plan combines personalization (referencing their exact pain) with structure (clear action and date) and measurable outcomes (specific milestone targets). Generic follow-up goes nowhere.",
-      "feedback_incorrect": "The course emphasizes that follow-up must be personalized, not generic. Each contact needs a specific action tied to their stated pain, a target date, and a milestone that proves progress. This structure converts good conversations into actual pipeline opportunities instead of interesting memories."
+      "slide": 24,
+      "feedback_correct": "This is CTFS's core competitive advantage—it solves the whole financial lifecycle, not just one piece, which eliminates the reconciliation and re-entry work that point solutions require.",
+      "feedback_incorrect": "The competitive principle emphasized in the course is not about features or price, but about the unification story. Point solutions create data handoff friction; CTFS eliminates it by design. See slide 24."
+    },
+    {
+      "question": "What is the projected annual savings figure for high-volume sponsors running 100+ trials per year using CTFS Contracting, and what does this figure primarily represent?",
+      "choices": [
+        "$1 million in annual savings from reduced contract negotiation time",
+        "$3 million in annual savings from eliminated manual CTA ingestion, errors, delays, and re-entry labor",
+        "$5 million in annual savings from faster site activation alone",
+        "$15 million in annual savings from integration with all five CTFS modules"
+      ],
+      "answer": 1,
+      "slide": 19,
+      "feedback_correct": "The $3 million figure applies specifically to high-volume sponsors and reflects the cumulative cost of manual processes that AI-driven Contracting eliminates.",
+      "feedback_incorrect": "The savings calculation in slide 19 is tied to a specific sponsor profile (100+ trials, 200 sites per trial) and targets the operational costs of manual CTA processing. The other figures either don't match the course content or conflate Contracting savings with broader platform benefits."
     }
   ]
 }
