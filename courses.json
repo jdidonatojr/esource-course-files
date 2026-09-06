@@ -568,7 +568,7 @@
     "firstMessage": "Welcome to Introduction to CTFS for TechIQ Attendees. Are you ready to begin?",
     "sections": [
       {
-        "label": "Introduction and Objectives (slides 1-3)",
+        "label": "Introduction and Setup (slides 1-3)",
         "startSlide": 1
       },
       {
@@ -584,7 +584,7 @@
         "startSlide": 15
       },
       {
-        "label": "Handle Objections and Qualify Leads (slides 22-25)",
+        "label": "Handle Objections and Qualify (slides 22-25)",
         "startSlide": 22
       },
       {
@@ -592,7 +592,7 @@
         "startSlide": 26
       },
       {
-        "label": "Final Confidence Check and Action (slides 31-32)",
+        "label": "Final Preparation and Closing (slides 31-32)",
         "startSlide": 31
       }
     ]
