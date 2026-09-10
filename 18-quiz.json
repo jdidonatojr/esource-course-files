@@ -6,134 +6,134 @@
   },
   "questions": [
     {
-      "question": "How many clinical trial financial modules make up the CTFS platform?",
+      "question": "How many modules make up the CTFS platform?",
       "choices": [
         "Three modules",
+        "Four modules",
         "Five modules",
-        "Seven modules",
-        "Two modules"
+        "Six modules"
       ],
-      "answer": 1,
-      "slide": 10,
-      "feedback_correct": "Exactly right—GrantPlan, Contracting, Forecasting, Site Payments, and Analytics make up the five-module suite.",
-      "feedback_incorrect": "The course specifically outlines five modules that work together as one financial backbone. Review slide 10 to see each module and what it does."
+      "answer": 2,
+      "slide": 12,
+      "feedback_correct": "Exactly right—GrantPlan, Connect, Contracting, Forecasting, and Site Payments are the five modules that form the unified financial backbone.",
+      "feedback_incorrect": "Take another look at Slide 12. The five modules are GrantPlan, Connect, Contracting, Forecasting, and Site Payments—each one handles a distinct part of the financial lifecycle."
     },
     {
-      "question": "What is the primary problem that CTFS Contracting solves in the trial start-up process?",
+      "question": "What is Gilbert's primary frustration as a Clinical Operations Director?",
       "choices": [
-        "Slowing down site recruitment timelines",
-        "Manual, error-prone contract execution that delays site activation and payments",
-        "Reducing the number of geographies CTFS can support",
-        "Eliminating the need for GrantPlan budgeting"
+        "Integration complexity and compliance risk",
+        "Manual financial drag and fragmented visibility across studies and sites",
+        "Cash flow unpredictability and chasing multiple sponsors",
+        "Lack of AI orchestration across clinical operations"
       ],
       "answer": 1,
-      "slide": 16,
-      "feedback_correct": "You've identified the core problem—CTA processing is manual and fragile, and delays in contract signing ripple into delayed site activation and compressed timelines.",
-      "feedback_incorrect": "The Contracting module addresses the manual, error-prone nature of contract execution and how delays in signing cascade into operational problems downstream. Slide 16 explains this problem clearly."
+      "slide": 6,
+      "feedback_correct": "You've got it—Gilbert's world is trial execution, and his pain centers on manual processes, lack of visibility, and slow reconciliation that frustrates sites.",
+      "feedback_incorrect": "That's a pain point for a different persona. Gilbert, the Clinical Operations Director, is focused on trial execution and the operational friction caused by manual financial drag and fragmented visibility."
     },
     {
-      "question": "Which discovery question would you ask a Clinical Operations Director like Gilbert to open a real conversation?",
+      "question": "Which of the following is NOT one of the four buyer personas you will meet at TechIQ?",
       "choices": [
-        "What keeps you up at night from a compliance risk standpoint?",
-        "How are payment delays affecting your site relationships right now?",
-        "Where are your current AI investments stalling before they reach value?",
-        "How integrated are your current financial systems with your CRM?"
-      ],
-      "answer": 1,
-      "slide": 7,
-      "feedback_correct": "Perfect—this is the discovery question designed specifically for Gilbert, focusing on his operational pain around payment delays and site satisfaction.",
-      "feedback_incorrect": "Each persona has a different discovery question tailored to their specific concerns. Gilbert's world is trial execution and site satisfaction, so the discovery question should address payment cycle times and site relationships."
-    },
-    {
-      "question": "What does it mean that CTFS Contracting is 'not a standalone tool'?",
-      "choices": [
-        "It cannot be used by sponsors running fewer than 50 trials per year",
-        "Signed CTAs automatically inform payment milestones and update budget alignment without manual re-entry",
-        "It requires a separate licensing agreement from the other CTFS modules",
-        "It only works for digital-native pharmaceutical companies"
-      ],
-      "answer": 1,
-      "slide": 18,
-      "feedback_correct": "Exactly—the distinction is that Contracting is upstream in the unified financial lifecycle and automatically triggers downstream processes in Site Payments and GrantPlan.",
-      "feedback_incorrect": "The value of Contracting lies in its integration with the rest of the CTFS suite. When a contract is signed, it doesn't sit in isolation—it automatically informs payment milestones and budget updates. This unification is what separates CTFS from point solutions."
-    },
-    {
-      "question": "You are talking to Reena, the VP IT Clinical, and she asks 'How do I modernize without breaking compliance or creating new integration nightmares?' What does this tell you about her core concern?",
-      "choices": [
-        "She is worried that the solution will be too expensive for her budget",
-        "She is primarily focused on speed of implementation and quick wins",
-        "She needs to trust the architecture and governance before she trusts the pitch",
-        "She is uncertain whether CTFS can handle the geographic complexity of global trials"
+        "Rachel, Site Operations Director",
+        "Andres, Digital Transformation Leader",
+        "Marcus, Finance Operations Manager",
+        "Reena, VP IT Clinical"
       ],
       "answer": 2,
       "slide": 6,
-      "feedback_correct": "You've correctly identified what Reena is really asking—her concern is about architectural integrity, compliance risk, and avoiding new integration problems. Trust in the system design comes first for her.",
-      "feedback_incorrect": "Understanding what each persona is really asking beneath the surface is crucial for a strong response. Reena's question reveals that she prioritizes governance and technical architecture over speed. Her objections will likely center on integration risk and audit readiness."
+      "feedback_correct": "Correct—the four personas are Gilbert, Rachel, Reena, and Andres. Marcus is not one of the core personas covered in this course.",
+      "feedback_incorrect": "Review Slides 6-9. The four personas are Gilbert (Clinical Operations Director), Rachel (Site Operations Director), Reena (VP IT Clinical), and Andres (Digital Transformation Leader)."
     },
     {
-      "question": "A buyer tells you 'We already have a system.' According to the course, what should your first move be?",
+      "question": "What does CTFS Contracting NOT do?",
       "choices": [
-        "Immediately list the competitive features of CTFS that their system doesn't have",
-        "Ask what it does not unify and quantify the cost of that gap",
-        "Suggest a 30-day pilot to demonstrate CTFS superiority",
-        "Acknowledge their investment and pivot directly to the $15 billion proof point"
+        "Streamlines authoring and amending clinical trial agreements",
+        "Uses agentic AI to extract and contextualize contract terms",
+        "Automatically connects payment milestones to signed contract terms",
+        "Replaces the need for any human legal review of contracts"
       ],
-      "answer": 1,
-      "slide": 23,
-      "feedback_correct": "Exactly right—asking about gaps in unification opens a real conversation, because the honest answer often reveals where manual processes and reconciliation costs still exist.",
-      "feedback_incorrect": "The course explicitly warns against leading with feature comparison. Instead, the stronger move is to understand what their system doesn't unify and help them quantify the operational or financial cost of that fragmentation."
+      "answer": 3,
+      "slide": 19,
+      "feedback_correct": "Right—while Contracting uses intelligent AI to extract and contextualize terms, it streamlines the process rather than eliminating the need for human oversight entirely.",
+      "feedback_incorrect": "Contracting is a powerful tool that uses agentic AI to process CTAs, but it is designed to streamline and support the process, not eliminate human judgment and legal review."
     },
     {
-      "question": "A sponsor running 100+ trials per year is interested in Contracting but concerned about the timing since the module just launched. What is the strongest response to their timing concern?",
+      "question": "How much annual savings is CTFS Contracting projected to deliver for high-volume sponsors?",
       "choices": [
-        "Early adopters will receive the module at a discounted rate for the first year",
-        "The rest of the CTFS suite is proven at scale and Contracting completes the upstream coverage; early adopters gain input into the product roadmap",
-        "Waiting longer will make adoption more expensive due to planned price increases",
-        "Late adopters will be required to go through extended training and validation periods"
-      ],
-      "answer": 1,
-      "slide": 20,
-      "feedback_correct": "You've identified the core value argument—Contracting fills the last gap in a proven platform, and early movers gain strategic influence over product development.",
-      "feedback_incorrect": "The timing concern is real, but the answer is rooted in the unification story and the opportunity to shape the roadmap. Slide 20 explains that early adoption isn't a risk when the foundation is already proven at $15 billion in transaction volume."
-    },
-    {
-      "question": "After a conversation at TechIQ with a sponsor's Clinical Operations Director, you observe three signals: expressed pain about payment delays, willingness to continue the conversation, and indication of budget visibility. How should you classify this lead?",
-      "choices": [
-        "Not qualified—you need a commitment to a demo within 30 days before it counts",
-        "Partially qualified—you have expressed pain but need to establish a named decision-maker",
-        "Fully qualified—multiple strong signals are present, and at least one is sufficient to move forward",
-        "Overqualified—this contact has too much budget visibility to be a typical early-stage opportunity"
+        "Approximately $500,000 per year",
+        "Approximately $1.5 million per year",
+        "Approximately $3 million per year",
+        "Approximately $10 million per year"
       ],
       "answer": 2,
+      "slide": 21,
+      "feedback_correct": "Exactly—the projection is $3 million in annual savings for high-volume sponsors running 100+ trials per year, assuming two CTAs per site and 200 sites per trial.",
+      "feedback_incorrect": "Check Slide 21. The business case shows a projected $3 million in annual savings for high-volume sponsors, based on the cumulative cost of manual CTA ingestion at scale."
+    },
+    {
+      "question": "What is the key distinction about CTFS Contracting that separates it from a standalone contract tool?",
+      "choices": [
+        "It uses basic OCR scanning instead of intelligent AI models",
+        "It stores contracts in a centralized database for easy access",
+        "When a CTA is signed, payment milestones and budget alignment automatically update across the platform",
+        "It requires manual data entry between Contracting and other modules"
+      ],
+      "answer": 2,
+      "slide": 20,
+      "feedback_correct": "Perfect—Slide 20 emphasizes that Contracting is not a standalone tool; signed CTAs automatically trigger payment milestones in Site Payments and update GrantPlan budgets, eliminating manual handoffs.",
+      "feedback_incorrect": "The power of Contracting lies in its integration. When a CTA is signed, the platform automatically connects contract terms to payment milestones and budget information—no manual transfer or reconciliation needed."
+    },
+    {
+      "question": "Rachel's primary concern as a Site Operations Director is best addressed by which CTFS capability?",
+      "choices": [
+        "Investigator grant benchmarking through GrantPlan",
+        "Consistent payment visibility and predictable cash flow forecasting",
+        "Integration security and compliance risk management",
+        "Agentic AI orchestration across clinical operations"
+      ],
+      "answer": 1,
+      "slide": 7,
+      "feedback_correct": "You've connected it correctly—Rachel's pain is unpredictability and chasing multiple sponsors for payment status; CTFS delivers the consistent, unified view she needs.",
+      "feedback_incorrect": "Look at Slide 7. Rachel's world is site-level operations and her real question is 'when will I stop chasing sponsors for payment updates?' She needs consistent visibility and forecasting."
+    },
+    {
+      "question": "When delivering a pitch to a buyer who says \"CTFS is new, we're not ready,\" what is the recommended response strategy?",
+      "choices": [
+        "Argue that the technology is ready and proven in the market",
+        "Acknowledge the hesitation and pivot to proof points like $15 billion in payments processed and the sandbox pilot option",
+        "Suggest they wait until the product matures further",
+        "Emphasize that competitors are already moving, creating urgency"
+      ],
+      "answer": 1,
       "slide": 25,
-      "feedback_correct": "You've correctly applied the qualification framework—one strong signal is enough, and this lead shows multiple signals (pain, willingness to continue, budget visibility), making it clearly qualified.",
-      "feedback_incorrect": "Qualification doesn't require all signals or a formal demo commitment at the conversation stage. The course teaches that expressed pain, a named decision-maker, openness to a demo, or budget visibility—even just one—is sufficient to qualify a lead for follow-up."
+      "feedback_correct": "That's the right approach—acknowledge the concern first, then anchor to proven outcomes and offer a low-risk sandbox pilot so they can experience the value themselves.",
+      "feedback_incorrect": "Slide 25 advises against pushing back on hesitation. Instead, validate their caution and redirect to concrete proof: the $15 billion already processed and the sandbox pilot option that lets them test without risk."
     },
     {
-      "question": "You are building your 30-day follow-up plan for a contact from TechIQ who expressed concern about forecasting accuracy but seemed hesitant about timelines. What makes the follow-up action 'personalized' versus generic?",
+      "question": "According to the course, what single characteristic is most critical when comparing CTFS to point solutions in the market?",
       "choices": [
-        "Sending them the CTFS brochure rather than asking for a meeting immediately",
-        "Referencing the specific pain they raised (forecasting accuracy) and offering a targeted resource or demo that directly addresses it",
-        "Following up within 48 hours instead of waiting a week",
-        "Using their first name and mentioning the company they work for in the subject line"
+        "CTFS has more features than any single competitor",
+        "CTFS offers the lowest per-transaction cost",
+        "CTFS unifies the entire financial lifecycle, eliminating integration friction and data handoffs between separate systems",
+        "CTFS is the only platform with AI-driven automation"
       ],
-      "answer": 1,
-      "slide": 28,
-      "feedback_correct": "Personalization means the follow-up connects directly to what they said at TechIQ—in this case, their concern about forecasting—not just a generic check-in.",
-      "feedback_incorrect": "Generic follow-up email loses credibility and momentum. The course emphasizes that personalization means referencing the exact pain they raised and structuring the action (demo, resource, call) around that specific concern."
+      "answer": 2,
+      "slide": 26,
+      "feedback_correct": "Exactly—Slide 26 makes clear that unification is CTFS's true differentiator; while point solutions solve one problem well, they create new integration headaches that CTFS eliminates.",
+      "feedback_incorrect": "While CTFS has many strengths, Slide 26 emphasizes that the winning competitive story is unification. Point solutions create integration problems on both sides; CTFS solves the whole financial lifecycle without the data handoff friction."
     },
     {
-      "question": "Which of the following best represents the core competitive distinction of CTFS that you should lead with when speaking to any buyer at TechIQ?",
+      "question": "A prospect at TechIQ says their current system handles payments fine—what is the recommended discovery approach to open the conversation?",
       "choices": [
-        "CTFS has more features than any competitor and processes more payments",
-        "CTFS unifies the entire financial lifecycle and eliminates data handoff friction that point solutions require",
-        "CTFS is the only platform that offers both Contracting and Forecasting modules",
-        "CTFS supports more geographies than GreenPhire and has faster contract processing than Medidata"
+        "List three reasons why their current system is inefficient",
+        "Ask what their system doesn't unify and explore the gap, which often reveals real cost",
+        "Share your CTFS feature list and show why it's superior",
+        "Acknowledge their satisfaction and move to the next prospect"
       ],
       "answer": 1,
-      "slide": 24,
-      "feedback_correct": "Perfect—the course explicitly states this is where CTFS wins, and it's the story you should lead with instead of feature-by-feature comparison.",
-      "feedback_incorrect": "The course warns against leading with feature comparison or competitive positioning based on individual capabilities. The unification story—solving the whole financial lifecycle and eliminating the integration problems that point solutions create—is the strategic advantage."
+      "slide": 25,
+      "feedback_correct": "Exactly right—instead of arguing, ask the gap question. The honest answer usually reveals where budgeting doesn't connect to payments or where manual reconciliation still happens, quantifying the hidden cost.",
+      "feedback_incorrect": "Slide 25 advises against arguing with this objection. The gap question—'what doesn't your system unify?'—almost always opens a real conversation because the answer reveals manual workarounds and disconnected processes that create cost."
     }
   ]
 }
