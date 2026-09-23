@@ -6,134 +6,134 @@
   },
   "questions": [
     {
-      "question": "How many modules does the CTFS platform contain?",
+      "question": "How many modules make up the CTFS platform?",
       "choices": [
-        "Three modules: GrantPlan, Contracting, and Site Payments",
-        "Five modules: GrantPlan, Connect, Contracting, Forecasting, and Site Payments",
-        "Four modules: GrantPlan, Contracting, Forecasting, and Participant Payments",
-        "Six modules covering budgeting, contracting, payments, and forecasting"
+        "Three modules",
+        "Four modules",
+        "Five modules",
+        "Six modules"
       ],
-      "answer": 1,
+      "answer": 2,
       "slide": 12,
-      "feedback_correct": "Exactly right—the five modules work together as one unified financial backbone for clinical trial management.",
-      "feedback_incorrect": "The platform has five distinct modules, not three, four, or six. Review Slide 12 to see each module and its purpose clearly laid out."
+      "feedback_correct": "Exactly right—GrantPlan, Connect, Contracting, Forecasting, and Site Payments are the five modules that form the unified CTFS backbone.",
+      "feedback_incorrect": "The slide lists five distinct modules that work together as one platform. Knowing these five is essential for positioning CTFS as a complete solution."
     },
     {
-      "question": "What is the primary pain point that Rachel, the Site Operations Director, experiences?",
+      "question": "What is the primary pain point that Gilbert, the Clinical Operations Director, is trying to solve?",
       "choices": [
-        "Manual financial drag and fragmented visibility across studies and sites",
-        "Unpredictable cash flow and time spent chasing multiple sponsors for payment status",
-        "Complex regulated technology stacks and integration nightmares",
-        "Proofs-of-concept that stall and inability to quantify ROI for leadership"
+        "Compliance risk and integration headaches",
+        "Manual financial drag and delayed site payments",
+        "Unpredictable cash flow and invoicing errors",
+        "Proof of AI effectiveness in production"
       ],
       "answer": 1,
-      "slide": 7,
-      "feedback_correct": "You've correctly identified Rachel's core frustration—she needs predictability and a single clear view instead of navigating different systems for each sponsor.",
-      "feedback_incorrect": "That's a pain point for a different persona. Rachel's pain is specifically around unpredictable cash flow and the burden of chasing payment updates across multiple sponsors."
+      "slide": 6,
+      "feedback_correct": "You've nailed Gilbert's world—his frustration centers on the manual processes that slow payment cycles and leave sites unhappy.",
+      "feedback_incorrect": "While all of these are real pain points, they belong to different personas. Gilbert is the Clinical Operations Director focused on trial execution and payment speed."
     },
     {
-      "question": "Which persona is primarily concerned with modernizing the clinical technology stack without putting compliance at risk?",
+      "question": "What is the shortest version of the CTFS pitch you should be able to deliver?",
       "choices": [
-        "Gilbert, the Clinical Operations Director",
-        "Rachel, the Site Operations Director",
-        "Reena, the VP of IT Clinical",
-        "Andres, the Digital Transformation Leader"
+        "Under 75 words for a five-minute chat",
+        "Under 150 words for a formal meeting",
+        "Under 35 words for a hallway conversation",
+        "Under 200 words for a detailed explanation"
       ],
       "answer": 2,
-      "slide": 8,
-      "feedback_correct": "Perfect—Reena's world is about risk management, compliance, and building a secure, scalable architecture.",
-      "feedback_incorrect": "That's not the right persona. Reena is the IT leader who needs to trust the technical architecture before trusting the pitch—she's focused on modernization without compliance risk."
-    },
-    {
-      "question": "What is the minimum number of words recommended for the short version of the CTFS pitch?",
-      "choices": [
-        "Under 20 words",
-        "Under 35 words",
-        "Under 50 words",
-        "Under 75 words"
-      ],
-      "answer": 1,
       "slide": 15,
-      "feedback_correct": "Correct—the short pitch is under 35 words and designed for quick hallway conversations where you have about 30 seconds.",
-      "feedback_incorrect": "The short version is under 35 words, not 20, 50, or 75. That word count is specifically for hallway-level speed and simplicity."
+      "feedback_correct": "Perfect—you've identified the hallway version, which is designed for quick, moving conversations where you have about 30 seconds.",
+      "feedback_incorrect": "The course teaches three pitch lengths: 35 words for hallway, 75 words for five-minute conversations, and 150 words for formal meetings. The shortest is always for hallway situations."
     },
     {
-      "question": "How much money does the instructor notes indicate is lost per day due to fragmented clinical trial financial management in late-stage trials?",
+      "question": "According to the course, when does CTFS Contracting reach general availability?",
       "choices": [
-        "Up to $35,000 per day",
-        "Up to $50,000 per day",
-        "Up to $55,000 per day",
-        "Up to $75,000 per day"
+        "End of September",
+        "End of November",
+        "End of December",
+        "End of October"
+      ],
+      "answer": 1,
+      "slide": 17,
+      "feedback_correct": "Correct—the module reaches general availability at the end of November, which is why everyone at TechIQ will be asking about it.",
+      "feedback_incorrect": "The timing is critical because it explains why Contracting will be a hot topic at TechIQ and why you need to own this conversation."
+    },
+    {
+      "question": "What is the projected annual savings amount for high-volume sponsors using CTFS Contracting?",
+      "choices": [
+        "$1.5 million",
+        "$3 million",
+        "$5 million",
+        "$7 million"
+      ],
+      "answer": 1,
+      "slide": 22,
+      "feedback_correct": "Exactly—$3 million in projected annual savings for sponsors running 100-plus trials per year, assuming two CTAs per site and 200 sites per trial.",
+      "feedback_incorrect": "This number applies specifically to high-volume sponsors (100+ trials per year) and reflects the cumulative cost of manual CTA processing that AI eliminates."
+    },
+    {
+      "question": "When a buyer says 'we already have a system,' what does the course recommend you do?",
+      "choices": [
+        "Immediately argue that CTFS is superior",
+        "Ask what gap their current system doesn't fill",
+        "Suggest they pilot CTFS alongside their existing system",
+        "Accept their objection and move to the next prospect"
+      ],
+      "answer": 1,
+      "slide": 26,
+      "feedback_correct": "You've got the right approach—asking the gap question almost always opens a genuine conversation because the honest answer reveals real unmet needs.",
+      "feedback_incorrect": "The course teaches that the gap question is more powerful than arguing features. It shifts the conversation from 'we're already set' to 'here's what we still struggle with.'"
+    },
+    {
+      "question": "What does the course identify as the key differentiator that separates CTFS from point-solution competitors?",
+      "choices": [
+        "Better user interface design",
+        "Lower pricing than competitors",
+        "Unification across the entire financial lifecycle with automatic data flow between modules",
+        "Faster customer support response time"
       ],
       "answer": 2,
-      "slide": 11,
-      "feedback_correct": "Exactly right—$55,000 per day comes from Applied Clinical Trials and is a powerful proof point that makes the cost of inaction very real.",
-      "feedback_incorrect": "The figure is $55,000 per day, not $35,000, $50,000, or $75,000. This number from Applied Clinical Trials is a key conversation starter in your pitch."
+      "slide": 13,
+      "feedback_correct": "Spot on—the unification story is where CTFS wins, because a budget in GrantPlan automatically informs the contract, which triggers payments, which feeds forecasting with real data.",
+      "feedback_incorrect": "The course emphasizes that point solutions solve one problem but create integration headaches elsewhere. Unification eliminates duplicate data entry and reconciliation friction."
     },
     {
-      "question": "What happens automatically when a clinical trial agreement is signed in CTFS Contracting?",
+      "question": "According to the course, what are the three milestone targets for a qualified 30-day follow-up plan?",
       "choices": [
-        "The system generates a legal summary for compliance review",
-        "Payment milestones in Site Payments are informed and budget alignment in GrantPlan updates to reflect what was agreed",
-        "A notification is sent to all sites requesting amendment submissions",
-        "The contract is archived and a new draft template is created"
+        "An email sent, a phone call made, and a brochure shared",
+        "A scheduled discovery call, a defined CRM opportunity with qualification criteria, or a pilot invitation accepted",
+        "A demo attended, a proposal sent, and a contract started",
+        "LinkedIn connection, email follow-up, and a second meeting"
+      ],
+      "answer": 1,
+      "slide": 32,
+      "feedback_correct": "Exactly—these three options give you concrete markers to track whether a follow-up is actually advancing the opportunity past interest into action.",
+      "feedback_incorrect": "The course teaches that every follow-up needs a specific milestone target—something concrete on the calendar or in your CRM, not just a sense that someone was interested."
+    },
+    {
+      "question": "What happens automatically when a CTA is signed in CTFS Contracting?",
+      "choices": [
+        "A report is generated and sent to the finance team",
+        "Payment milestones in Site Payments and budget alignment in GrantPlan are updated without manual re-keying",
+        "An email notification goes to all stakeholders",
+        "The contract is archived in a secure folder"
       ],
       "answer": 1,
       "slide": 21,
-      "feedback_correct": "Spot-on—this is the integration story that makes Contracting powerful: signed CTAs automatically trigger downstream systems with no manual rekeying or reconciliation.",
-      "feedback_incorrect": "When a CTA is signed, two specific automated actions happen: Site Payments gets the milestones and GrantPlan updates to reflect actual agreed terms. That integration is the real differentiator."
+      "feedback_correct": "Perfect—this automatic integration is exactly what makes Contracting not just a standalone tool but a critical piece of the unified platform.",
+      "feedback_incorrect": "The course emphasizes that signed CTAs automatically inform both Site Payments milestones and GrantPlan budget updates, eliminating manual transfer and reconciliation."
     },
     {
-      "question": "According to the instructor notes, what is the projected annual savings for high-volume sponsors using CTFS Contracting?",
+      "question": "When should you capture your notes after a meaningful TechIQ conversation?",
       "choices": [
-        "$1 million in annual savings",
-        "$2 million in annual savings",
-        "$3 million in annual savings",
-        "$5 million in annual savings"
-      ],
-      "answer": 2,
-      "slide": 22,
-      "feedback_correct": "Correct—$3 million projected annually for sponsors running 100+ trials per year, assuming two CTAs per site and 200 sites per trial.",
-      "feedback_incorrect": "The business case figures $3 million in annual savings for high-volume sponsors, not $1, $2, or $5 million. This is based on specific assumptions about trial and site volume."
-    },
-    {
-      "question": "When a buyer says CTFS is new and they're hesitant to commit, what should you emphasize as your primary response?",
-      "choices": [
-        "That Contracting was recently launched and features the latest AI technology",
-        "That the rest of the CTFS suite is live and proven with $15 billion in payments processed, and early adopters gain competitive advantage",
-        "That the platform will receive free updates for the first two years of use",
-        "That a sandbox pilot is the only option for new organizations unfamiliar with CTFS"
+        "At the end of the day when all conversations are fresh in your mind",
+        "Immediately after the conversation, within 90 seconds",
+        "Within 24 hours while details are still relatively fresh",
+        "During your follow-up call scheduled for the next week"
       ],
       "answer": 1,
-      "slide": 23,
-      "feedback_correct": "Excellent—you're anchoring their hesitation in proven outcomes from the rest of the suite while framing early adoption as a competitive advantage.",
-      "feedback_incorrect": "When facing the \"too new\" objection, ground your response in the proven track record of the existing CTFS modules and the strategic value of early adoption, not just technical features."
-    },
-    {
-      "question": "What are the three milestone targets you should aim for in your 30-day follow-up plan after TechIQ?",
-      "choices": [
-        "A scheduled discovery call, a defined CRM opportunity with qualification criteria, or a sandbox pilot invitation accepted",
-        "An email exchange, a LinkedIn connection, and a request for budget information",
-        "A product demo, a competitive analysis request, and a legal review initiation",
-        "A contract proposal, a pilot start date, and a steering committee meeting"
-      ],
-      "answer": 0,
-      "slide": 32,
-      "feedback_correct": "Perfect—these three concrete milestone targets give you a way to track whether your follow-up is actually advancing the opportunity.",
-      "feedback_incorrect": "The three specific milestone targets are a scheduled call, a formal CRM opportunity, or a pilot invitation. These are measurable markers that show real progress, not just continued interest."
-    },
-    {
-      "question": "Why does the course emphasize never leading with features when competing against point solutions like GreenPhire or Medidata?",
-      "choices": [
-        "Because point solutions are more feature-rich and you will lose any feature-by-feature comparison",
-        "Because features change constantly and they become outdated quickly in your talking points",
-        "Because CTFS wins on the unification story—point solutions create integration problems on either side, while CTFS solves the whole lifecycle",
-        "Because buyers don't care about features and only want to hear about pricing"
-      ],
-      "answer": 2,
-      "slide": 27,
-      "feedback_correct": "Exactly right—you're playing on CTFS's true strength: eliminating the data handoff friction that point solutions create, not competing on individual feature counts.",
-      "feedback_incorrect": "The principle is about playing to CTFS's actual strength—unification across the full financial lifecycle—rather than getting pulled into a feature race where point solutions often look stronger individually."
+      "slide": 29,
+      "feedback_correct": "You've got the timing exactly right—capturing insights immediately, even as a voice memo, prevents details from blending with the eight other conversations you'll have that day.",
+      "feedback_incorrect": "The course is explicit: capture immediately, not at the end of the day. By then you'll have had multiple conversations and the specific details will blur together."
     }
   ]
 }
