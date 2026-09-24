@@ -568,7 +568,7 @@
     "firstMessage": "Welcome to Introduction to CTFS for TechIQ Attendees. Are you ready to begin?",
     "sections": [
       {
-        "label": "Introduction and Readiness (slides 1-3)",
+        "label": "Introduction and Framing (slides 1-3)",
         "startSlide": 1
       },
       {
@@ -576,7 +576,7 @@
         "startSlide": 4
       },
       {
-        "label": "CTFS Value Proposition (slides 11-16)",
+        "label": "The CTFS Value Proposition (slides 11-16)",
         "startSlide": 11
       },
       {
@@ -588,12 +588,12 @@
         "startSlide": 25
       },
       {
-        "label": "Follow-Up Strategy (slides 29-33)",
+        "label": "Capture and Follow-Up (slides 29-32)",
         "startSlide": 29
       },
       {
-        "label": "Closing and Confidence Check (slides 34-35)",
-        "startSlide": 34
+        "label": "Final Practice and Preparation (slides 33-35)",
+        "startSlide": 33
       }
     ]
   }
