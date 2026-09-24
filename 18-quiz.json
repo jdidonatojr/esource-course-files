@@ -6,134 +6,134 @@
   },
   "questions": [
     {
-      "question": "How many modules make up the CTFS platform?",
+      "question": "How many modules does the CTFS platform have?",
       "choices": [
-        "Three modules",
-        "Four modules",
-        "Five modules",
-        "Six modules"
+        "Three modules: GrantPlan, Contracting, and Site Payments",
+        "Five modules: GrantPlan, Connect, Contracting, Forecasting, and Site Payments",
+        "Four modules covering budget, contract, payment, and forecasting",
+        "Six modules including a dedicated reporting module"
       ],
-      "answer": 2,
+      "answer": 1,
       "slide": 12,
-      "feedback_correct": "Exactly right—GrantPlan, Connect, Contracting, Forecasting, and Site Payments are the five modules that form the unified CTFS backbone.",
-      "feedback_incorrect": "The slide lists five distinct modules that work together as one platform. Knowing these five is essential for positioning CTFS as a complete solution."
+      "feedback_correct": "Exactly right—the five modules work together to create the unified financial backbone.",
+      "feedback_incorrect": "The platform has five distinct modules. Review slide 12 to see how each one contributes to the end-to-end workflow."
     },
     {
-      "question": "What is the primary pain point that Gilbert, the Clinical Operations Director, is trying to solve?",
+      "question": "What is the primary pain point that Rachel, the Site Operations Director, experiences?",
       "choices": [
-        "Compliance risk and integration headaches",
-        "Manual financial drag and delayed site payments",
-        "Unpredictable cash flow and invoicing errors",
-        "Proof of AI effectiveness in production"
-      ],
-      "answer": 1,
-      "slide": 6,
-      "feedback_correct": "You've nailed Gilbert's world—his frustration centers on the manual processes that slow payment cycles and leave sites unhappy.",
-      "feedback_incorrect": "While all of these are real pain points, they belong to different personas. Gilbert is the Clinical Operations Director focused on trial execution and payment speed."
-    },
-    {
-      "question": "What is the shortest version of the CTFS pitch you should be able to deliver?",
-      "choices": [
-        "Under 75 words for a five-minute chat",
-        "Under 150 words for a formal meeting",
-        "Under 35 words for a hallway conversation",
-        "Under 200 words for a detailed explanation"
+        "Delayed site activation due to slow contract processing",
+        "Integration headaches and compliance risk across her technology stack",
+        "Unpredictable cash flow and manual invoicing that consumes admin time",
+        "Difficulty quantifying ROI on AI and automation pilots to leadership"
       ],
       "answer": 2,
+      "slide": 7,
+      "feedback_correct": "You've identified Rachel's core pain—she needs consistency and predictability in payments, not multiple sponsors with different processes.",
+      "feedback_incorrect": "Rachel's frustration is about predictability and the burden of chasing multiple sponsors for updates. Review slide 7 to understand her specific operational challenges."
+    },
+    {
+      "question": "According to the course, what is the key number that demonstrates CTFS's scale and market presence?",
+      "choices": [
+        "38 million negotiated data points in the GrantPlan database",
+        "15 billion dollars in payments processed across the platform",
+        "50 percent projected reduction in financial processing time",
+        "3 million dollars in annual savings for high-volume sponsors"
+      ],
+      "answer": 1,
+      "slide": 14,
+      "feedback_correct": "The $15 billion in payments processed is the anchor proof point that demonstrates proven, production-scale impact.",
+      "feedback_incorrect": "While all these numbers matter, the $15 billion in payments already processed is your strongest evidence of scale and reliability. See slide 14."
+    },
+    {
+      "question": "What does the course recommend as the length of your pitch for a hallway conversation at TechIQ?",
+      "choices": [
+        "Under 20 words, delivered in under 10 seconds",
+        "Under 35 words, delivered in approximately 30 seconds",
+        "Under 75 words, delivered in approximately 2 minutes",
+        "Under 150 words, delivered in approximately 5 minutes"
+      ],
+      "answer": 1,
       "slide": 15,
-      "feedback_correct": "Perfect—you've identified the hallway version, which is designed for quick, moving conversations where you have about 30 seconds.",
-      "feedback_incorrect": "The course teaches three pitch lengths: 35 words for hallway, 75 words for five-minute conversations, and 150 words for formal meetings. The shortest is always for hallway situations."
+      "feedback_correct": "Perfect—a hallway pitch is brief and focused on one clear idea that makes them want to keep talking.",
+      "feedback_incorrect": "The hallway pitch is your shortest version. Slide 15 breaks down the three versions: short (under 35 words), medium (under 75 words), and long (under 150 words)."
     },
     {
-      "question": "According to the course, when does CTFS Contracting reach general availability?",
+      "question": "What makes CTFS Contracting different from a standalone contract management tool?",
       "choices": [
-        "End of September",
-        "End of November",
-        "End of December",
-        "End of October"
-      ],
-      "answer": 1,
-      "slide": 17,
-      "feedback_correct": "Correct—the module reaches general availability at the end of November, which is why everyone at TechIQ will be asking about it.",
-      "feedback_incorrect": "The timing is critical because it explains why Contracting will be a hot topic at TechIQ and why you need to own this conversation."
-    },
-    {
-      "question": "What is the projected annual savings amount for high-volume sponsors using CTFS Contracting?",
-      "choices": [
-        "$1.5 million",
-        "$3 million",
-        "$5 million",
-        "$7 million"
-      ],
-      "answer": 1,
-      "slide": 22,
-      "feedback_correct": "Exactly—$3 million in projected annual savings for sponsors running 100-plus trials per year, assuming two CTAs per site and 200 sites per trial.",
-      "feedback_incorrect": "This number applies specifically to high-volume sponsors (100+ trials per year) and reflects the cumulative cost of manual CTA processing that AI eliminates."
-    },
-    {
-      "question": "When a buyer says 'we already have a system,' what does the course recommend you do?",
-      "choices": [
-        "Immediately argue that CTFS is superior",
-        "Ask what gap their current system doesn't fill",
-        "Suggest they pilot CTFS alongside their existing system",
-        "Accept their objection and move to the next prospect"
-      ],
-      "answer": 1,
-      "slide": 26,
-      "feedback_correct": "You've got the right approach—asking the gap question almost always opens a genuine conversation because the honest answer reveals real unmet needs.",
-      "feedback_incorrect": "The course teaches that the gap question is more powerful than arguing features. It shifts the conversation from 'we're already set' to 'here's what we still struggle with.'"
-    },
-    {
-      "question": "What does the course identify as the key differentiator that separates CTFS from point-solution competitors?",
-      "choices": [
-        "Better user interface design",
-        "Lower pricing than competitors",
-        "Unification across the entire financial lifecycle with automatic data flow between modules",
-        "Faster customer support response time"
-      ],
-      "answer": 2,
-      "slide": 13,
-      "feedback_correct": "Spot on—the unification story is where CTFS wins, because a budget in GrantPlan automatically informs the contract, which triggers payments, which feeds forecasting with real data.",
-      "feedback_incorrect": "The course emphasizes that point solutions solve one problem but create integration headaches elsewhere. Unification eliminates duplicate data entry and reconciliation friction."
-    },
-    {
-      "question": "According to the course, what are the three milestone targets for a qualified 30-day follow-up plan?",
-      "choices": [
-        "An email sent, a phone call made, and a brochure shared",
-        "A scheduled discovery call, a defined CRM opportunity with qualification criteria, or a pilot invitation accepted",
-        "A demo attended, a proposal sent, and a contract started",
-        "LinkedIn connection, email follow-up, and a second meeting"
-      ],
-      "answer": 1,
-      "slide": 32,
-      "feedback_correct": "Exactly—these three options give you concrete markers to track whether a follow-up is actually advancing the opportunity past interest into action.",
-      "feedback_incorrect": "The course teaches that every follow-up needs a specific milestone target—something concrete on the calendar or in your CRM, not just a sense that someone was interested."
-    },
-    {
-      "question": "What happens automatically when a CTA is signed in CTFS Contracting?",
-      "choices": [
-        "A report is generated and sent to the finance team",
-        "Payment milestones in Site Payments and budget alignment in GrantPlan are updated without manual re-keying",
-        "An email notification goes to all stakeholders",
-        "The contract is archived in a secure folder"
+        "It uses advanced OCR technology to scan and process documents faster than competitors",
+        "It automatically informs Site Payments milestones and updates GrantPlan budget alignment when a CTA is signed",
+        "It eliminates the need for legal review before contracts are sent to sites",
+        "It reduces contract cycle time by 80 percent compared to manual processes"
       ],
       "answer": 1,
       "slide": 21,
-      "feedback_correct": "Perfect—this automatic integration is exactly what makes Contracting not just a standalone tool but a critical piece of the unified platform.",
-      "feedback_incorrect": "The course emphasizes that signed CTAs automatically inform both Site Payments milestones and GrantPlan budget updates, eliminating manual transfer and reconciliation."
+      "feedback_correct": "Exactly—the unification is the key differentiator. A signed contract automatically connects to payments and budgets, eliminating manual handoffs.",
+      "feedback_incorrect": "The power of Contracting isn't just automation—it's the integration. When a CTA is signed, it automatically flows into both Site Payments and GrantPlan. Review slide 21 for this critical distinction."
     },
     {
-      "question": "When should you capture your notes after a meaningful TechIQ conversation?",
+      "question": "When a buyer says 'We already have a system,' what does the course recommend as your response strategy?",
       "choices": [
-        "At the end of the day when all conversations are fresh in your mind",
-        "Immediately after the conversation, within 90 seconds",
-        "Within 24 hours while details are still relatively fresh",
-        "During your follow-up call scheduled for the next week"
+        "Explain why CTFS features are superior and provide a detailed feature-by-feature comparison",
+        "Pivot to pointing out the gaps in their current system and quantify what those disconnects cost",
+        "Acknowledge they may not be ready yet and suggest revisiting the conversation in six months",
+        "Ask about their budget and procurement timeline instead of engaging on system functionality"
+      ],
+      "answer": 1,
+      "slide": 26,
+      "feedback_correct": "You've captured the right strategy—ask about gaps rather than argue features. The gap question almost always surfaces real problems they're living with.",
+      "feedback_incorrect": "The course emphasizes asking what their system doesn't unify, not arguing feature superiority. Slide 26 shows that the gap question opens real conversations about manual reconciliation and data handoffs."
+    },
+    {
+      "question": "What are the three key pieces of information you should capture immediately after each TechIQ conversation?",
+      "choices": [
+        "Their email address, their company size, and whether they asked to be contacted by phone",
+        "The persona you were talking to, their stated pain in their own words, and qualifying signals you observed",
+        "Their budget authority, their timeline to purchase, and their biggest objection to CTFS",
+        "The number of trials they run annually, their current software vendor, and their IT infrastructure details"
       ],
       "answer": 1,
       "slide": 29,
-      "feedback_correct": "You've got the timing exactly right—capturing insights immediately, even as a voice memo, prevents details from blending with the eight other conversations you'll have that day.",
-      "feedback_incorrect": "The course is explicit: capture immediately, not at the end of the day. By then you'll have had multiple conversations and the specific details will blur together."
+      "feedback_correct": "You've nailed it—capturing persona, pain, and signals immediately ensures you don't lose the insights that matter most for follow-up.",
+      "feedback_incorrect": "The course emphasizes capturing four things right after a conversation: persona, stated pain (in their words), qualifying signals, and the next step. Review slide 29 for this capture framework."
+    },
+    {
+      "question": "Which of the following best describes why the timing is right for a buyer to commit to CTFS Contracting now, even though the module just launched?",
+      "choices": [
+        "The module is less expensive during its first year of release",
+        "The rest of the suite is proven at scale, Contracting completes the end-to-end workflow, and early adopters gain competitive advantage",
+        "CTFS is offering special training and support packages only during the launch window",
+        "Other vendors are planning similar solutions, so early commitment prevents disruption later"
+      ],
+      "answer": 1,
+      "slide": 23,
+      "feedback_correct": "Precisely—you've identified the three-part business case for moving now: proven foundation, workflow completion, and early-adopter advantage.",
+      "feedback_incorrect": "Slide 23 lays out the answer: the rest of CTFS is proven ($15B processed), Contracting fills the final gap in end-to-end financial workflow, and early adopters get features and partnership advantages competitors won't have."
+    },
+    {
+      "question": "What is the primary characteristic that distinguishes Reena (VP IT Clinical) from the other buyer personas in terms of what she needs from you?",
+      "choices": [
+        "She is primarily concerned with reducing the total cost of ownership and wants a detailed ROI calculator",
+        "She needs to trust the architecture before she trusts the pitch, focusing on API-first design and audit readiness",
+        "She wants to move quickly and is ready to sign a contract as long as implementation timelines are met",
+        "She is most interested in site satisfaction and will champion whatever reduces payment cycle time"
+      ],
+      "answer": 1,
+      "slide": 8,
+      "feedback_correct": "Exactly right—Reena's pain is risk and her question is about modernization without jeopardizing compliance. Architecture trust comes before pitch trust.",
+      "feedback_incorrect": "Reena is unique because she leads with architecture and risk. Slide 8 shows her core concern: how to modernize the clinical tech stack without creating integration nightmares or compliance risk."
+    },
+    {
+      "question": "According to the course, what constitutes a qualified TechIQ lead that warrants follow-up within 30 days?",
+      "choices": [
+        "Any person who showed interest and took your business card",
+        "Someone who expressed pain around payment delays or contract cycles, showed openness to a demo within 30 days, and you identified a named decision-maker",
+        "A person who asked detailed technical questions and mentioned their budget during the conversation",
+        "Anyone from a top-20 pharma company, regardless of their role or level of engagement"
+      ],
+      "answer": 1,
+      "slide": 28,
+      "feedback_correct": "You've identified the right qualification signals—real pain, openness to next steps, and connection to a decision-maker are what separate qualified leads from interesting conversations.",
+      "feedback_incorrect": "Slide 28 defines qualification clearly: expressed pain (payment delays, contract cycles, forecasting), openness to a demo within 30 days, a named decision-maker or influencer, and visibility into budget. Not every conversation meets these criteria."
     }
   ]
 }
