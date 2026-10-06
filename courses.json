@@ -596,5 +596,38 @@
         "startSlide": 33
       }
     ]
+  },
+  "19": {
+    "id": "contracting_101",
+    "title": "Contracting 101",
+    "totalSlides": 19,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/19-Contracting-101.pdf",
+    "firstMessage": "Welcome to Contracting 101. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Context (slides 1-3)",
+        "startSlide": 1
+      },
+      {
+        "label": "The CTFS Solution (slides 4-7)",
+        "startSlide": 4
+      },
+      {
+        "label": "Meet Your Client (slides 8-11)",
+        "startSlide": 8
+      },
+      {
+        "label": "Discovery Conversation Framework (slides 12-15)",
+        "startSlide": 12
+      },
+      {
+        "label": "Presenting Value and Handling Objections (slides 16-17)",
+        "startSlide": 16
+      },
+      {
+        "label": "Knowledge Check and Next Steps (slides 18-19)",
+        "startSlide": 18
+      }
+    ]
   }
 }
