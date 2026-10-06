@@ -1,0 +1,139 @@
+{
+  "brand": {
+    "title": "IQVIA (Production)",
+    "subtitle": "Knowledge Check — Contracting 101",
+    "color": "#1a73e8"
+  },
+  "questions": [
+    {
+      "question": "What are the five stages of the Clinical Trial Financial Suite (CTFS)?",
+      "choices": [
+        "Budgeting, contracting, forecasting, payments, and reporting",
+        "Planning, drafting, negotiating, signing, and amending",
+        "Site selection, contract review, payment setup, dispute resolution, and closure",
+        "Sponsor approval, site approval, payment authorization, invoicing, and reconciliation"
+      ],
+      "answer": 0,
+      "slide": 2,
+      "feedback_correct": "Exactly—budgeting, contracting, forecasting, payments, and reporting form the complete chain of the financial lifecycle.",
+      "feedback_incorrect": "The five stages form a connected chain where each step feeds into the next. Contracting is the foundational module that informs forecasting and shapes payments downstream."
+    },
+    {
+      "question": "What is the primary problem that CTFS Contracting solves?",
+      "choices": [
+        "It eliminates the need for legal review of contracts",
+        "CTA processing is manual, error-prone, and slow, causing delays in site activation and payment workflows",
+        "It replaces all human negotiation with fully automated contract generation",
+        "It reduces the number of sponsors that research sites need to work with"
+      ],
+      "answer": 1,
+      "slide": 3,
+      "feedback_correct": "That's right—CTFS Contracting addresses the core operational pain: manual, error-prone CTA processing that stalls site activation and disrupts payment workflows.",
+      "feedback_incorrect": "CTFS is designed to streamline the contracting process itself, making it faster and more accurate, not to eliminate human roles or change the business model of how sites and sponsors work together."
+    },
+    {
+      "question": "How does CTFS Contracting differ from basic OCR (Optical Character Recognition) tools?",
+      "choices": [
+        "It costs less money to implement",
+        "It only works with digital contracts, not scanned documents",
+        "It uses agentic AI to extract, interpret, and contextualize key terms and payment triggers, not just scan text",
+        "It eliminates the need for humans to review contracts before signing"
+      ],
+      "answer": 2,
+      "slide": 5,
+      "feedback_correct": "Correct—agentic AI actually reads and understands the contract content, recognizing nuances and payment triggers that basic OCR would miss or flatten into raw text.",
+      "feedback_incorrect": "Basic OCR simply scans documents into text, while CTFS uses agentic AI to genuinely understand contract context and meaning. This produces clean, structured data ready for downstream workflows without manual re-entry."
+    },
+    {
+      "question": "What are the three delivery models available for CTFS Contracting?",
+      "choices": [
+        "Cloud-only, on-premise, and hybrid",
+        "Free tier, standard tier, and enterprise tier",
+        "SaaS, Tech-Enabled Services, and a hybrid model",
+        "Sponsor-managed, site-managed, and jointly managed"
+      ],
+      "answer": 2,
+      "slide": 7,
+      "feedback_correct": "Exactly—CTFS Contracting offers flexibility so clients can insource (SaaS), outsource (Tech-Enabled Services), or blend both approaches in a hybrid model.",
+      "feedback_incorrect": "CTFS Contracting is designed to meet clients where they are operationally. The three models—SaaS, Tech-Enabled Services, and hybrid—allow organizations to choose the approach that fits their internal capabilities."
+    },
+    {
+      "question": "Who is Rachel and what is her primary role in the context of this course?",
+      "choices": [
+        "She is an IQVIA executive responsible for selling CTFS solutions",
+        "She is a Clinical Operations Director at a research site who represents the key decision-maker you will encounter",
+        "She is a contract negotiator for large pharmaceutical sponsors",
+        "She is a technology consultant who helps sites implement new software"
+      ],
+      "answer": 1,
+      "slide": 8,
+      "feedback_correct": "Right—Rachel is the persona representing the real decision-maker at a research site, accountable for study execution, cash flow predictability, and administrative efficiency.",
+      "feedback_incorrect": "Rachel represents a research site perspective, not a sponsor or vendor perspective. Understanding her role and priorities is key to positioning CTFS Contracting effectively in client conversations."
+    },
+    {
+      "question": "What outcome is Rachel most skeptical about when evaluating new solutions?",
+      "choices": [
+        "Whether the technology uses the latest AI algorithms",
+        "Whether the vendor is IQVIA or a competitor",
+        "Whether the solution will actually work in practice and deliver real benefits to her operation",
+        "Whether the solution is available as a SaaS or managed service"
+      ],
+      "answer": 2,
+      "slide": 10,
+      "feedback_correct": "Precisely—Rachel has been burned by automation promises before and needs reassurance that the solution actually delivers operational value, not just technical features.",
+      "feedback_incorrect": "Rachel's skepticism is rooted in past experience with solutions that promised more than they delivered. She prioritizes practical, operational outcomes over technology features or vendor reputation."
+    },
+    {
+      "question": "What should you avoid saying to Rachel during a client conversation?",
+      "choices": [
+        "Anything about reducing payment disputes or administrative burden",
+        "Platform architecture language and leading with AI before establishing her pain",
+        "Questions about her current contracting process or timelines",
+        "Specific examples of other sites that have used CTFS Contracting"
+      ],
+      "answer": 1,
+      "slide": 11,
+      "feedback_correct": "Correct—Rachel will tune out if you lead with platform details or AI capabilities before she believes you understand her operational reality and the problems she faces.",
+      "feedback_incorrect": "Rachel engages when she feels you understand the site side. Leading with technical language or vendor-centric framing signals you are there to pitch, not to help solve her specific problems."
+    },
+    {
+      "question": "What is the primary purpose of the discovery phase in a client conversation?",
+      "choices": [
+        "To demonstrate all the features and capabilities of CTFS Contracting",
+        "To get the client to agree to move forward quickly",
+        "To surface the client's specific pain before presenting any solution",
+        "To collect technical specifications about their current systems"
+      ],
+      "answer": 2,
+      "slide": 12,
+      "feedback_correct": "Exactly—discovery is a structured conversation designed to understand the client's specific situation and pain before you present CTFS Contracting as a solution.",
+      "feedback_incorrect": "Discovery is about listening and understanding, not pitching. It's the phase where you earn the right to present a solution by demonstrating that you understand the client's world."
+    },
+    {
+      "question": "According to the course, what should you do immediately after Rachel has named her pain in her own words?",
+      "choices": [
+        "Ask follow-up questions about her technical requirements",
+        "Launch into a presentation of CTFS Contracting features",
+        "Reflect her pain back to her before introducing the product",
+        "Send her a written proposal for the next meeting"
+      ],
+      "answer": 2,
+      "slide": 15,
+      "feedback_correct": "Right—reflecting back what Rachel has told you in her language signals you were listening and frames what comes next as a response to her situation, not a canned pitch.",
+      "feedback_incorrect": "Skipping the reflection step makes everything that follows feel disconnected from Rachel's actual concerns. This moment earns credibility and sets up the value statement effectively."
+    },
+    {
+      "question": "When Rachel says \"We have tried automation before and it did not work,\" how should you respond according to this course?",
+      "choices": [
+        "Dismiss her concern and explain that CTFS is different because it's newer technology",
+        "Acknowledge her experience, then distinguish CTFS as using agentic AI that understands context, not basic OCR",
+        "Offer to have IQVIA pay for her previous failed solution as a sign of good faith",
+        "Suggest that her team may not have been trained properly on the previous tool"
+      ],
+      "answer": 1,
+      "slide": 17,
+      "feedback_correct": "Exactly—acknowledge her experience, then draw a clear distinction: CTFS uses agentic AI to understand contract context and meaning, not basic OCR that digitizes a manual process.",
+      "feedback_incorrect": "When handling objections, validate the client's concern first, then clearly explain what makes CTFS fundamentally different from past automation attempts she may have experienced."
+    }
+  ]
+}
