@@ -629,5 +629,38 @@
         "startSlide": 18
       }
     ]
+  },
+  "20": {
+    "id": "introduction_to_social_selling_techniques",
+    "title": "Introduction to Social Selling Techniques",
+    "totalSlides": 25,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/20-Introduction-to-Social-Selling-Techniques.pdf",
+    "firstMessage": "Welcome to Introduction to Social Selling Techniques. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Promise (slides 1-3)",
+        "startSlide": 1
+      },
+      {
+        "label": "The Framework Explained (slides 4-10)",
+        "startSlide": 4
+      },
+      {
+        "label": "Recognizing Style Signals (slides 11-13)",
+        "startSlide": 11
+      },
+      {
+        "label": "Style-Specific Selling Tactics (slides 14-17)",
+        "startSlide": 14
+      },
+      {
+        "label": "Adapting Your Approach (slides 18-22)",
+        "startSlide": 18
+      },
+      {
+        "label": "Practice and Application (slides 23-25)",
+        "startSlide": 23
+      }
+    ]
   }
 }
