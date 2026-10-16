@@ -631,35 +631,31 @@
     ]
   },
   "20": {
-    "id": "introduction_to_social_selling_techniques",
-    "title": "Introduction to Social Selling Techniques",
+    "id": "what_if_you_could_read_any_buyer_in_the_first_five_minutes",
+    "title": "What If You Could Read Any Buyer in the First Five Minutes",
     "totalSlides": 25,
-    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/20-Introduction-to-Social-Selling-Techniques.pdf",
-    "firstMessage": "Welcome to Introduction to Social Selling Techniques. Are you ready to begin?",
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/20-What-If-You-Could-Read-Any-Buyer-in-the-First-Five-Minutes.pdf",
+    "firstMessage": "Welcome to What If You Could Read Any Buyer in the First Five Minutes. Are you ready to begin?",
     "sections": [
       {
-        "label": "Introduction and Promise (slides 1-3)",
+        "label": "Introduction (slides 1-3)",
         "startSlide": 1
       },
       {
-        "label": "The Framework Explained (slides 4-10)",
+        "label": "The Two-Axis Framework (slides 4-7)",
         "startSlide": 4
       },
       {
-        "label": "Recognizing Style Signals (slides 11-13)",
-        "startSlide": 11
+        "label": "Reading the Four Styles (slides 8-12)",
+        "startSlide": 8
       },
       {
-        "label": "Style-Specific Selling Tactics (slides 14-17)",
-        "startSlide": 14
+        "label": "Mapping and Practicing (slides 13-19)",
+        "startSlide": 13
       },
       {
-        "label": "Adapting Your Approach (slides 18-22)",
-        "startSlide": 18
-      },
-      {
-        "label": "Practice and Application (slides 23-25)",
-        "startSlide": 23
+        "label": "Versatility and Application (slides 20-25)",
+        "startSlide": 20
       }
     ]
   }
