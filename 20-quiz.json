@@ -6,134 +6,134 @@
   },
   "questions": [
     {
-      "question": "What are the two axes that form the foundation of the Social Style Selling framework?",
+      "question": "Which two axes form the foundation of the Social Style Selling framework?",
       "choices": [
-        "Introversion vs. Extroversion and Logic vs. Emotion",
-        "Task vs. People and Ask vs. Tell",
-        "Speed vs. Accuracy and Detail vs. Overview",
-        "Relationship vs. Transaction and Direct vs. Indirect"
+        "Introversion vs. Extraversion, and Thinking vs. Feeling",
+        "Task vs. People, and Ask vs. Tell",
+        "Speed vs. Accuracy, and Logic vs. Emotion",
+        "Relationships vs. Results, and Direct vs. Indirect"
       ],
       "answer": 1,
       "slide": 4,
-      "feedback_correct": "Exactly right—the two axes (Task/People on the Y axis and Ask/Tell on the X axis) create the mental grid for reading any buyer.",
-      "feedback_incorrect": "The framework is built on two specific questions: what drives their behavior (Task or People), and how do they get what they want (Ask or Tell)? These axes intersect to create the four styles."
+      "feedback_correct": "Exactly—the two-axis framework is built on Task vs. People (what drives behavior) and Ask vs. Tell (how someone gets what they want).",
+      "feedback_incorrect": "The model is not based on personality tests or psychology labels. The two axes are Task vs. People and Ask vs. Tell, which describe observable communication behavior."
     },
     {
-      "question": "Which of the following is a signature question that an Analytical buyer is most likely to ask?",
+      "question": "What is the signature question a Driver tends to lead with?",
       "choices": [
-        "What are the results and outcomes?",
         "How does this work and how was it measured?",
-        "Who else is using this solution?",
-        "Why should I trust you over alternatives?"
+        "Who else is using this and who should be involved?",
+        "What are the results and what is the outcome?",
+        "Why this solution and why should we trust you?"
       ],
-      "answer": 1,
+      "answer": 2,
       "slide": 10,
-      "feedback_correct": "You've got it—Analyticals lead with 'How?' because they focus on process, accuracy, and data-driven decision-making.",
-      "feedback_incorrect": "Each style has a distinct signature question. Analyticals ask 'How?' (process and accuracy), while Drivers ask 'What?' (results), Expressives ask 'Who?' (people and vision), and Amiables ask 'Why?' (relationships and fit)."
+      "feedback_correct": "Right—Drivers ask \"What?\" because they are focused on results and outcomes, not process or relationships.",
+      "feedback_incorrect": "Drivers are task-focused and results-oriented, so their signature question centers on outcomes and speed. \"How?\" is Analytical, \"Who?\" is Expressive, and \"Why?\" is Amiable."
     },
     {
-      "question": "What does a Driver typically do when they feel pressured or when the conversation goes off track?",
+      "question": "How does an Analytical typically behave under pressure in a sales conversation?",
       "choices": [
-        "They ask for more time and detailed data to evaluate",
-        "They become argumentative and push back hard",
-        "They take control of the meeting",
-        "They go quiet and withdraw from the conversation"
-      ],
-      "answer": 2,
-      "slide": 11,
-      "feedback_correct": "Correct—Drivers' pressure behavior is to take control of the meeting when they feel the conversation is not moving toward outcomes.",
-      "feedback_incorrect": "Each style shows a different pressure behavior: Drivers take control, Analyticals ask for more time and data, Expressives get argumentative, and Amiables go quiet and withdraw. Recognizing these signals helps you course-correct early."
-    },
-    {
-      "question": "What is the primary reason the Social Style model is built on observed behavior rather than personality tests?",
-      "choices": [
-        "Personality tests are too expensive and time-consuming",
-        "It allows you to watch how someone communicates in real time without psychoanalyzing them",
-        "Personality tests have been proven scientifically unreliable",
-        "Observable behavior is more entertaining to discuss in sales conversations"
+        "Takes control of the meeting and directs the conversation",
+        "Asks for more time and requests additional data",
+        "Becomes argumentative and pushes back hard",
+        "Goes quiet, withdraws, and avoids engagement"
       ],
       "answer": 1,
-      "slide": 2,
-      "feedback_correct": "Exactly—the model is grounded in what you can actually see and hear: how someone asks for things, what they pay attention to, how much emotion they show.",
-      "feedback_incorrect": "The foundation of this model is practical observation, not psychology or labels. You're watching behavior (how they communicate, what questions they ask, their emotional expression) and using that to guide your approach in real time."
+      "slide": 11,
+      "feedback_correct": "Correct—when pressured, Analyticals pull back and seek more information, data, and time to evaluate because they need to feel confident in their decision.",
+      "feedback_incorrect": "Pressure behaviors are specific to each style. Analyticals respond to pressure by asking for more data and time, not by taking control (Driver), arguing (Expressive), or withdrawing (Amiable)."
     },
     {
-      "question": "An Amiable buyer is showing signs of withdrawal and giving very short answers. What should you do?",
+      "question": "What is the primary difference between an Expressive and an Amiable, given that both are high-emotion styles?",
       "choices": [
-        "Push harder with data and evidence to convince them",
-        "Speed up the meeting and move toward a decision quickly",
-        "Slow down, acknowledge what is happening, and shift your approach to rebuild rapport",
-        "Ask them more detailed questions about the features and specifications"
+        "Expressives are focused on tasks while Amiables are focused on people",
+        "Expressives tell and hold the floor; Amiables ask and draw others out",
+        "Expressives are warm and soft-spoken; Amiables are animated and storytelling",
+        "Expressives avoid conflict while Amiables seek recognition and visibility"
       ],
-      "answer": 2,
-      "slide": 21,
-      "feedback_correct": "You're applying the framework perfectly—catching the early warning sign (withdrawal) lets you shift before rapport is damaged, not rebuild trust you didn't need to lose.",
-      "feedback_incorrect": "When you notice a pressure behavior or sudden drop in engagement (like an Amiable going quiet), that's your signal to pause and adjust. Early intervention prevents bigger problems down the road."
-    },
-    {
-      "question": "You are speaking with a buyer who is animated, telling stories about their vision, and wants to know who else is using your solution. What is their most likely Social Style?",
-      "choices": [
-        "Analytical",
-        "Driver",
-        "Expressive",
-        "Amiable"
-      ],
-      "answer": 2,
+      "answer": 1,
       "slide": 9,
-      "feedback_correct": "That's the read—high emotion, storytelling, vision-focused, and asking 'Who?' are all hallmarks of an Expressive buyer.",
-      "feedback_incorrect": "Expressives are animated, tell stories, focus on vision and possibilities, and ask 'Who?' because they think in terms of people and teams. Amiables are warm but soft-spoken; Drivers are direct and results-focused; Analyticals ask detailed questions about process."
+      "feedback_correct": "Perfect—both are high-emotion, but the key separator is the X axis: Expressives tell and dominate the conversation, while Amiables ask and invite input.",
+      "feedback_incorrect": "While both Expressives and Amiables show emotion openly, what separates them is their communication style on the Ask vs. Tell axis. Expressives tell stories and hold the floor; Amiables ask questions and draw you out."
     },
     {
-      "question": "When selling to an Analytical buyer, what is the worst approach you could take?",
+      "question": "When preparing to sell to an Analytical buyer, what should you prioritize?",
       "choices": [
-        "Offering clear options and specific next steps",
-        "Asking detailed, logical questions and providing evidence throughout",
-        "Getting personal, moving too fast, or presenting without rigorous justification",
-        "Taking time to explain how you got to this meeting"
+        "Building rapport and emphasizing the relationship and trust",
+        "Sharing your vision and getting their buy-in on big possibilities",
+        "Preparing detailed, logical questions and using evidence throughout",
+        "Minimizing detail and keeping the energy high and conversational"
       ],
       "answer": 2,
       "slide": 15,
-      "feedback_correct": "You understand the mismatch—Analyticals need rigor, evidence, and time to evaluate. Skipping those elements damages trust immediately.",
-      "feedback_incorrect": "Analyticals feel confident when you prepare detailed questions, use evidence, give them evaluation time, and justify your process logically. Personal connection and vague claims do the opposite."
+      "feedback_correct": "Exactly—Analyticals need rigor and proof, so detailed questions and evidence-based reasoning are essential to earning their confidence.",
+      "feedback_incorrect": "Analyticals are task-focused and methodical. They need to see the logic and data behind your approach, not rapport-building, vision, or high energy."
     },
     {
-      "question": "Your own Social Style can cause you to naturally shut down a buyer of a different style. What is the key first step to prevent this?",
+      "question": "What does it mean when the instructor notes state that \"style describes observable behavior only\"?",
       "choices": [
-        "Hire a sales coach to observe all your calls",
-        "Become aware of your own defaults and how they might land differently on other styles",
-        "Only meet with buyers who share your exact Social Style",
-        "Use a personality test to determine your type once and for all"
+        "Style is a permanent personality trait that never changes",
+        "Style is based on how someone communicates right now, not their entire character or worth",
+        "Style can only be measured through formal personality assessments",
+        "Style determines someone's intelligence and ability to succeed"
       ],
       "answer": 1,
-      "slide": 18,
-      "feedback_correct": "Exactly—awareness of your own style and its blind spots is where versatility begins, because you can't adjust what you don't see.",
-      "feedback_incorrect": "The course emphasizes that your natural selling approach lands differently on different buyers. Self-awareness of your defaults is the foundation for choosing when and how to adjust."
+      "slide": 3,
+      "feedback_correct": "Right—style is about what you can observe in how someone communicates, not a judgment about who they are as a person.",
+      "feedback_incorrect": "The model is built on observable behavior—how someone asks questions, shows emotion, and focuses attention. It does not define someone's intelligence, worth, or potential."
     },
     {
-      "question": "What does versatility actually mean in the context of Social Style Selling?",
+      "question": "Your own Social Style has an impact on how you sell—what is the core challenge this creates?",
       "choices": [
-        "Changing your personality completely for each buyer type",
-        "Being agreeable and flexible about everything the buyer wants",
-        "Deliberately adjusting your communication approach to reduce friction and help the buyer feel understood",
-        "Using different sales techniques depending on how much money the deal is worth"
+        "Your natural selling approach may land poorly on buyers with a different style, creating unintended friction",
+        "You should change your personality completely to match each buyer type",
+        "Buyers with your same style will always trust you more than buyers with different styles",
+        "Your Social Style determines which product categories you can sell most effectively"
+      ],
+      "answer": 0,
+      "slide": 18,
+      "feedback_correct": "Correct—a Driver rep's direct, results-focused approach may shut down an Amiable before the conversation starts, even though it works perfectly with other Drivers.",
+      "feedback_incorrect": "The point is not to change who you are, but to recognize that your natural style lands differently depending on the buyer. A Driver's directness that energizes one buyer may stress another."
+    },
+    {
+      "question": "When you notice a buyer showing a pressure behavior mid-meeting, what does that signal tell you about what has happened?",
+      "choices": [
+        "The buyer is not interested and you should end the meeting immediately",
+        "Something has broken down in the conversation—it is an early warning sign to slow down and shift your approach",
+        "The buyer's Social Style has changed and you need to start the discovery process over",
+        "You have chosen the wrong product and should suggest an alternative immediately"
+      ],
+      "answer": 1,
+      "slide": 21,
+      "feedback_correct": "Exactly—a pressure behavior is not a personality flaw; it is a signal that your approach is not landing and you have a chance to recover before trust is damaged.",
+      "feedback_incorrect": "Pressure behaviors (Driver taking control, Analytical requesting time, Expressive arguing, Amiable withdrawing) are signals that something is off in your communication approach, not that the relationship is over."
+    },
+    {
+      "question": "How should you adjust your selling approach when a buyer has an adjacent style mixed with their primary style?",
+      "choices": [
+        "Treat them as two separate buyers and alternate your approach every few minutes",
+        "Ignore the adjacent style and focus only on the primary style behaviors",
+        "Recognize that the adjacent style softens or modifies the primary style, so expect mixed signals and adjust accordingly",
+        "Ask the buyer directly which style they prefer so you know exactly how to communicate"
       ],
       "answer": 2,
-      "slide": 20,
-      "feedback_correct": "Perfect—versatility is a deliberate, conscious shift in how you communicate, not a shift in who you are, and it builds trusted advisor status across all styles.",
-      "feedback_incorrect": "Versatility means removing friction by adjusting your communication so the buyer doesn't have to work as hard to connect with you. It's a discipline and a skill, not a personality change or vague niceness."
+      "slide": 12,
+      "feedback_correct": "Perfect—an Analytical with an Amiable adjacent will still be methodical but more relationship-conscious, so recognizing that blend helps you avoid confusion.",
+      "feedback_incorrect": "Adjacent styles exist in the quadrant next to the primary style and they modify how the primary style shows up in behavior. A Driver with Expressive adjacent will be warmer than a pure Driver, for example."
     },
     {
-      "question": "A buyer you are meeting with shows low emotion, gives direction quickly, and seems most interested in speed and outcomes. You later discover they have an Expressive adjacent style. How will this adjacent style most likely modify their core behavior?",
+      "question": "Based on the course, what is the single disciplined habit that defines versatility in Social Style Selling?",
       "choices": [
-        "They will ask more questions and slow down their decision-making",
-        "They will become more methodical and data-focused",
-        "They will be more direct and even faster-paced than a pure Driver",
-        "They will be warmer and more willing to engage in conversation than a pure Driver"
+        "Developing four different personas so you can be anyone to anyone",
+        "Learning to recognize when you naturally match a buyer's style and leaning into that advantage",
+        "Read the cues, name the style, and adjust your approach accordingly",
+        "Practicing each style equally so you never favor one over the others"
       ],
-      "answer": 3,
-      "slide": 12,
-      "feedback_correct": "That's exactly right—an Expressive adjacent softens the pure Driver's edge by adding warmth and conversational engagement while keeping the results focus intact.",
-      "feedback_incorrect": "Adjacent styles sit next to the primary style on the grid and soften or modify how the primary shows up. A Driver with Expressive adjacent stays results-focused but noticeably warmer; an Analytical with Amiable adjacent stays methodical but more relationship-conscious."
+      "answer": 2,
+      "slide": 22,
+      "feedback_correct": "Correct—versatility is not about becoming someone else; it is the deliberate, repeatable habit of observing, naming, and adapting.",
+      "feedback_incorrect": "Versatility is a skill built through one disciplined habit: reading observable cues, identifying the style, and consciously adjusting your communication approach to reduce friction and increase connection."
     }
   ]
 }
