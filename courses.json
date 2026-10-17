@@ -638,7 +638,7 @@
     "firstMessage": "Welcome to What If You Could Read Any Buyer in the First Five Minutes?. Are you ready to begin?",
     "sections": [
       {
-        "label": "Introduction (slides 1-4)",
+        "label": "Introduction and Promise (slides 1-4)",
         "startSlide": 1
       },
       {
@@ -650,15 +650,23 @@
         "startSlide": 7
       },
       {
-        "label": "Mapping and Practice (slides 14-20)",
+        "label": "Mapping Real Prospects (slides 14-18)",
         "startSlide": 14
       },
       {
-        "label": "Versatility and Application (slides 21-24)",
-        "startSlide": 21
+        "label": "Style-Specific Selling Tactics (slides 15-18)",
+        "startSlide": 15
       },
       {
-        "label": "Resources and Next Steps (slides 25-26)",
+        "label": "Your Own Style and Versatility (slides 19-23)",
+        "startSlide": 19
+      },
+      {
+        "label": "Practice and Application (slides 20-24)",
+        "startSlide": 20
+      },
+      {
+        "label": "Closing and Resources (slides 25-26)",
         "startSlide": 25
       }
     ]
