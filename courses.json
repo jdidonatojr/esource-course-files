@@ -633,29 +633,33 @@
   "20": {
     "id": "what_if_you_could_read_any_buyer_in_the_first_five_minutes",
     "title": "What If You Could Read Any Buyer in the First Five Minutes?",
-    "totalSlides": 25,
+    "totalSlides": 26,
     "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/20-What-If-You-Could-Read-Any-Buyer-in-the-First-Five-Minutes.pdf",
     "firstMessage": "Welcome to What If You Could Read Any Buyer in the First Five Minutes?. Are you ready to begin?",
     "sections": [
       {
-        "label": "Introduction (slides 1-2)",
+        "label": "Introduction (slides 1-4)",
         "startSlide": 1
       },
       {
-        "label": "Framework Foundations (slides 3-7)",
-        "startSlide": 3
+        "label": "The Two-Axis Framework (slides 5-6)",
+        "startSlide": 5
       },
       {
-        "label": "Reading the Four Styles (slides 8-12)",
-        "startSlide": 8
+        "label": "Reading the Four Styles (slides 7-13)",
+        "startSlide": 7
       },
       {
-        "label": "Practice and Application (slides 13-19)",
-        "startSlide": 13
+        "label": "Mapping and Practice (slides 14-20)",
+        "startSlide": 14
       },
       {
-        "label": "Versatility and Mastery (slides 20-25)",
-        "startSlide": 20
+        "label": "Versatility and Application (slides 21-24)",
+        "startSlide": 21
+      },
+      {
+        "label": "Resources and Next Steps (slides 25-26)",
+        "startSlide": 25
       }
     ]
   }
