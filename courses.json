@@ -631,11 +631,11 @@
     ]
   },
   "20": {
-    "id": "what_if_you_could_read_any_buyer_in_the_first_five_minutes",
-    "title": "What If You Could Read Any Buyer in the First Five Minutes?",
+    "id": "what_if_you_could_read_any_buyer_in_the_first_five_minutes_iqvia_v2",
+    "title": "What If You Could Read Any Buyer in the First Five Minutes IQVIA   V2",
     "totalSlides": 26,
-    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/20-What-If-You-Could-Read-Any-Buyer-in-the-First-Five-Minutes.pdf",
-    "firstMessage": "Welcome to What If You Could Read Any Buyer in the First Five Minutes?. Are you ready to begin?",
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/20-What-If-You-Could-Read-Any-Buyer-in-the-First-Five-Minutes-IQVIA-V2.pdf",
+    "firstMessage": "Welcome to What If You Could Read Any Buyer in the First Five Minutes IQVIA   V2. Are you ready to begin?",
     "sections": [
       {
         "label": "Introduction and Promise (slides 1-4)",
@@ -646,19 +646,19 @@
         "startSlide": 5
       },
       {
-        "label": "Reading the Four Styles (slides 7-13)",
+        "label": "The Four Styles Defined (slides 7-11)",
         "startSlide": 7
       },
       {
-        "label": "Mapping Real Prospects (slides 14-18)",
-        "startSlide": 14
+        "label": "Reading Behavior in Real Time (slides 12-14)",
+        "startSlide": 12
       },
       {
-        "label": "Selling to Each Style (slides 15-18)",
+        "label": "Style-Specific Selling Tactics (slides 15-18)",
         "startSlide": 15
       },
       {
-        "label": "Your Style and Versatility (slides 19-24)",
+        "label": "Adapting Your Own Approach (slides 19-24)",
         "startSlide": 19
       },
       {
