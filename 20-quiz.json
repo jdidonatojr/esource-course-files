@@ -6,134 +6,134 @@
   },
   "questions": [
     {
-      "question": "According to the course, what are the two axes that form the foundation of the Social Style framework?",
+      "question": "According to the course, what are the two axes that make up the Social Style framework?",
       "choices": [
-        "Introversion vs. Extroversion and Thinking vs. Feeling",
-        "Tell vs. Ask (X-axis) and Task vs. People (Y-axis)",
-        "Speed vs. Accuracy and Emotion vs. Logic",
-        "Confidence vs. Humility and Direction vs. Support"
+        "Personality and behavior",
+        "Ask versus Tell, and Task versus People",
+        "Emotion and control",
+        "Speed and accuracy"
       ],
       "answer": 1,
       "slide": 5,
-      "feedback_correct": "Exactly—the two-axis framework is built on how someone communicates (tell or ask) and what drives them (tasks or people).",
-      "feedback_incorrect": "The framework uses observable communication behavior, not personality psychology. The two axes are Tell vs. Ask on the X-axis and Task vs. People focus on the Y-axis."
+      "feedback_correct": "Exactly right—the entire model rests on those two questions: how does this person get what they want (Ask vs. Tell), and what drives their behavior (Task vs. People).",
+      "feedback_incorrect": "Not quite. The framework is built on two specific questions about observable behavior. Review Slide 5 to see how the two axes—Ask versus Tell on the X axis, and Task versus People on the Y axis—create the foundation of the model."
     },
     {
-      "question": "Which of the following is a signature question most likely asked by a Driver?",
+      "question": "What is the signature question that Drivers tend to lead with?",
       "choices": [
-        "How does this work and how was it measured?",
-        "Why should we choose this solution and why now?",
-        "What are the results and what is the outcome?",
-        "Who else is using this and who should be involved?"
+        "How?",
+        "Why?",
+        "What?",
+        "Who?"
       ],
       "answer": 2,
       "slide": 11,
-      "feedback_correct": "Drivers lead with \"What?\"—they want to know outcomes and results right away.",
-      "feedback_incorrect": "Remember: Drivers ask \"What?\", Analyticals ask \"How?\", Amiables ask \"Why?\", and Expressives ask \"Who?\". The Driver's focus on results and outcomes drives their signature question."
+      "feedback_correct": "Perfect—Drivers ask \"What?\" because they focus on results, outcomes, and what they get from a decision.",
+      "feedback_incorrect": "Not the Driver's signature. Remember, Drivers are all about outcomes and speed, so their question focuses on what the result will be. Check Slide 11 for the full breakdown of all four signature questions."
     },
     {
-      "question": "What do Analytical and Driver styles share in common?",
+      "question": "Which style is described as telling and task-focused?",
       "choices": [
-        "Both show high levels of visible emotion in conversations",
-        "Both tend to tell rather than ask for what they want",
-        "Both are focused on tasks and outcomes rather than relationships",
-        "Both prefer storytelling and vision-focused discussions"
+        "Analytical",
+        "Expressive",
+        "Driver",
+        "Amiable"
       ],
       "answer": 2,
       "slide": 6,
-      "feedback_correct": "Both Drivers and Analyticals share a task focus—what separates them is that Drivers tell while Analyticals ask.",
-      "feedback_incorrect": "The key shared trait between Driver and Analytical is their task focus. The difference is in their communication style: Drivers tell and decide fast, while Analyticals ask many questions and move methodically."
+      "feedback_correct": "Yes—Drivers tell and are task-focused, which puts them in the tell/task quadrant of the grid.",
+      "feedback_incorrect": "That's not the right combination. Drivers are the ones who tell (give direction, state opinions, push forward) and focus on tasks (outcomes, efficiency, data). Review Slide 6 to see all four styles plotted on the grid."
     },
     {
-      "question": "What does the course identify as the primary indicator that a pressure behavior is occurring?",
+      "question": "What does low emotion and asking many questions typically signal about a customer's style?",
       "choices": [
-        "The customer begins asking for a discount on your offer",
-        "The customer has stopped listening and is checking their phone",
-        "The conversation is taking longer than expected to conclude",
-        "The customer shows a signature behavior like pulling back, going quiet, or becoming argumentative"
+        "Driver",
+        "Analytical",
+        "Expressive",
+        "Amiable"
+      ],
+      "answer": 1,
+      "slide": 9,
+      "feedback_correct": "Correct—an Analytical asks a lot of questions, moves methodically, and runs low on visible emotion, which separates them from the warm, high-emotion styles.",
+      "feedback_incorrect": "That combination points to a different style. Both task-focused styles (Driver and Analytical) run low on emotion, but the Analytical is the one who asks questions—they're methodical and laser-focused on accuracy and data. See Slide 9."
+    },
+    {
+      "question": "What is a pressure behavior for an Amiable customer?",
+      "choices": [
+        "Asking for more data and time",
+        "Taking control of the meeting",
+        "Becoming argumentative",
+        "Going quiet and withdrawing"
       ],
       "answer": 3,
       "slide": 12,
-      "feedback_correct": "Pressure behaviors are the specific observable reactions each style has when something goes wrong—they signal that your approach needs adjustment.",
-      "feedback_incorrect": "Pressure behaviors are not just delays or distractions—they are specific style-driven responses like a Driver taking control, an Analytical asking for more time, an Expressive becoming argumentative, or an Amiable withdrawing."
+      "feedback_correct": "Exactly—when an Amiable feels pushed, misunderstood, or out of control, they tend to go quiet and withdraw rather than push back directly.",
+      "feedback_incorrect": "That's a pressure behavior for a different style. Each style reacts differently when the conversation goes off track. Amiables, who are relationship-focused and conflict-averse, tend to withdraw quietly. Review Slide 12 for the pressure behavior of each style."
     },
     {
-      "question": "When selling to an Amiable customer, which of these tactics is most important to establish first?",
+      "question": "When selling to an Analytical, what should you prioritize in your discovery process?",
       "choices": [
-        "Lead immediately with data and evidence to build credibility",
-        "Give them clear options and specific next steps to keep control of the sale",
-        "Spend real time on rapport and explain how you arrived at this meeting",
-        "Ask ambitious vision questions and let them lead the conversation"
+        "Building rapport and demonstrating enthusiasm",
+        "Highlighting who else is using your solution",
+        "Preparing detailed, logical questions and using evidence throughout",
+        "Focusing on their personal dreams and ambitions"
+      ],
+      "answer": 2,
+      "slide": 16,
+      "feedback_correct": "Spot on—Analyticals need to feel that the process is rigorous, so detailed questions, evidence, and data throughout are essential to earn their trust.",
+      "feedback_incorrect": "That approach works for a different style. Analyticals are methodical and data-driven, and they hate being caught unprepared. They need logical questions, evidence, and time to evaluate—not enthusiasm or vision. See Slide 16 for the Analytical selling tactics."
+    },
+    {
+      "question": "What does the course mean by a customer having an \"adjacent\" style?",
+      "choices": [
+        "A style they learn over time through experience",
+        "A secondary style that sits next to their primary style and softens how it shows up",
+        "A backup style they use when under pressure",
+        "A style that is opposite to their primary style on the grid"
+      ],
+      "answer": 1,
+      "slide": 13,
+      "feedback_correct": "Right—the adjacent style is the quadrant next to the primary one on the grid, and it modifies how the primary style actually behaves in real situations.",
+      "feedback_incorrect": "Not quite. An adjacent style is not learned or used only under pressure—it's a secondary influence that naturally softens or shapes the primary style. For example, a Driver with an Expressive adjacent will be more warm and conversational than a pure Driver. See Slide 13."
+    },
+    {
+      "question": "How should you address a style mismatch once you notice it in a live conversation?",
+      "choices": [
+        "Acknowledge what is happening, slow down, and shift your approach",
+        "Maintain your current approach and adjust after the meeting",
+        "Ask the customer directly what style they prefer",
+        "Switch immediately to a completely different selling strategy"
+      ],
+      "answer": 0,
+      "slide": 22,
+      "feedback_correct": "Exactly—when you catch a pressure behavior or drop in engagement, that's your signal to slow down, acknowledge what happened, and shift your approach to recover the rapport.",
+      "feedback_incorrect": "Early intervention is key. If you notice a pressure behavior or loss of engagement, you still have time to recover the relationship by shifting your approach. Waiting until after the meeting or making sudden major changes will not serve you. Review Slide 22 for how to spot and respond to mismatches early."
+    },
+    {
+      "question": "When selling to an Amiable, why is it important to explain how you got to this meeting and who introduced you?",
+      "choices": [
+        "It shows you have done your research thoroughly",
+        "It establishes authority and credibility with data",
+        "It provides the relationship context that matters to them because relationships are their currency",
+        "It demonstrates speed and efficiency in your process"
       ],
       "answer": 2,
       "slide": 18,
-      "feedback_correct": "Amiables prioritize relationships and safety, so building genuine rapport before business talk is essential to their buying process.",
-      "feedback_incorrect": "Amiables need to feel safe and connected before engaging on business matters. Jumping straight to data or rushing decisions will create distance rather than trust with this style."
+      "feedback_correct": "Perfect—Amiables are relationship-focused, and that introduction context signals trust, collaboration, and a human connection before diving into business.",
+      "feedback_incorrect": "That's not what matters most to an Amiable. While research and efficiency are good, Amiables prioritize relationships and safety. Explaining how you were introduced gives them the relational context they need to feel confident moving forward. See Slide 18."
     },
     {
-      "question": "What does the course mean by \"adjacent style,\" and why does it matter in reading a customer?",
-      "choices": [
-        "It is a secondary style that sits next to the primary style on the grid and softens or modifies how the primary style shows up",
-        "It is a completely different style a customer adopts when they feel pressured or defensive",
-        "It is the style a customer would be if they were more mature or experienced in their role",
-        "It is a backup style that only shows up when the customer is communicating via email instead of in person"
-      ],
-      "answer": 0,
-      "slide": 13,
-      "feedback_correct": "The adjacent style explains mixed signals—it's why a Driver might seem warmer than expected or an Amiable more assertive.",
-      "feedback_incorrect": "The adjacent style is not a defense mechanism or a situational switch. It is a neighboring style on the grid that influences how someone's primary style is expressed in everyday behavior."
-    },
-    {
-      "question": "According to the course, what is the primary difference between how you should prepare for an Analytical versus how you should prepare for a Driver?",
-      "choices": [
-        "Analyticals want detailed evidence and time to evaluate; Drivers want speed, conclusions first, and clear options to choose from",
-        "Analyticals prefer storytelling and big-picture vision; Drivers want small talk and relationship building before business",
-        "Drivers need lots of data and proof; Analyticals want to move fast and get straight to the point",
-        "Both styles require the same preparation; the only difference is how much emotion you show during the meeting"
-      ],
-      "answer": 0,
-      "slide": 15,
-      "feedback_correct": "This reflects the core difference between task-focused styles: Drivers are efficiency-driven and time-sensitive, while Analyticals are rigor-driven and need thorough evaluation.",
-      "feedback_incorrect": "The preparation approaches are quite different. Drivers are impatient with process; Analyticals respect detailed process. Leading with conclusions works for Drivers but not Analyticals, who need to see the evidence trail."
-    },
-    {
-      "question": "What does the course teach about the relationship between a sales rep's own Social Style and their effectiveness with different customer types?",
+      "question": "What is the relationship between your own Social Style and selling effectiveness across different customer styles?",
       "choices": [
         "Your own style does not matter as long as you know the customer's style",
-        "Your natural style works equally well with all customer types regardless of differences",
-        "Your own defaults shape how your approach lands, and you must be aware of this to adjust and build versatility",
-        "You should completely abandon your natural style and adopt the customer's style instead"
+        "You should try to match the customer's style by changing your personality",
+        "Your natural defaults may land differently with different customers, so awareness and deliberate adjustment are necessary",
+        "Only Drivers and Analyticals need to adjust their style; Expressives and Amiables are naturally versatile"
       ],
       "answer": 2,
       "slide": 19,
-      "feedback_correct": "Awareness of your own style and defaults is step one to versatility—you cannot adjust if you do not know what you naturally do.",
-      "feedback_incorrect": "Your style matters because your natural approach (pace, emotion, directness) will land differently with different customers. Recognizing this is how you build the discipline to adjust and remove friction."
-    },
-    {
-      "question": "Based on the framework, if a customer suddenly gives shorter answers, breaks eye contact, and shifts their body language, what should you interpret this as?",
-      "choices": [
-        "A sign that the customer is no longer interested in your product and you should move toward closing",
-        "An early warning signal of a style mismatch that gives you time to identify and correct your approach",
-        "A normal part of the sales process and not necessarily a concern",
-        "Evidence that the customer's adjacent style is showing and you need to wait for their primary style to return"
-      ],
-      "answer": 1,
-      "slide": 22,
-      "feedback_correct": "Sudden drops in engagement are early warning signs—catching them means you can still shift and recover rapport before trust is seriously damaged.",
-      "feedback_incorrect": "A drop in engagement is not just background noise in a meeting—it is a signal that something in your approach has created distance. The earlier you catch it, the easier it is to recover."
-    },
-    {
-      "question": "What is the most important practical takeaway the course offers for using the Social Style framework in your next sales call?",
-      "choices": [
-        "Perfect your presentation deck so it appeals to all four styles equally",
-        "Identify the customer's style before you pitch, listen for their signature question, and adjust your approach accordingly",
-        "Learn to recognize pressure behaviors so you can end the call gracefully if the customer becomes difficult",
-        "Know your own style so well that you can predict exactly how the customer will react to everything you say"
-      ],
-      "answer": 1,
-      "slide": 26,
-      "feedback_correct": "This is the operational core of the framework—read, name, adjust—applied in real time in your next conversation.",
-      "feedback_incorrect": "The framework is built for action, not perfection. The next step is to observe in the first few minutes, identify the style, and make one deliberate adjustment before you pitch."
+      "feedback_correct": "Exactly—your own style is part of the equation. What works naturally for you might shut down a customer with a different style, so conscious awareness and adjustment are the key to versatility.",
+      "feedback_incorrect": "Your own style absolutely affects how your approach lands with different customers. A Driver's direct, fast-paced approach works great with other Drivers but can alienate an Amiable. Review Slide 19 to understand why self-awareness is step one in developing versatility."
     }
   ]
 }
