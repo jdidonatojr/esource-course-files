@@ -631,38 +631,34 @@
     ]
   },
   "20": {
-    "id": "what_if_you_could_read_any_buyer_in_the_first_five_minutes_iqvia_v2",
-    "title": "What If You Could Read Any Buyer in the First Five Minutes IQVIA   V2",
+    "id": "what_if_you_could_read_any_customer_in_the_first_five_minutes",
+    "title": "What If You Could Read Any Customer in the First Five Minutes?",
     "totalSlides": 26,
-    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/20-What-If-You-Could-Read-Any-Buyer-in-the-First-Five-Minutes-IQVIA-V2.pdf",
-    "firstMessage": "Welcome to What If You Could Read Any Buyer in the First Five Minutes IQVIA   V2. Are you ready to begin?",
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/20-What-If-You-Could-Read-Any-Customer-in-the-First-Five-Minutes.pdf",
+    "firstMessage": "Welcome to What If You Could Read Any Customer in the First Five Minutes?. Are you ready to begin?",
     "sections": [
       {
-        "label": "Introduction and Promise (slides 1-4)",
+        "label": "Introduction and Foundation (slides 1-5)",
         "startSlide": 1
       },
       {
-        "label": "The Two-Axis Framework (slides 5-6)",
-        "startSlide": 5
+        "label": "The Four Styles Framework (slides 6-11)",
+        "startSlide": 6
       },
       {
-        "label": "The Four Styles Defined (slides 7-11)",
-        "startSlide": 7
-      },
-      {
-        "label": "Reading Behavior in Real Time (slides 12-14)",
+        "label": "Reading Pressure Behaviors (slides 12-13)",
         "startSlide": 12
       },
       {
-        "label": "Style-Specific Selling Tactics (slides 15-18)",
-        "startSlide": 15
+        "label": "Practice and Application (slides 14-20)",
+        "startSlide": 14
       },
       {
-        "label": "Adapting Your Own Approach (slides 19-24)",
-        "startSlide": 19
+        "label": "Versatility and Mastery (slides 21-24)",
+        "startSlide": 21
       },
       {
-        "label": "Closing and Resources (slides 25-26)",
+        "label": "Resources and Next Steps (slides 25-26)",
         "startSlide": 25
       }
     ]
