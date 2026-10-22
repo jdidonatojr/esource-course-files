@@ -638,27 +638,27 @@
     "firstMessage": "Welcome to What If You Could Read Any Customer in the First Five Minutes?. Are you ready to begin?",
     "sections": [
       {
-        "label": "Introduction and Foundation (slides 1-5)",
+        "label": "Introduction and Promise (slides 1-4)",
         "startSlide": 1
       },
       {
-        "label": "The Four Styles Framework (slides 6-11)",
-        "startSlide": 6
+        "label": "The Two-Axis Framework (slides 5-8)",
+        "startSlide": 5
       },
       {
-        "label": "Reading Pressure Behaviors (slides 12-13)",
-        "startSlide": 12
+        "label": "Reading the Four Styles (slides 9-13)",
+        "startSlide": 9
       },
       {
         "label": "Practice and Application (slides 14-20)",
         "startSlide": 14
       },
       {
-        "label": "Versatility and Mastery (slides 21-24)",
+        "label": "Mastering Versatility (slides 21-24)",
         "startSlide": 21
       },
       {
-        "label": "Resources and Next Steps (slides 25-26)",
+        "label": "Closing and Resources (slides 25-26)",
         "startSlide": 25
       }
     ]
