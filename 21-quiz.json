@@ -1,0 +1,139 @@
+{
+  "brand": {
+    "title": "IQVIA (Production)",
+    "subtitle": "Knowledge Check — IQVIA Predictive Clinical Development Messaging",
+    "color": "#1a73e8"
+  },
+  "questions": [
+    {
+      "question": "According to Citeline Pharmapremia and the IQVIA Institute's February 2026 report, what was the change in composite median R&D program duration between 2016 and 2025?",
+      "choices": [
+        "Decreased from 10 years to 8 years",
+        "Increased from 8 years to 10 years",
+        "Remained constant at 9 years",
+        "Increased from 6 years to 12 years"
+      ],
+      "answer": 1,
+      "slide": 2,
+      "feedback_correct": "Exactly right—this is the published data that anchors the entire burning platform for the conversation.",
+      "feedback_incorrect": "The data shows growth in duration, not decline or stagnation. The specific numbers are 8 years in 2016 and 10 years in 2025, sourced from Citeline Pharmapremia and the IQVIA Institute."
+    },
+    {
+      "question": "What is the correct way to state IQVIA's headline claim about Predictive Clinical Development?",
+      "choices": [
+        "IQVIA Predictive Clinical Development guarantees two years off a 10-year program",
+        "IQVIA Predictive Clinical Development can deliver up to two years off a 10-year program, with actual timelines varying based on program-specific factors",
+        "IQVIA Predictive Clinical Development typically saves one to three years off any program",
+        "IQVIA Predictive Clinical Development delivers two years off a program for every sponsor"
+      ],
+      "answer": 1,
+      "slide": 4,
+      "feedback_correct": "You have the exact language needed—including the qualifier that makes it accurate and ethical.",
+      "feedback_incorrect": "The claim must include the qualifier about actual timelines varying. Guarantees, absolutes, and one-size-fits-all language overstates the offer and creates unrealistic expectations."
+    },
+    {
+      "question": "What is the incremental revenue opportunity when a product generates $750M in annual sales and launch is pulled forward by two years?",
+      "choices": [
+        "$750 million",
+        "$1 billion",
+        "$1.5 billion",
+        "$2 billion"
+      ],
+      "answer": 2,
+      "slide": 3,
+      "feedback_correct": "That's correct—two additional protected years at $750M annually equals $1.5B in incremental opportunity.",
+      "feedback_incorrect": "The value math multiplies annual sales by the number of years gained. Two years of protected revenue at $750M/year equals $1.5B, not the other values shown."
+    },
+    {
+      "question": "How many weeks does the Early Engagement phase typically run, and what are the four main deliverables?",
+      "choices": [
+        "8 weeks; feasibility view, site selection plan, KOL engagement plan, and risk log",
+        "11 to 12 weeks; feasibility view, endpoint tradeoff matrix, country scenario models, and risk register",
+        "6 weeks; protocol optimization, regulatory pathway, operational strategy, and data flow design",
+        "16 weeks; database design, lab readiness, site contract finalization, and SDTM creation"
+      ],
+      "answer": 1,
+      "slide": 7,
+      "feedback_correct": "You have the exact framework—11 to 12 weeks with those four deliverables is what sponsors walk away with and can present internally.",
+      "feedback_incorrect": "Early Engagement is specifically 11 to 12 weeks and produces feasibility view, endpoint tradeoff matrix, country scenario models, and risk register. These are the outputs you should describe without looking at notes."
+    },
+    {
+      "question": "What percentage faster is site selection under IQVIA's Predictive Clinical Development approach?",
+      "choices": [
+        "18% faster",
+        "25% faster",
+        "37% faster",
+        "52% faster"
+      ],
+      "answer": 2,
+      "slide": 10,
+      "feedback_correct": "Exactly—37 percent faster means 6 weeks versus 10 weeks, and this is one of the key Start-Up metrics you should know cold.",
+      "feedback_incorrect": "Site selection is 37% faster (6 weeks vs. 10 weeks). The other percentages apply to different metrics: 18% for contract negotiation, 25% for ICF adaptations, and >25% for lab readiness."
+    },
+    {
+      "question": "Which three tools are currently live as part of IQVIA's AI roadmap for Predictive Clinical Development?",
+      "choices": [
+        "Protocol Optimizer, Patient Finder, and Regulatory Accelerator",
+        "Enrollment Analyzer, Risk Dashboard, and Study Designer",
+        "Protocol Analyzer, Enrollment Optimizer, and Regulatory Intelligence Assistant",
+        "Site Matcher, Data Cleaner, and Submission Prep Assistant"
+      ],
+      "answer": 2,
+      "slide": 14,
+      "feedback_correct": "Correct—these three live tools demonstrate continuous AI investment and are what you reference to show forward momentum.",
+      "feedback_incorrect": "The three live tools are Protocol Analyzer, Enrollment Optimizer, and Regulatory Intelligence Assistant. Tools still in development should never be sold as current deliverables, so knowing which are live now is essential."
+    },
+    {
+      "question": "What are the six requirements that a sponsor must meet to achieve the accelerated timeline outcomes claimed by Predictive Clinical Development?",
+      "choices": [
+        "Have a Phase 2 program underway, use IQVIA exclusively for all operations, commit to paper-based protocols, have dedicated internal staff, use only IQVIA's CRO partners, and enroll at least 500 patients",
+        "Engage IQVIA at pre-IND or IND stage including protocol concept, deploy full-service outsourcing with IQVIA processes, adopt protocol optimization and regulatory strategies, collaboratively iterate on design, maintain shared governance, and meet data governance requirements",
+        "Use IQVIA for enrollment only, have existing regulatory relationships, employ IQVIA data scientists, commit to 18-month timelines, use IQVIA's lab partners exclusively, and publish results in peer-reviewed journals",
+        "Launch Early Engagement within 30 days, transition to full outsourcing immediately, replace all internal staff with IQVIA personnel, commit publicly to two-year timelines, and fund IQVIA operations exclusively"
+      ],
+      "answer": 1,
+      "slide": 17,
+      "feedback_correct": "You have all six—this is the qualifying framework that determines whether the accelerated outcomes are actually achievable.",
+      "feedback_incorrect": "The six requirements center on engagement timing, business model, adoption of IQVIA methods, collaborative iteration, shared governance, and data requirements. If a sponsor cannot meet these, you should not represent the accelerated timelines as achievable."
+    },
+    {
+      "question": "According to the course, what is the correct response when a sponsor says 'We have already started our clinical program—can you still help?'",
+      "choices": [
+        "Apologize and explain that early engagement is required for all timeline benefits",
+        "Immediately pivot to selling a Conduct-phase engagement at reduced scope",
+        "Assess which phase they are in and evaluate whether the six requirements can still be met, noting that Early Engagement is clearest but Start-Up and Conduct tools still add real value",
+        "Suggest they restart their program from scratch to capture full acceleration benefits"
+      ],
+      "answer": 2,
+      "slide": 18,
+      "feedback_correct": "Perfect—this response shows both honesty and problem-solving, moving from immediate qualification to real opportunity assessment.",
+      "feedback_incorrect": "The course teaches not to retreat when a program is already underway, but to assess realistically. Depending on their phase and ability to meet requirements, tools at Start-Up and Conduct stages still deliver meaningful value even if they did not engage at pre-IND."
+    },
+    {
+      "question": "In the recommended conversational sequence for a Predictive Clinical Development pitch, what is the correct order of the four main moves?",
+      "choices": [
+        "Solution headline, burning platform, revenue math, Early Engagement close",
+        "Revenue math, Early Engagement close, burning platform, solution headline",
+        "Burning platform, revenue math, solution headline with qualifier, phase-specific anchor, qualification of readiness, Early Engagement as immediate close",
+        "Early Engagement close, solution headline, burning platform, revenue math follow-up"
+      ],
+      "answer": 2,
+      "slide": 21,
+      "feedback_correct": "Exactly—this sequence builds credibility from objective data through financial impact to concrete next steps, and it is the architecture of every successful pitch.",
+      "feedback_incorrect": "The sequence matters because it moves from the external burning platform through the sponsor's financial value to your solution and a specific yes/no close. Starting with revenue math or the close reverses the persuasive order."
+    },
+    {
+      "question": "What is the difference between how Predictive Clinical Development messaging should differ between an Emerging Biopharma VP of Development and a Large Pharma Head of Portfolio Operations?",
+      "choices": [
+        "Both receive identical messaging because the solution is the same for all sponsors",
+        "Emerging Biopharma focuses on speed to proof of concept and reducing investor risk; Large Pharma focuses on portfolio performance at scale, de-risking before delays, and supplementing without replacing in-house capabilities",
+        "Large Pharma wants faster timelines but Emerging Biopharma prioritizes cost reduction exclusively",
+        "Emerging Biopharma requires a full outsourcing commitment while Large Pharma only needs advisory services"
+      ],
+      "answer": 1,
+      "slide": 16,
+      "feedback_correct": "Right—the solution is constant but the conversation adapts to each persona's actual business drivers and organizational dynamics.",
+      "feedback_incorrect": "The solution itself does not change, but the messaging frame must reflect each sponsor type's distinct priorities. Emerging Biopharma cares about speed and investor confidence; Large Pharma cares about portfolio impact and integration with existing capabilities."
+    }
+  ]
+}
