@@ -666,5 +666,46 @@
         "startSlide": 25
       }
     ]
+  },
+  "21": {
+    "id": "iqvia_predictive_clinical_development_messaging",
+    "title": "IQVIA Predictive Clinical Development Messaging",
+    "totalSlides": 27,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-course-files/main/21-IQVIA-Predictive-Clinical-Development-Messaging.pdf",
+    "firstMessage": "Welcome to IQVIA Predictive Clinical Development Messaging. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Opening and Burning Platform (slides 1-3)",
+        "startSlide": 1
+      },
+      {
+        "label": "The Value Proposition (slides 4-5)",
+        "startSlide": 4
+      },
+      {
+        "label": "Solution Architecture (slides 6-13)",
+        "startSlide": 6
+      },
+      {
+        "label": "AI Roadmap and Capabilities (slides 14-15)",
+        "startSlide": 14
+      },
+      {
+        "label": "Sponsor Personas and Qualification (slides 16-17)",
+        "startSlide": 16
+      },
+      {
+        "label": "Handling Objections and Proof Points (slides 18-19)",
+        "startSlide": 18
+      },
+      {
+        "label": "Pitch Practice and Execution (slides 20-25)",
+        "startSlide": 20
+      },
+      {
+        "label": "Closing and Next Steps (slides 26-27)",
+        "startSlide": 26
+      }
+    ]
   }
 }
