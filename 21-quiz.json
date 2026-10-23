@@ -6,134 +6,134 @@
   },
   "questions": [
     {
-      "question": "According to the course, what was the composite median R&D program duration in 2016 and 2025?",
+      "question": "According to the course, what was the composite median R&D program duration in 2025?",
       "choices": [
-        "6 years in 2016, 8 years in 2025",
-        "8 years in 2016, 10 years in 2025",
-        "10 years in 2016, 12 years in 2025",
-        "7 years in 2016, 9 years in 2025"
+        "8 years",
+        "10 years",
+        "12 years",
+        "6 years"
       ],
       "answer": 1,
       "slide": 2,
-      "feedback_correct": "Exactly right—this key data point from Citeline Pharmapremia and the IQVIA Institute is the foundation of the burning platform.",
-      "feedback_incorrect": "The slide shows R&D duration grew from 8 years to 10 years over that period. This is published benchmark data you can cite by name in sponsor meetings."
+      "feedback_correct": "Correct—the course cites Citeline Pharmapremia and the IQVIA Institute's February 2026 report showing growth from 8 years in 2016 to 10 years in 2025.",
+      "feedback_incorrect": "The data comes from the February 2026 report, which shows the 2025 composite median had grown to 10 years. This is the burning platform that grounds the entire value proposition."
     },
     {
-      "question": "How long is the Early Engagement framework designed to run?",
+      "question": "What is the maximum timeline acceleration IQVIA Predictive Clinical Development can deliver on a 10-year program?",
       "choices": [
-        "6 to 8 weeks",
-        "8 to 10 weeks",
-        "11 to 12 weeks",
-        "14 to 16 weeks"
-      ],
-      "answer": 2,
-      "slide": 7,
-      "feedback_correct": "Correct—the 11-to-12-week Early Engagement framework is your entry point and the close of the first conversation.",
-      "feedback_incorrect": "Early Engagement runs for 11 to 12 weeks and produces four concrete artifacts: feasibility view, endpoint tradeoff matrix, country scenario models, and a risk register."
-    },
-    {
-      "question": "What is the correct way to state IQVIA's primary timeline acceleration claim?",
-      "choices": [
-        "IQVIA Predictive Clinical Development guarantees two years off any 10-year program",
-        "IQVIA Predictive Clinical Development can deliver up to two years off a 10-year program, with actual timelines varying based on program-specific factors and adoption of IQVIA-recommended approaches",
-        "IQVIA Predictive Clinical Development typically saves one to two years",
-        "IQVIA Predictive Clinical Development delivers two years off a program on average"
+        "Up to one year",
+        "Up to two years",
+        "Up to three years",
+        "Up to four years"
       ],
       "answer": 1,
       "slide": 4,
-      "feedback_correct": "Perfect—every word matters in this claim, especially the qualifier and the conditions that make the outcome achievable.",
-      "feedback_incorrect": "The headline claim requires three essential elements: 'up to two years' (not guaranteed), program-specific factor variation, and adoption of IQVIA-recommended delivery approaches. Overstating this creates expectations IQVIA cannot meet."
+      "feedback_correct": "Exactly right—the headline claim is 'up to two years,' and this qualifier is essential to how you present it accurately in any sponsor meeting.",
+      "feedback_incorrect": "The course emphasizes the precise language: 'up to two years,' not guaranteed or minimum. Every word in that sentence matters when you present it to sponsors."
     },
     {
-      "question": "Which of the following is NOT one of the four concrete deliverables a sponsor walks away with after Early Engagement?",
+      "question": "How many weeks does the Early Engagement framework typically run?",
       "choices": [
-        "Feasibility view and endpoint tradeoff matrix",
-        "Country scenario models and risk register",
-        "Full Clinical Study Report draft",
-        "Shared decision log"
+        "8 to 9 weeks",
+        "11 to 12 weeks",
+        "15 to 16 weeks",
+        "20 to 24 weeks"
+      ],
+      "answer": 1,
+      "slide": 7,
+      "feedback_correct": "Correct—Early Engagement is structured as an 11-to-12-week engagement that produces four concrete artifacts the sponsor walks away with.",
+      "feedback_incorrect": "Early Engagement is designed as a time-bounded 11-to-12-week engagement, not longer. This specificity is what makes it work as a concrete close in a first conversation."
+    },
+    {
+      "question": "Which of the following is NOT one of the four concrete artifacts a sponsor receives from Early Engagement?",
+      "choices": [
+        "Feasibility view",
+        "Endpoint tradeoff matrix",
+        "Clinical Study Report",
+        "Risk register"
       ],
       "answer": 2,
-      "slide": 22,
-      "feedback_correct": "Right—the five actual deliverables are feasibility view, endpoint tradeoff matrix, country scenario models, risk register, and shared decision log. The CSR comes much later in Close Out.",
-      "feedback_incorrect": "Early Engagement produces five specific artifacts you should be able to describe without looking at anything. The Clinical Study Report is a Close Out deliverable, not an Early Engagement output."
+      "slide": 7,
+      "feedback_correct": "Right—the four Early Engagement deliverables are feasibility view, endpoint tradeoff matrix, country scenario models, and risk register; the Clinical Study Report comes much later.",
+      "feedback_incorrect": "The Clinical Study Report is a late-stage deliverable that comes after database lock. Early Engagement produces four specific artifacts that are ready within 11-12 weeks."
     },
     {
-      "question": "What percentage faster is site contract negotiation and finalization under IQVIA's accelerated approach?",
+      "question": "What percentage faster is site contract negotiation and finalization under IQVIA's optimized approach?",
       "choices": [
         "18 percent faster",
         "25 percent faster",
         "37 percent faster",
-        "33 percent faster"
+        "18 percent faster"
       ],
       "answer": 0,
       "slide": 10,
-      "feedback_correct": "Exactly—site contract negotiation is 18 percent faster (9 weeks versus 11 weeks), and you should always apply the qualifier that these figures are feasible under defined assumptions.",
-      "feedback_incorrect": "The metrics vary by activity: optimized site selection is 37% faster, country ICF adaptations are 25% faster, lab readiness is greater than 25% faster, and site contract negotiation is specifically 18% faster."
+      "feedback_correct": "Correct—site contract negotiation is 18 percent faster (9 weeks versus 11 weeks), and you should cite 'all figures are feasible under assumptions defined in the accelerated offerings' when mentioning these metrics.",
+      "feedback_incorrect": "Site contract negotiation is 18 percent faster (reducing from 11 weeks to 9 weeks). Remember to apply the qualifier about feasible assumptions whenever you cite these specific metrics in a sponsor conversation."
     },
     {
-      "question": "According to the course, what does the data ecosystem enable in terms of database lock timing?",
+      "question": "According to the course, what is the typical consequence when a sponsor cannot meet the six qualification requirements?",
       "choices": [
-        "Database lock within 30 days",
-        "Database lock under 14 days",
-        "Database lock within 21 days",
-        "Database lock within 8 weeks"
-      ],
-      "answer": 1,
-      "slide": 12,
-      "feedback_correct": "Correct—database lock under 14 days is driven by 81% faster data entry at sites and greater than 50% faster data cleaning.",
-      "feedback_incorrect": "The Close Out phase achieves database lock under 14 days through the data ecosystem's continuous real-time data cleaning and automated issue generation. This is a concrete operational outcome you can cite."
-    },
-    {
-      "question": "What are the six requirements you must verify before representing the accelerated timeline outcomes to a sponsor?",
-      "choices": [
-        "Only the sponsor's willingness to pay and budget approval are needed",
-        "Early engagement timing, full-service outsourcing model, protocol optimization, regulatory strategy adoption, collaborative implementation, and ongoing governance",
-        "The sponsor only needs to have an approved protocol and IND status",
-        "Budget approval, existing vendor relationships, and internal biostatistics capability"
+        "The timeline should still be guaranteed",
+        "The accelerated timeline outcomes are not achievable and should not be represented as if they are",
+        "The solution should be sold anyway with disclaimers",
+        "Early Engagement should be expanded to 16 weeks"
       ],
       "answer": 1,
       "slide": 17,
-      "feedback_correct": "Exactly right—these six requirements ensure the sponsor can actually achieve the outcomes, and skipping this qualification is both a commercial and ethical risk.",
-      "feedback_incorrect": "If a sponsor cannot meet all six requirements—including engaging at the pre-IND stage, deploying full-service outsourcing, adopting IQVIA processes and technology, collaborative implementation, and ongoing governance alignment—you should not represent the timeline outcomes as achievable."
+      "feedback_correct": "Exactly right—qualifying sponsor readiness is both a commercial and ethical responsibility; if the six requirements cannot be met, the accelerated outcomes are not achievable.",
+      "feedback_incorrect": "Sponsor readiness qualification is not just a process step—it is an ethical boundary that protects both the sponsor and IQVIA's credibility. If the requirements cannot be met, the timeline claims are not defensible."
     },
     {
-      "question": "How should you respond if a sponsor says 'We have already started our trial—can you still help?' based on the course framework?",
+      "question": "In a sponsor conversation about enrollment delays, which proof points should you prioritize selecting?",
       "choices": [
-        "Tell them it is too late and IQVIA cannot add value once trials are underway",
-        "Immediately offer the full two-year acceleration promise regardless of phase",
-        "Assess which phase they are in and determine if the six requirements can still be met; recognize that some tools still add real value even if the program is already moving",
-        "Insist they start over with IQVIA at protocol stage or nothing can be done"
-      ],
-      "answer": 2,
-      "slide": 18,
-      "feedback_correct": "Perfect—this is the right response framework for a realistic objection that comes up in nearly every conversation.",
-      "feedback_incorrect": "The course teaches you to assess, not retreat. Which phase are they in? Can the six requirements still be met from here? Early Engagement is the clearest on-ramp, but start-up and conduct-phase tools still add real value even if the program is already moving."
-    },
-    {
-      "question": "When presenting proof points to a sponsor, what discipline does the course emphasize?",
-      "choices": [
-        "Lead with all available proof points to show the breadth of IQVIA's capabilities",
-        "Use only AI-related proof points since those differentiate IQVIA most clearly",
-        "Select two or three proof points that match the sponsor's specific pain, not all of them",
-        "Always open with site satisfaction metrics since those are most credible"
-      ],
-      "answer": 2,
-      "slide": 19,
-      "feedback_correct": "Exactly right—strategic selection based on sponsor pain is more powerful than overwhelming them with every metric you have.",
-      "feedback_incorrect": "You have strong proof points available (95% of sites would work with IQVIA again, 53% reduction in screen failures, 35% faster CSR narratives, etc.), but the discipline is in the selection, not the volume. A sponsor worried about enrollment needs different proof points than one focused on regulatory submission timelines."
-    },
-    {
-      "question": "In a first conversation with a Large Pharma Head of Portfolio Operations, what message frame should you emphasize compared to an Emerging Biopharma VP of Development?",
-      "choices": [
-        "Emphasize speed to proof of concept and investor risk reduction for both personas",
-        "Emphasize portfolio performance at scale, de-risking before delays, improving global consistency, and supplementing in-house capabilities without replacing them",
-        "Emphasize capability replacement and reduction of internal staff needs",
-        "Use the exact same message regardless of sponsor type since the solution is identical"
+        "All available proof points to show comprehensive capability",
+        "Two or three proof points that specifically match their enrollment pain",
+        "Only the AI tools in development",
+        "Only the database lock metric"
       ],
       "answer": 1,
-      "slide": 16,
-      "feedback_correct": "Correct—while the solution is the same, the conversation shifts dramatically based on sponsor type and what matters most to their business.",
-      "feedback_incorrect": "For Large and Mid Pharma, the message centers on portfolio performance at scale, de-risking before delays occur, and supplementing (not replacing) in-house capabilities. For Emerging Biopharma, the focus is on speed to proof of concept and reducing investor and governance risk. Persona alignment is essential to credibility."
+      "slide": 19,
+      "feedback_correct": "Perfect—the discipline is in selecting two or three proof points that match the sponsor's specific pain, not leading with all of them at once.",
+      "feedback_incorrect": "The course emphasizes selective proof-pointing; a sponsor worried about enrollment delays needs enrollment-specific proof points like first participant screened 18% faster or screen failure reduction, not generic metrics."
+    },
+    {
+      "question": "According to the conversational sequence taught in this course, what is the second element after opening with the burning platform?",
+      "choices": [
+        "Introduce the solution at headline level",
+        "Pivot to the revenue math",
+        "Anchor to the relevant phase",
+        "Qualify sponsor readiness"
+      ],
+      "answer": 1,
+      "slide": 21,
+      "feedback_correct": "Correct—the sequence is: burning platform, then pivot to revenue math (development time becomes commercial time and what two years is worth), then introduce the solution.",
+      "feedback_incorrect": "The revenue math pivot comes second, before the solution introduction. This order is intentional—you establish the problem and the value before presenting the mechanism for solving it."
+    },
+    {
+      "question": "Which statement correctly reflects what IQVIA is claiming versus what it is NOT claiming about Predictive Clinical Development?",
+      "choices": [
+        "IQVIA guarantees two years will be saved on every program",
+        "IQVIA can replace sponsor in-house capabilities, especially for Large Pharma",
+        "Up to two years is possible based on analyses and adoption of recommended approaches, but it is not guaranteed and the solution supplements rather than replaces in-house teams",
+        "AI tools in development can be sold as current capabilities if the sponsor asks"
+      ],
+      "answer": 2,
+      "slide": 23,
+      "feedback_correct": "Perfect—you've identified the three critical boundaries: not a guarantee, not a replacement (especially for Large Pharma), and in-development tools are never sold as current deliverables.",
+      "feedback_incorrect": "The course establishes firm boundaries: the solution uses qualifiers ('up to two years'), supplements in-house capabilities rather than replacing them, and never sells in-development tools as current. Staying inside these boundaries protects both credibility and the relationship."
+    },
+    {
+      "question": "In the capstone 90-second pitch, on what three dimensions does your voice instructor provide feedback?",
+      "choices": [
+        "Speed of delivery, volume of metrics cited, and competitor comparison",
+        "Accuracy of headline claim and disclaimer, correct persona identification and tailoring, and Early Engagement as concrete next step",
+        "Slide recall, memorization of all four phases, and revenue math calculation",
+        "Cost justification, technology features, and site network size"
+      ],
+      "answer": 1,
+      "slide": 25,
+      "feedback_correct": "Exactly right—your instructor evaluates the accuracy of your headline claim and disclaimer, whether you correctly identified and tailored to the sponsor persona, and whether Early Engagement is presented as the concrete next step.",
+      "feedback_incorrect": "The three evaluation dimensions focus on accuracy (disclaimer included), persona fit (tailoring to their context), and a specific next step (Early Engagement), not on general recall or feature volume."
     }
   ]
 }
